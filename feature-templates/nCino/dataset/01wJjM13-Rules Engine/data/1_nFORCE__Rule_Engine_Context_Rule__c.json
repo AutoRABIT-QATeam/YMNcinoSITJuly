@@ -1,0 +1,85 @@
+{
+  "name": "1_nFORCE__Rule_Engine_Context_Rule__c",
+  "attributes": [
+    "Id",
+    "IsDeleted",
+    "Name",
+    "nFORCE__Rule_Engine_Context__c",
+    "nFORCE__Description__c",
+    "nFORCE__lookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a31bn000000i1A5AAI",
+      "IsDeleted": "",
+      "Name": "DuplicateContentVersion",
+      "nFORCE__Description__c": "",
+      "nFORCE__Rule_Engine_Context__c": "a32bn000000i7qbAAA",
+      "nFORCE__lookupKey__c": "asdadsfdfsfdsfds1"
+    },
+    "2": {
+      "Id": "a31bn000000i1A5AAI",
+      "IsDeleted": "",
+      "Name": "DuplicateContentVersion",
+      "nFORCE__Description__c": "",
+      "nFORCE__Rule_Engine_Context__c": "a32bn000000i7qbAAA",
+      "nFORCE__lookupKey__c": "asdadsfdfsfdsfds1"
+    },
+    "3": {
+      "Id": "a31bn000000i1A5AAI",
+      "IsDeleted": "",
+      "Name": "DuplicateContentVersion",
+      "nFORCE__Description__c": "",
+      "nFORCE__Rule_Engine_Context__c": "a32bn000000i7qbAAA",
+      "nFORCE__lookupKey__c": "asdadsfdfsfdsfds1"
+    },
+    "4": {
+      "Id": "a31bn000000i1A5AAI",
+      "IsDeleted": "",
+      "Name": "DuplicateContentVersion",
+      "nFORCE__Description__c": "",
+      "nFORCE__Rule_Engine_Context__c": "a32bn000000i7qbAAA",
+      "nFORCE__lookupKey__c": "asdadsfdfsfdsfds1"
+    },
+    "5": {
+      "Id": "a31bn000000i1A5AAI",
+      "IsDeleted": "",
+      "Name": "DuplicateContentVersion",
+      "nFORCE__Description__c": "",
+      "nFORCE__Rule_Engine_Context__c": "a32bn000000i7qbAAA",
+      "nFORCE__lookupKey__c": "asdadsfdfsfdsfds1"
+    },
+    "6": {
+      "Id": "a31bn000000i1A5AAI",
+      "IsDeleted": "",
+      "Name": "DuplicateContentVersion",
+      "nFORCE__Description__c": "",
+      "nFORCE__Rule_Engine_Context__c": "a32bn000000i7qbAAA",
+      "nFORCE__lookupKey__c": "asdadsfdfsfdsfds1"
+    },
+    "7": {
+      "Id": "a31bn000000i1A5AAI",
+      "IsDeleted": "",
+      "Name": "DuplicateContentVersion",
+      "nFORCE__Description__c": "",
+      "nFORCE__Rule_Engine_Context__c": "a32bn000000i7qbAAA",
+      "nFORCE__lookupKey__c": "asdadsfdfsfdsfds1"
+    },
+    "8": {
+      "Id": "a31bn000000i1A5AAI",
+      "IsDeleted": "",
+      "Name": "DuplicateContentVersion",
+      "nFORCE__Description__c": "",
+      "nFORCE__Rule_Engine_Context__c": "a32bn000000i7qbAAA",
+      "nFORCE__lookupKey__c": "asdadsfdfsfdsfds1"
+    },
+    "9": {
+      "Id": "a31bn000000i1A5AAI",
+      "IsDeleted": "",
+      "Name": "DuplicateContentVersion",
+      "nFORCE__Description__c": "",
+      "nFORCE__Rule_Engine_Context__c": "a32bn000000i7qbAAA",
+      "nFORCE__lookupKey__c": "asdadsfdfsfdsfds1"
+    }
+  }
+}
