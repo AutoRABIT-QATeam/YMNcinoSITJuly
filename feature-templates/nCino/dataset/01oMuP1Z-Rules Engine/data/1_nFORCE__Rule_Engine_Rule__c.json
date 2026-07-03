@@ -1,0 +1,89 @@
+{
+  "name": "1_nFORCE__Rule_Engine_Rule__c",
+  "attributes": [
+    "Id",
+    "IsDeleted",
+    "Name",
+    "nFORCE__Rule_Engine_Context_Rule__c",
+    "nFORCE__Active__c",
+    "nFORCE__Description__c",
+    "nFORCE__End_Date__c",
+    "nFORCE__Rule_Engine_Rule_Name__c",
+    "nFORCE__Rule_Engine_Rule_Reference__c",
+    "nFORCE__Rule_Engine__c",
+    "nFORCE__Start_Date__c",
+    "nFORCE__lookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a33bn000000asczAAA",
+      "IsDeleted": "",
+      "Name": "RER00040",
+      "nFORCE__Active__c": "",
+      "nFORCE__Description__c": "",
+      "nFORCE__End_Date__c": "2042-01-01",
+      "nFORCE__Rule_Engine_Context_Rule__c": "a31bn000000i1AAAAY",
+      "nFORCE__Rule_Engine_Rule_Name__c": "Initial_Loan_Auto_Decision",
+      "nFORCE__Rule_Engine_Rule_Reference__c": "3005f000001YRNcAAO",
+      "nFORCE__Rule_Engine__c": "nFORCE.FlowRuleEngine:rule-engine",
+      "nFORCE__Start_Date__c": "2022-01-01",
+      "nFORCE__lookupKey__c": "def456"
+    },
+    "2": {
+      "Id": "a33bn000000asczAAA",
+      "IsDeleted": "",
+      "Name": "RER00040",
+      "nFORCE__Active__c": "",
+      "nFORCE__Description__c": "",
+      "nFORCE__End_Date__c": "2042-01-01",
+      "nFORCE__Rule_Engine_Context_Rule__c": "a31bn000000i1AAAAY",
+      "nFORCE__Rule_Engine_Rule_Name__c": "Initial_Loan_Auto_Decision",
+      "nFORCE__Rule_Engine_Rule_Reference__c": "3005f000001YRNcAAO",
+      "nFORCE__Rule_Engine__c": "nFORCE.FlowRuleEngine:rule-engine",
+      "nFORCE__Start_Date__c": "2022-01-01",
+      "nFORCE__lookupKey__c": "def456"
+    },
+    "3": {
+      "Id": "a33bn000000asczAAA",
+      "IsDeleted": "",
+      "Name": "RER00040",
+      "nFORCE__Active__c": "",
+      "nFORCE__Description__c": "",
+      "nFORCE__End_Date__c": "2042-01-01",
+      "nFORCE__Rule_Engine_Context_Rule__c": "a31bn000000i1AAAAY",
+      "nFORCE__Rule_Engine_Rule_Name__c": "Initial_Loan_Auto_Decision",
+      "nFORCE__Rule_Engine_Rule_Reference__c": "3005f000001YRNcAAO",
+      "nFORCE__Rule_Engine__c": "nFORCE.FlowRuleEngine:rule-engine",
+      "nFORCE__Start_Date__c": "2022-01-01",
+      "nFORCE__lookupKey__c": "def456"
+    },
+    "4": {
+      "Id": "a33bn000000asczAAA",
+      "IsDeleted": "",
+      "Name": "RER00040",
+      "nFORCE__Active__c": "",
+      "nFORCE__Description__c": "",
+      "nFORCE__End_Date__c": "2042-01-01",
+      "nFORCE__Rule_Engine_Context_Rule__c": "a31bn000000i1AAAAY",
+      "nFORCE__Rule_Engine_Rule_Name__c": "Initial_Loan_Auto_Decision",
+      "nFORCE__Rule_Engine_Rule_Reference__c": "3005f000001YRNcAAO",
+      "nFORCE__Rule_Engine__c": "nFORCE.FlowRuleEngine:rule-engine",
+      "nFORCE__Start_Date__c": "2022-01-01",
+      "nFORCE__lookupKey__c": "def456"
+    },
+    "5": {
+      "Id": "a33bn000000asczAAA",
+      "IsDeleted": "",
+      "Name": "RER00040",
+      "nFORCE__Active__c": "",
+      "nFORCE__Description__c": "",
+      "nFORCE__End_Date__c": "2042-01-01",
+      "nFORCE__Rule_Engine_Context_Rule__c": "a31bn000000i1AAAAY",
+      "nFORCE__Rule_Engine_Rule_Name__c": "Initial_Loan_Auto_Decision",
+      "nFORCE__Rule_Engine_Rule_Reference__c": "3005f000001YRNcAAO",
+      "nFORCE__Rule_Engine__c": "nFORCE.FlowRuleEngine:rule-engine",
+      "nFORCE__Start_Date__c": "2022-01-01",
+      "nFORCE__lookupKey__c": "def456"
+    }
+  }
+}
