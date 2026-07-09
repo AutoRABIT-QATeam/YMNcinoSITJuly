@@ -1,0 +1,309 @@
+{
+  "name": "1_nFORCE__Rule_Engine_Context__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "nFORCE__Description__c",
+    "nFORCE__lookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a0oWD00000EBgSdYAL",
+      "IsDeleted": "false",
+      "Name": "DocMan",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "",
+      "nFORCE__lookupKey__c": "132h4hk5123498yhfoin"
+    },
+    "2": {
+      "Id": "a0oWD00000EBgSBYA1",
+      "IsDeleted": "false",
+      "Name": "Loan Decisioning",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "The Loan Decisioning context is used to group flows that pertain to decisions being made on a loan",
+      "nFORCE__lookupKey__c": "42036220080364727"
+    },
+    "3": {
+      "Id": "a0oWD00000EBgSCYA1",
+      "IsDeleted": "false",
+      "Name": "Retrieve Pricing Options",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "Create the pricing option(s) based on information in the Loan.",
+      "nFORCE__lookupKey__c": "42064981411428099"
+    },
+    "4": {
+      "Id": "a0oWD00000EBgScYAL",
+      "IsDeleted": "false",
+      "Name": "Pricing Options",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "The Pricing Options context contains flows related to creating and managing pricing options during the loan origination process.",
+      "nFORCE__lookupKey__c": "42089961001116585"
+    },
+    "5": {
+      "Id": "a0oWD00000EBgSYYA1",
+      "IsDeleted": "false",
+      "Name": "Contruction Loan Administration",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "The Contruction Loan Administration context is used to group flows related to CLA activities",
+      "nFORCE__lookupKey__c": "42115817145944385"
+    },
+    "6": {
+      "Id": "a0oWD00000EBgSkYAL",
+      "IsDeleted": "false",
+      "Name": "Loan Policy Exception",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "The Loan Policy Exception context is used to group flows that pertain to policy exceptions being made on a loan",
+      "nFORCE__lookupKey__c": "42188682125923658"
+    },
+    "7": {
+      "Id": "a0oWD00000EBgSDYA1",
+      "IsDeleted": "false",
+      "Name": "Proposed Pricing Option",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "Create the proposed pricing option based on information in the loan.",
+      "nFORCE__lookupKey__c": "42215523819185420"
+    },
+    "8": {
+      "Id": "a0oWD00000EBgSEYA1",
+      "IsDeleted": "false",
+      "Name": "Pricing Options",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "The Pricing Options context contains flows related to creating and managing pricing options during the loan origination process.",
+      "nFORCE__lookupKey__c": "42281826358127939"
+    },
+    "9": {
+      "Id": "a0oWD00000EBgSlYAL",
+      "IsDeleted": "false",
+      "Name": "Construction Loan Administration",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "The Contruction Loan Administration context is used to group flows related to CLA activities",
+      "nFORCE__lookupKey__c": "42287488552732632"
+    },
+    "10": {
+      "Id": "a0oWD00000EBgSZYA1",
+      "IsDeleted": "false",
+      "Name": "Credit Request",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "The Context for Credit Request Rules",
+      "nFORCE__lookupKey__c": "42331471435935127"
+    },
+    "11": {
+      "Id": "a0oWD00000EBgSaYAL",
+      "IsDeleted": "false",
+      "Name": "Loan Policy Exception",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "The Loan Policy Exception context is used to group flows that pertain to policy exceptions being made on a loan",
+      "nFORCE__lookupKey__c": "42372261594631684"
+    },
+    "12": {
+      "Id": "a0oWD00000EBgSFYA1",
+      "IsDeleted": "false",
+      "Name": "Construction Loan Administration",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "The Contruction Loan Administration context is used to group flows related to CLA activities",
+      "nFORCE__lookupKey__c": "42434025943246173"
+    },
+    "13": {
+      "Id": "a0oWD00000EBgSgYAL",
+      "IsDeleted": "false",
+      "Name": "Loan Decisioning",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "The Loan Decisioning context is used to group flows that pertain to decisions being made on a loan",
+      "nFORCE__lookupKey__c": "42455223340738733"
+    },
+    "14": {
+      "Id": "a0oWD00000EBgSGYA1",
+      "IsDeleted": "false",
+      "Name": "Pricing Options",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "The Pricing Options context contains flows related to creating and managing pricing options during the loan origination process.",
+      "nFORCE__lookupKey__c": "42457566708738680"
+    },
+    "15": {
+      "Id": "a0oWD00000EBgSHYA1",
+      "IsDeleted": "false",
+      "Name": "Construction Loan Administration",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "The Contruction Loan Administration context is used to group flows related to CLA activities",
+      "nFORCE__lookupKey__c": "42493771740904212"
+    },
+    "16": {
+      "Id": "a0oWD00000EBgSiYAL",
+      "IsDeleted": "false",
+      "Name": "Filter Pricing Options by DTI",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "Filters the pricing options based on the current max DTI",
+      "nFORCE__lookupKey__c": "42523683381155171"
+    },
+    "17": {
+      "Id": "a0oWD00000EBgSIYA1",
+      "IsDeleted": "false",
+      "Name": "a32Hu000004edQQ",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "",
+      "nFORCE__lookupKey__c": "42708528872186975"
+    },
+    "18": {
+      "Id": "a0oWD00000EBgSeYAL",
+      "IsDeleted": "false",
+      "Name": "Retrieve Pricing Options",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "Create the pricing option(s) based on information in the Loan.",
+      "nFORCE__lookupKey__c": "42746958261630058"
+    },
+    "19": {
+      "Id": "a0oWD00000EBgSWYA1",
+      "IsDeleted": "false",
+      "Name": "Construction Loan Administration",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "The Contruction Loan Administration context is used to group flows related to CLA activities",
+      "nFORCE__lookupKey__c": "4277770875596515"
+    },
+    "20": {
+      "Id": "a0oWD00000EBgSfYAL",
+      "IsDeleted": "false",
+      "Name": "Contruction Loan Administration",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "The Contruction Loan Administration context is used to group flows related to CLA activities",
+      "nFORCE__lookupKey__c": "42826512048831054"
+    },
+    "21": {
+      "Id": "a0oWD00000EBgShYAL",
+      "IsDeleted": "false",
+      "Name": "Credit Request",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "The Context for Credit Request Rules",
+      "nFORCE__lookupKey__c": "42849460327380551"
+    },
+    "22": {
+      "Id": "a0oWD00000EBgSXYA1",
+      "IsDeleted": "false",
+      "Name": "Pricing Options",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "The Pricing Options context contains flows related to creating and managing pricing options during the loan origination process.",
+      "nFORCE__lookupKey__c": "42887688779647590"
+    },
+    "23": {
+      "Id": "a0oWD00000EBgSJYA1",
+      "IsDeleted": "false",
+      "Name": "Filter Pricing Options by DTI",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "Filters the pricing options based on the current max DTI",
+      "nFORCE__lookupKey__c": "42932704164636551"
+    },
+    "24": {
+      "Id": "a0oWD00000EBgSjYAL",
+      "IsDeleted": "false",
+      "Name": "Proposed Pricing Option",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "Create the proposed pricing option based on information in the loan.",
+      "nFORCE__lookupKey__c": "42938486352320978"
+    },
+    "25": {
+      "Id": "a0oWD00000EBgSKYA1",
+      "IsDeleted": "false",
+      "Name": "Lightning-Record-002-Context",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "Lightning-Record-002-Context",
+      "nFORCE__lookupKey__c": "5190845620965"
+    },
+    "26": {
+      "Id": "a0oWD00000EBgSLYA1",
+      "IsDeleted": "false",
+      "Name": "Lightning-Record-001-Context",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "Lightning-Record-001-Context",
+      "nFORCE__lookupKey__c": "98712564123"
+    },
+    "27": {
+      "Id": "a0oWD00000EBgSMYA1",
+      "IsDeleted": "false",
+      "Name": "Loan Decisioning",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "The Loan Decisioning context is used to group flows that pertain to decisions being made on a loan",
+      "nFORCE__lookupKey__c": "a328c000002sgLpAAI"
+    },
+    "28": {
+      "Id": "a0oWD00000EBgSNYA1",
+      "IsDeleted": "false",
+      "Name": "DocMan",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "",
+      "nFORCE__lookupKey__c": "a328c000002sgLqAAI"
+    },
+    "29": {
+      "Id": "a0oWD00000EBgSOYA1",
+      "IsDeleted": "false",
+      "Name": "Retrieve Pricing Options",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "Create the pricing option(s) based on information in the Loan.",
+      "nFORCE__lookupKey__c": "a328c000002sgLrAAI"
+    },
+    "30": {
+      "Id": "a0oWD00000EBgSPYA1",
+      "IsDeleted": "false",
+      "Name": "Filter Pricing Options by DTI",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "Filters the pricing options based on the current max DTI",
+      "nFORCE__lookupKey__c": "a328c000002sgLsAAI"
+    },
+    "31": {
+      "Id": "a0oWD00000EBgSQYA1",
+      "IsDeleted": "false",
+      "Name": "Credit Request",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "The Context for Credit Request Rules",
+      "nFORCE__lookupKey__c": "a328c000002sgLtAAI"
+    },
+    "32": {
+      "Id": "a0oWD00000EBgSRYA1",
+      "IsDeleted": "false",
+      "Name": "Proposed Pricing Option",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "Create the proposed pricing option based on information in the loan.",
+      "nFORCE__lookupKey__c": "a328c000002sgLuAAI"
+    },
+    "33": {
+      "Id": "a0oWD00000EBgSSYA1",
+      "IsDeleted": "false",
+      "Name": "Loan Policy Exception",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "The Loan Policy Exception context is used to group flows that pertain to policy exceptions being made on a loan",
+      "nFORCE__lookupKey__c": "a328c000002sgLvAAI"
+    },
+    "34": {
+      "Id": "a0oWD00000EBgSTYA1",
+      "IsDeleted": "false",
+      "Name": "Contruction Loan Administration",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "The Contruction Loan Administration context is used to group flows related to CLA activities",
+      "nFORCE__lookupKey__c": "a328c000002sgLwAAI"
+    },
+    "35": {
+      "Id": "a0oWD00000EBgSUYA1",
+      "IsDeleted": "false",
+      "Name": "Construction Loan Administration",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "The Contruction Loan Administration context is used to group flows related to CLA activities",
+      "nFORCE__lookupKey__c": "a328c000003sBuxAAE"
+    },
+    "36": {
+      "Id": "a0oWD00000EBgSVYA1",
+      "IsDeleted": "false",
+      "Name": "Pricing Options",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "The Pricing Options context contains flows related to creating and managing pricing options during the loan origination process.",
+      "nFORCE__lookupKey__c": "a328c000003sBuyAAE"
+    },
+    "37": {
+      "Id": "a0oWD00000EBgSbYAL",
+      "IsDeleted": "false",
+      "Name": "DocMan",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Description__c": "",
+      "nFORCE__lookupKey__c": "b1zuwdlyusnu1n6luo"
+    }
+  }
+}

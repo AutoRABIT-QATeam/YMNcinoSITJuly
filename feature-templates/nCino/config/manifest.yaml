@@ -17,3 +17,10 @@ packageDirectories:
           versions:
             '2.0':
               modifiedDate: '2026-07-09 11:47:27'
+        01gMtD1S-Rules Engine:
+          path: dataset/01gMtD1S-Rules Engine
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-07-09 11:47:57'
