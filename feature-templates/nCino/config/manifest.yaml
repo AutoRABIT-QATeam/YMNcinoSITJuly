@@ -10,3 +10,10 @@ packageDirectories:
           versions:
             Rel 2024_07 v2:
               modifiedDate: '2026-07-15 10:30:10'
+        01rZlB0C-Forms Manager-ECATest:
+          path: dataset/01rZlB0C-Forms Manager-ECATest
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1.0':
+              modifiedDate: '2026-07-15 12:38:53'
