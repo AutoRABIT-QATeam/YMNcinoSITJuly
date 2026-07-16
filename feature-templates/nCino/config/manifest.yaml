@@ -59,3 +59,17 @@ packageDirectories:
           versions:
             Rel 2024_07 v1:
               modifiedDate: '2026-07-16 14:40:11'
+        01gJjJ0G-Branches:
+          path: dataset/01gJjJ0G-Branches
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-07-16 14:45:21'
+        01gJjJ0G-Budgets:
+          path: dataset/01gJjJ0G-Budgets
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-07-16 14:45:21'
