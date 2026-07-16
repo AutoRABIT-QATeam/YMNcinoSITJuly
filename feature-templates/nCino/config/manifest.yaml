@@ -17,3 +17,31 @@ packageDirectories:
           versions:
             Rel 2024_07 v2:
               modifiedDate: '2026-07-16 07:50:18'
+        01kZoY0C-Branches-APT:
+          path: dataset/01kZoY0C-Branches-APT
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1.0':
+              modifiedDate: '2026-07-16 14:36:11'
+        01kZoY0C-Branches-TestRYM:
+          path: dataset/01kZoY0C-Branches-TestRYM
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1.0':
+              modifiedDate: '2026-07-16 14:36:11'
+        01kZoY0C-Budgets-SYM:
+          path: dataset/01kZoY0C-Budgets-SYM
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '2.0':
+              modifiedDate: '2026-07-16 14:36:11'
+        01kZoY0C-Forms Manager-YMTest:
+          path: dataset/01kZoY0C-Forms Manager-YMTest
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1.0':
+              modifiedDate: '2026-07-16 14:36:11'
