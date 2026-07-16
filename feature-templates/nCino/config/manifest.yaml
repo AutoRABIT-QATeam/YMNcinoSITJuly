@@ -1,0 +1,33 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        01vR331Y-Branches:
+          path: dataset/01vR331Y-Branches
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-07-16 14:30:14'
+        01vR331Y-Budgets:
+          path: dataset/01vR331Y-Budgets
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-07-16 14:30:14'
+        01vR331Y-Roles:
+          path: dataset/01vR331Y-Roles
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-07-16 14:30:14'
+        01vR331Y-Rules Engine:
+          path: dataset/01vR331Y-Rules Engine
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-07-16 14:30:14'
