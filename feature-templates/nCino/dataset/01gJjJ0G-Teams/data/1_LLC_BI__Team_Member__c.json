@@ -1,0 +1,25 @@
+{
+  "name": "1_LLC_BI__Team_Member__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "LLC_BI__Role__c",
+    "LLC_BI__Team__c",
+    "LLC_BI__User__c",
+    "LLC_BI__lookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a5GWD000000PSE12AO",
+      "IsDeleted": "false",
+      "LLC_BI__Role__c": "",
+      "LLC_BI__Team__c": "a5IWD0000018Vqr2AE",
+      "LLC_BI__User__c": "",
+      "LLC_BI__lookupKey__c": "c5vtebr67hcrsv5tegr6yrvtg",
+      "Name": "TM0",
+      "OwnerId": "005al00000RVcKvAAL"
+    }
+  }
+}

@@ -9,7 +9,7 @@ packageDirectories:
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-07-15 13:19:53'
+              modifiedDate: '2026-07-16 14:40:11'
         01gJjJ0G-Forms:
           path: dataset/01gJjJ0G-Forms
           prefix: ncino
@@ -45,3 +45,17 @@ packageDirectories:
           versions:
             '1.0':
               modifiedDate: '2026-07-16 14:36:11'
+        01kZoY0C-Budgets-YM:
+          path: dataset/01kZoY0C-Budgets-YM
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1':
+              modifiedDate: '2026-07-16 14:40:11'
+        01gJjJ0G-Teams:
+          path: dataset/01gJjJ0G-Teams
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-07-16 14:40:11'

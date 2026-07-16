@@ -1,0 +1,1 @@
+[{"name":"LLC_BI__Team__c","lookupobjfieldmap":{"LLC_BI__Team_Member__c":"LLC_BI__Team__c"},"userlookupfields":["createdbyid","lastmodifiedbyid","ownerid"],"objectsetnum":0},{"name":"LLC_BI__Team_Member__c","lookupobjfieldmap":{},"userlookupfields":["llc_bi__user__c","createdbyid","lastmodifiedbyid","ownerid"],"objectsetnum":0}]
