@@ -11,85 +11,85 @@
   ],
   "records": {
     "1": {
-      "Id": "a4eWD000000f5AFYAY",
-      "IsDeleted": "false",
+      "Id": "a1nbn000001OLhKAAW",
+      "IsDeleted": "",
       "LLC_BI__Description__c": "",
       "LLC_BI__Type__c": "TEAM_ROLES",
       "LLC_BI__lookupKey__c": "42146639854510830",
       "Name": "Loan Assistant",
-      "OwnerId": "005al00000RVcKvAAL"
+      "OwnerId": "005bn000003k2JdAAI"
     },
     "2": {
-      "Id": "a4eWD000000l3gnYAA",
-      "IsDeleted": "false",
+      "Id": "a1nbn000001OLhCAAW",
+      "IsDeleted": "",
       "LLC_BI__Description__c": "",
       "LLC_BI__Type__c": "TEAM_ROLES",
       "LLC_BI__lookupKey__c": "a1nbn000001OLhLAAW",
       "Name": "Credit Analyst / Underwriter",
-      "OwnerId": "005al00000RVcKvAAL"
+      "OwnerId": "005bn000003k2JdAAI"
     },
     "3": {
-      "Id": "a4eWD000000l3goYAA",
-      "IsDeleted": "false",
+      "Id": "a1nbn000001OLhDAAW",
+      "IsDeleted": "",
       "LLC_BI__Description__c": "",
       "LLC_BI__Type__c": "TEAM_ROLES",
       "LLC_BI__lookupKey__c": "a1nbn000001OLhMAAW",
       "Name": "Closer",
-      "OwnerId": "005al00000RVcKvAAL"
+      "OwnerId": "005bn000003k2JdAAI"
     },
     "4": {
-      "Id": "a4eWD000000l3gpYAA",
-      "IsDeleted": "false",
+      "Id": "a1nbn000001OLhEAAW",
+      "IsDeleted": "",
       "LLC_BI__Description__c": "",
       "LLC_BI__Type__c": "TEAM_ROLES",
       "LLC_BI__lookupKey__c": "a1nbn000001OLhNAAW",
       "Name": "Portfolio Manager",
-      "OwnerId": "005al00000RVcKvAAL"
+      "OwnerId": "005bn000003k2JdAAI"
     },
     "5": {
-      "Id": "a4eWD000000l3gqYAA",
-      "IsDeleted": "false",
+      "Id": "a1nbn000001OLhFAAW",
+      "IsDeleted": "",
       "LLC_BI__Description__c": "",
       "LLC_BI__Type__c": "",
       "LLC_BI__lookupKey__c": "a1nbn000001OLhOAAW",
       "Name": "Loan Approver",
-      "OwnerId": "005al00000RVcKvAAL"
+      "OwnerId": "005bn000003k2JdAAI"
     },
     "6": {
-      "Id": "a4eWD000000l3grYAA",
-      "IsDeleted": "false",
+      "Id": "a1nbn000001OLhGAAW",
+      "IsDeleted": "",
       "LLC_BI__Description__c": "",
       "LLC_BI__Type__c": "",
       "LLC_BI__lookupKey__c": "a1nbn000001OLhPAAW",
       "Name": "Loan Approver Queue",
-      "OwnerId": "005al00000RVcKvAAL"
+      "OwnerId": "005bn000003k2JdAAI"
     },
     "7": {
-      "Id": "a4eWD000000l3gsYAA",
-      "IsDeleted": "false",
+      "Id": "a1nbn000001OLhHAAW",
+      "IsDeleted": "",
       "LLC_BI__Description__c": "",
       "LLC_BI__Type__c": "TEAM_ROLES",
       "LLC_BI__lookupKey__c": "a1nbn000001OLhQAAW",
       "Name": "Loan Ops",
-      "OwnerId": "005al00000RVcKvAAL"
+      "OwnerId": "005bn000003k2JdAAI"
     },
     "8": {
-      "Id": "a4eWD000000l3gtYAA",
-      "IsDeleted": "false",
+      "Id": "a1nbn000001OLhIAAW",
+      "IsDeleted": "",
       "LLC_BI__Description__c": "",
       "LLC_BI__Type__c": "TEAM_ROLES",
       "LLC_BI__lookupKey__c": "a1nbn000001OLhRAAW",
       "Name": "Loan Officer",
-      "OwnerId": "005al00000RVcKvAAL"
+      "OwnerId": "005bn000003k2JdAAI"
     },
     "9": {
-      "Id": "a4eWD000000l3guYAA",
-      "IsDeleted": "false",
+      "Id": "a1nbn000001OLhJAAW",
+      "IsDeleted": "",
       "LLC_BI__Description__c": "",
       "LLC_BI__Type__c": "TEAM_ROLES",
       "LLC_BI__lookupKey__c": "a1nbn000001OLhSAAW",
       "Name": "Special Assets",
-      "OwnerId": "005al00000RVcKvAAL"
+      "OwnerId": "005bn000003k2JdAAI"
     }
   }
 }
