@@ -19,22 +19,22 @@
     "LLC_BI__Is_Initially_Editable__c",
     "LLC_BI__Is_Template__c",
     "LLC_BI__Pending_Amount__c",
+    "LLC_BI__Percent_Allocated__c",
+    "LLC_BI__Percent_Disbursed__c",
+    "LLC_BI__Percent_Remaining_Disbursement__c",
+    "LLC_BI__Percent_Remaining__c",
+    "LLC_BI__Remaining_Disbursement__c",
     "LLC_BI__Total_Allocated__c",
     "LLC_BI__Total_Budget_Amount__c",
     "LLC_BI__Total_Disbursed_Amount__c",
-    "LLC_BI__Total_Hard_Costs__c",
-    "LLC_BI__Total_Other_Costs__c",
-    "LLC_BI__Total_Soft_Costs__c",
+    "LLC_BI__Total_Remaining__c",
     "LLC_BI__lookupKey__c",
-    "LLC_BI__Percent_Allocated__c",
-    "LLC_BI__Percent_Disbursed__c",
     "LLC_BI__Percent_Hard_Costs__c",
     "LLC_BI__Percent_Other_Costs__c",
-    "LLC_BI__Percent_Remaining_Disbursement__c",
-    "LLC_BI__Percent_Remaining__c",
     "LLC_BI__Percent_Soft_Costs__c",
-    "LLC_BI__Remaining_Disbursement__c",
-    "LLC_BI__Total_Remaining__c"
+    "LLC_BI__Total_Hard_Costs__c",
+    "LLC_BI__Total_Other_Costs__c",
+    "LLC_BI__Total_Soft_Costs__c"
   ],
   "records": {
     "1": {
@@ -76,10 +76,10 @@
     "2": {
       "CreatedById": "005al00000RVcKvAAL",
       "CreatedDate": "2026-07-16T14:31:12.000Z",
-      "Id": "a1WWD000002gk6v2AA",
+      "Id": "a25bn000002bxRNAAY",
       "IsDeleted": "false",
       "LLC_BI__Budget_Template_Id__c": "",
-      "LLC_BI__Budget_Template__c": "a1WWD000002gk6y2AA",
+      "LLC_BI__Budget_Template__c": "a25bn000002bxRQAAY",
       "LLC_BI__Description__c": "",
       "LLC_BI__Is_Initially_Editable__c": "false",
       "LLC_BI__Is_Template__c": "false",
@@ -106,13 +106,13 @@
       "LastReferencedDate": "",
       "LastViewedDate": "",
       "Name": "CLA Complex Budget 1 Template",
-      "OwnerId": "005al00000RVcKvAAL",
+      "OwnerId": "005bn000003k2JdAAI",
       "SystemModstamp": "2026-07-17T14:47:06.000Z"
     },
     "3": {
       "CreatedById": "005al00000RVcKvAAL",
       "CreatedDate": "2026-07-16T14:31:12.000Z",
-      "Id": "a1WWD000002gk6w2AA",
+      "Id": "a25bn000002bxROAAY",
       "IsDeleted": "false",
       "LLC_BI__Budget_Template_Id__c": "",
       "LLC_BI__Budget_Template__c": "",
@@ -142,13 +142,13 @@
       "LastReferencedDate": "",
       "LastViewedDate": "",
       "Name": "CLA Simple Budget 1 Template",
-      "OwnerId": "005al00000RVcKvAAL",
+      "OwnerId": "005bn000003k2JdAAI",
       "SystemModstamp": "2026-07-17T14:47:06.000Z"
     },
     "4": {
       "CreatedById": "005al00000RVcKvAAL",
       "CreatedDate": "2026-07-16T14:31:12.000Z",
-      "Id": "a1WWD000002gk6x2AA",
+      "Id": "a25bn000002bxRPAAY",
       "IsDeleted": "false",
       "LLC_BI__Budget_Template_Id__c": "",
       "LLC_BI__Budget_Template__c": "",
@@ -178,13 +178,13 @@
       "LastReferencedDate": "",
       "LastViewedDate": "",
       "Name": "CLA Simple Budget 2 Template",
-      "OwnerId": "005al00000RVcKvAAL",
+      "OwnerId": "005bn000003k2JdAAI",
       "SystemModstamp": "2026-07-17T14:47:06.000Z"
     },
     "5": {
       "CreatedById": "005al00000RVcKvAAL",
       "CreatedDate": "2026-07-16T14:31:12.000Z",
-      "Id": "a1WWD000002gk6y2AA",
+      "Id": "a25bn000002bxRQAAY",
       "IsDeleted": "false",
       "LLC_BI__Budget_Template_Id__c": "",
       "LLC_BI__Budget_Template__c": "",
@@ -214,7 +214,7 @@
       "LastReferencedDate": "",
       "LastViewedDate": "",
       "Name": "CLA Complex Budget 1 Template",
-      "OwnerId": "005al00000RVcKvAAL",
+      "OwnerId": "005bn000003k2JdAAI",
       "SystemModstamp": "2026-07-17T14:47:06.000Z"
     }
   }
