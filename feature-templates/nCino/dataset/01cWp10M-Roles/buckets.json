@@ -1,14 +1,1 @@
-{
-  "buckets": [
-    {
-      "objects": [
-        "LLC_BI__Role__c"
-      ],
-      "bucketNum": 1,
-      "clauseField": "nFORCE_lookupKey_c",
-      "entryObject": "LLC_BI__Role__c",
-      "mandatoryObject": [],
-      "exclusionObject": []
-    }
-  ]
-}
+{"buckets":[{"objects":["LLC_BI__Role__c"],"bucketNum":1,"clauseField":"nFORCE_lookupKey_c","entryObject":"LLC_BI__Role__c","mandatoryObject":[],"exclusionObject":[]}]}
