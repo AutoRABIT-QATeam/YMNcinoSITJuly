@@ -44,7 +44,7 @@
       "IsDeleted": "false",
       "LLC_BI__Budget_Template_Id__c": "",
       "LLC_BI__Budget_Template__c": "",
-      "LLC_BI__Description__c": "",
+      "LLC_BI__Description__c": "YMM",
       "LLC_BI__Is_Initially_Editable__c": "true",
       "LLC_BI__Is_Template__c": "false",
       "LLC_BI__Pending_Amount__c": "0.0",
@@ -65,13 +65,13 @@
       "LLC_BI__Total_Soft_Costs__c": "0.0",
       "LLC_BI__lookupKey__c": "42649749863455617",
       "LastActivityDate": "",
-      "LastModifiedById": "005al00000RVcKvAAL",
-      "LastModifiedDate": "2026-07-16T14:58:53.000Z",
+      "LastModifiedById": "005al00000RVvFOAA1",
+      "LastModifiedDate": "2026-07-21T07:21:20.000Z",
       "LastReferencedDate": "",
       "LastViewedDate": "",
-      "Name": "Exc F Source",
+      "Name": "Exc F Source - from VC IT2",
       "OwnerId": "005al00000RVcKvAAL",
-      "SystemModstamp": "2026-07-16T14:58:53.000Z"
+      "SystemModstamp": "2026-07-21T07:21:20.000Z"
     }
   }
 }
