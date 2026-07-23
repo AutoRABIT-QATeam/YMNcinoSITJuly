@@ -9,21 +9,21 @@ packageDirectories:
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-07-23 12:32:17'
+              modifiedDate: '2026-07-23 18:30:24'
         01zAjF1C-Budgets:
           path: dataset/01zAjF1C-Budgets
           prefix: ncino
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-07-23 12:32:17'
+              modifiedDate: '2026-07-23 18:30:24'
         01zAjF1C-Rules Engine:
           path: dataset/01zAjF1C-Rules Engine
           prefix: ncino
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-07-23 13:39:26'
+              modifiedDate: '2026-07-23 18:30:24'
         10yUzO0T-Branches-YMtest001:
           path: dataset/10yUzO0T-Branches-YMtest001
           prefix: Admin
