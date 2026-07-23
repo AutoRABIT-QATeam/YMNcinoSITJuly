@@ -65,14 +65,14 @@ packageDirectories:
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-07-23 12:17:34'
+              modifiedDate: '2026-07-23 14:45:48'
         01gJjJ0G-Budgets:
           path: dataset/01gJjJ0G-Budgets
           prefix: ncino
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-07-23 12:17:34'
+              modifiedDate: '2026-07-23 14:45:48'
         01gJjJ0G-Screens:
           path: dataset/01gJjJ0G-Screens
           prefix: ncino
