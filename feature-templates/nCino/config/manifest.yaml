@@ -1,0 +1,26 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        01zAjF1C-Branches:
+          path: dataset/01zAjF1C-Branches
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-07-23 08:30:24'
+        01zAjF1C-Budgets:
+          path: dataset/01zAjF1C-Budgets
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-07-23 08:30:25'
+        01zAjF1C-Rules Engine:
+          path: dataset/01zAjF1C-Rules Engine
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-07-23 08:30:25'
