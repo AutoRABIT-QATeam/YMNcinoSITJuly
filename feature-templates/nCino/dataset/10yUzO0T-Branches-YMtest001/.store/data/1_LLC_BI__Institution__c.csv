@@ -1,5 +1,5 @@
 "Id","OwnerId","IsDeleted","Name","LLC_BI__Community_Extension__c","LLC_BI__Community_Name__c","LLC_BI__Community_Network_ID__c","LLC_BI__Look_Up_Key__c","LLC_BI__LookupKey__c","LLC_BI__Permission_Set__c","AutorabitExtId__c"
-"a31WD0000028089YAA","005al00000RVcKvAAL","false","nSight Financial","CustomerPortal","Customer Portal","null","34652546354g5","null","nSightFinancial_Community",""
+"a31WD000001k07hYAA","005al00000RVcKvAAL","false","nSight Financial","CustomerPortal","Customer Portal","null","34652546354g5","null","nSightFinancial_Community",""
 "a31WD000002808DYAQ","005al00000RVcKvAAL","false","First National Bank","/firstnational","First National Community","0DB5x000000AAAA","INST00001","INST00001","FNB_Portal_User",""
 "a31WD000002808EYAQ","005al00000RVcKvAAL","false","Heritage Credit Union","/heritagecu","Heritage CU Portal","0DB5x000000BBBB","INST00002","INST00002","HCU_Community_Access",""
 "a31WD000002808BYAQ","005al00000RVcKvAAL","false","Midwest Savings Bank","/midwestsavings","Midwest Savings Online","0DB5x000000CCCC","INST00003","INST00003","MSB_External_User",""
