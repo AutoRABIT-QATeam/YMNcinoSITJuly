@@ -16,7 +16,7 @@
   "records": {
     "1": {
       "AutorabitExtId__c": "",
-      "Id": "a31WD0000028089YAA",
+      "Id": "a31WD000001k07hYAA",
       "IsDeleted": "false",
       "LLC_BI__Community_Extension__c": "CustomerPortal",
       "LLC_BI__Community_Name__c": "Customer Portal",
@@ -29,7 +29,33 @@
     },
     "2": {
       "AutorabitExtId__c": "",
-      "Id": "a31WD000002808DYAQ",
+      "Id": "a31WD000002C6tJYAS",
+      "IsDeleted": "false",
+      "LLC_BI__Community_Extension__c": "/summitfinancial",
+      "LLC_BI__Community_Name__c": "Summit Financial Client Hub",
+      "LLC_BI__Community_Network_ID__c": "0DB5f000000KLMNO",
+      "LLC_BI__Look_Up_Key__c": "D5G8J2L4Q7V1Z9X6F",
+      "LLC_BI__LookupKey__c": "D5G8J2L4Q7V1Z9X6F",
+      "LLC_BI__Permission_Set__c": "LLC_BI__Institution_Manager",
+      "Name": "Summit Financial Group",
+      "OwnerId": "005al00000RVcKvAAL"
+    },
+    "3": {
+      "AutorabitExtId__c": "",
+      "Id": "a31WD000002C6tKYAS",
+      "IsDeleted": "false",
+      "LLC_BI__Community_Extension__c": "/firstnational",
+      "LLC_BI__Community_Name__c": "First National Community Portal",
+      "LLC_BI__Community_Network_ID__c": "0DB5f000000XYZAB",
+      "LLC_BI__Look_Up_Key__c": "H7K2M9R4P1N8V3Q6X",
+      "LLC_BI__LookupKey__c": "H7K2M9R4P1N8V3Q6X",
+      "LLC_BI__Permission_Set__c": "LLC_BI__Institution_Admin",
+      "Name": "First National Bank",
+      "OwnerId": "005al00000RVcKvAAL"
+    },
+    "4": {
+      "AutorabitExtId__c": "",
+      "Id": "a31WD000001xaenYAA",
       "IsDeleted": "false",
       "LLC_BI__Community_Extension__c": "/firstnational",
       "LLC_BI__Community_Name__c": "First National Community",
@@ -40,9 +66,9 @@
       "Name": "First National Bank",
       "OwnerId": "005al00000RVcKvAAL"
     },
-    "3": {
+    "5": {
       "AutorabitExtId__c": "",
-      "Id": "a31WD000002808EYAQ",
+      "Id": "a31WD000001xaeoYAA",
       "IsDeleted": "false",
       "LLC_BI__Community_Extension__c": "/heritagecu",
       "LLC_BI__Community_Name__c": "Heritage CU Portal",
@@ -53,9 +79,9 @@
       "Name": "Heritage Credit Union",
       "OwnerId": "005al00000RVcKvAAL"
     },
-    "4": {
+    "6": {
       "AutorabitExtId__c": "",
-      "Id": "a31WD000002808BYAQ",
+      "Id": "a31WD000001xaepYAA",
       "IsDeleted": "false",
       "LLC_BI__Community_Extension__c": "/midwestsavings",
       "LLC_BI__Community_Name__c": "Midwest Savings Online",
@@ -66,9 +92,9 @@
       "Name": "Midwest Savings Bank",
       "OwnerId": "005al00000RVcKvAAL"
     },
-    "5": {
+    "7": {
       "AutorabitExtId__c": "",
-      "Id": "a31WD000002808CYAQ",
+      "Id": "a31WD000001xaeqYAA",
       "IsDeleted": "false",
       "LLC_BI__Community_Extension__c": "/pacificcoast",
       "LLC_BI__Community_Name__c": "Pacific Coast Community",
@@ -79,9 +105,9 @@
       "Name": "Pacific Coast Financial",
       "OwnerId": "005al00000RVcKvAAL"
     },
-    "6": {
+    "8": {
       "AutorabitExtId__c": "",
-      "Id": "a31WD000002808AYAQ",
+      "Id": "a31WD000001xaerYAA",
       "IsDeleted": "false",
       "LLC_BI__Community_Extension__c": "/summitfederal",
       "LLC_BI__Community_Name__c": "Summit Federal Portal",
@@ -92,9 +118,9 @@
       "Name": "Summit Federal Bank",
       "OwnerId": "005al00000RVcKvAAL"
     },
-    "7": {
+    "9": {
       "AutorabitExtId__c": "",
-      "Id": "a31WD000002808LYAQ",
+      "Id": "a31WD000001xaesYAA",
       "IsDeleted": "false",
       "LLC_BI__Community_Extension__c": "/fnb-portal",
       "LLC_BI__Community_Name__c": "FNB Customer Community",
@@ -105,9 +131,9 @@
       "Name": "First National Bank",
       "OwnerId": "005al00000RVcKvAAL"
     },
-    "8": {
+    "10": {
       "AutorabitExtId__c": "",
-      "Id": "a31WD000002808MYAQ",
+      "Id": "a31WD000001xaetYAA",
       "IsDeleted": "false",
       "LLC_BI__Community_Extension__c": "/hcu-portal",
       "LLC_BI__Community_Name__c": "Heritage Member Community",
@@ -118,9 +144,9 @@
       "Name": "Heritage Credit Union",
       "OwnerId": "005al00000RVcKvAAL"
     },
-    "9": {
+    "11": {
       "AutorabitExtId__c": "",
-      "Id": "a31WD000002808IYAQ",
+      "Id": "a31WD000001xaeuYAA",
       "IsDeleted": "false",
       "LLC_BI__Community_Extension__c": "fnb-portal",
       "LLC_BI__Community_Name__c": "FNB Community",
@@ -131,9 +157,9 @@
       "Name": "First National Bank",
       "OwnerId": "005al00000RVcKvAAL"
     },
-    "10": {
+    "12": {
       "AutorabitExtId__c": "",
-      "Id": "a31WD000002808JYAQ",
+      "Id": "a31WD000001xaevYAA",
       "IsDeleted": "false",
       "LLC_BI__Community_Extension__c": "hcu-portal",
       "LLC_BI__Community_Name__c": "Heritage CU Community",
@@ -144,9 +170,9 @@
       "Name": "Heritage Credit Union",
       "OwnerId": "005al00000RVcKvAAL"
     },
-    "11": {
+    "13": {
       "AutorabitExtId__c": "",
-      "Id": "a31WD000002808GYAQ",
+      "Id": "a31WD000001xaewYAA",
       "IsDeleted": "false",
       "LLC_BI__Community_Extension__c": "/commercial",
       "LLC_BI__Community_Name__c": "Summit Commercial Portal",
@@ -157,9 +183,9 @@
       "Name": "Summit Commercial Lending",
       "OwnerId": "005al00000RVcKvAAL"
     },
-    "12": {
+    "14": {
       "AutorabitExtId__c": "",
-      "Id": "a31WD000002808HYAQ",
+      "Id": "a31WD000001xaexYAA",
       "IsDeleted": "false",
       "LLC_BI__Community_Extension__c": "/mortgage",
       "LLC_BI__Community_Name__c": "Heritage Mortgage Center",
@@ -170,9 +196,9 @@
       "Name": "Heritage Mortgage Corp",
       "OwnerId": "005al00000RVcKvAAL"
     },
-    "13": {
+    "15": {
       "AutorabitExtId__c": "",
-      "Id": "a31WD000002808FYAQ",
+      "Id": "a31WD000001xaeyYAA",
       "IsDeleted": "false",
       "LLC_BI__Community_Extension__c": "/westlake",
       "LLC_BI__Community_Name__c": "Westlake Wealth Community",
@@ -183,9 +209,9 @@
       "Name": "Westlake Trust \u0026 Wealth",
       "OwnerId": "005al00000RVcKvAAL"
     },
-    "14": {
+    "16": {
       "AutorabitExtId__c": "",
-      "Id": "a31WD000002808KYAQ",
+      "Id": "a31WD000001xaezYAA",
       "IsDeleted": "false",
       "LLC_BI__Community_Extension__c": "/pacifictrust",
       "LLC_BI__Community_Name__c": "Pacific Trust Portal",
@@ -194,6 +220,45 @@
       "LLC_BI__LookupKey__c": "INST_PTC02",
       "LLC_BI__Permission_Set__c": "LLC_BI__Partner_Institution_Access",
       "Name": "Pacific Trust Credit Union",
+      "OwnerId": "005al00000RVcKvAAL"
+    },
+    "17": {
+      "AutorabitExtId__c": "",
+      "Id": "a31WD000002C6tLYAS",
+      "IsDeleted": "false",
+      "LLC_BI__Community_Extension__c": "/valleycommerce",
+      "LLC_BI__Community_Name__c": "Valley Commerce Business Portal",
+      "LLC_BI__Community_Network_ID__c": "0DB5f000000PQRST",
+      "LLC_BI__Look_Up_Key__c": "M1N4T7Y2H5K8P3W6B",
+      "LLC_BI__LookupKey__c": "M1N4T7Y2H5K8P3W6B",
+      "LLC_BI__Permission_Set__c": "LLC_BI__Community_Admin",
+      "Name": "Valley Commerce Bank",
+      "OwnerId": "005al00000RVcKvAAL"
+    },
+    "18": {
+      "AutorabitExtId__c": "",
+      "Id": "a31WD000002C6tMYAS",
+      "IsDeleted": "false",
+      "LLC_BI__Community_Extension__c": "/heartlandsavings",
+      "LLC_BI__Community_Name__c": "Heartland Savings Online",
+      "LLC_BI__Community_Network_ID__c": "0DB5f000000FGHIJ",
+      "LLC_BI__Look_Up_Key__c": "R8P4N1X7B3K6M9S2Y",
+      "LLC_BI__LookupKey__c": "R8P4N1X7B3K6M9S2Y",
+      "LLC_BI__Permission_Set__c": "LLC_BI__Institution_Read_Only",
+      "Name": "Heartland Savings Bank",
+      "OwnerId": "005al00000RVcKvAAL"
+    },
+    "19": {
+      "AutorabitExtId__c": "",
+      "Id": "a31WD000002C6tNYAS",
+      "IsDeleted": "false",
+      "LLC_BI__Community_Extension__c": "/pacificcoast",
+      "LLC_BI__Community_Name__c": "Pacific Coast Member Portal",
+      "LLC_BI__Community_Network_ID__c": "0DB5f000000ABCDE",
+      "LLC_BI__Look_Up_Key__c": "W3T6L9F2D5A8C1G4J",
+      "LLC_BI__LookupKey__c": "W3T6L9F2D5A8C1G4J",
+      "LLC_BI__Permission_Set__c": "LLC_BI__Community_User",
+      "Name": "Pacific Coast Credit Union",
       "OwnerId": "005al00000RVcKvAAL"
     }
   }
