@@ -1,0 +1,77 @@
+{
+  "name": "1_nFORCE__Layout__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "nFORCE__Category__c",
+    "nFORCE__Generator_Class__c",
+    "nFORCE__Layout_Description__c",
+    "nFORCE__Layout_Preview_Image__c",
+    "nFORCE__Visualforce_Page__c",
+    "nFORCE__lookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a0bWD000001EB1RYAW",
+      "IsDeleted": "false",
+      "Name": "Wrightsville",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Category__c": "Customer Dashboard",
+      "nFORCE__Generator_Class__c": "",
+      "nFORCE__Layout_Description__c": "\u003cul\u003e\u003cli\u003eHeader size: Large\u003c/li\u003e\u003cli\u003eNavigation: Horizontal, at top of screen\u003c/li\u003e\u003cli\u003eTiles: At bottom of screen\u003c/li\u003e\u003c/ul\u003e",
+      "nFORCE__Layout_Preview_Image__c": "/resource/1541694063000/nPortal__Global_Resources/images/layouts/Wrightsville.svg",
+      "nFORCE__Visualforce_Page__c": "NPORTAL__LayoutWrightsville",
+      "nFORCE__lookupKey__c": "42507926667086944"
+    },
+    "2": {
+      "Id": "a0bWD000001EB1SYAW",
+      "IsDeleted": "false",
+      "Name": "Topsail",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Category__c": "Online Application",
+      "nFORCE__Generator_Class__c": "",
+      "nFORCE__Layout_Description__c": "\u003cul\u003e\u003cli\u003eApplication Progress: Horizontal, at the top of screen\u003c/li\u003e\u003cli\u003eTiles: At bottom of screen\u003c/li\u003e\u003c/ul\u003e",
+      "nFORCE__Layout_Preview_Image__c": "/resource/1541694063000/nPortal__Global_Resources/images/layouts/Topsail.svg",
+      "nFORCE__Visualforce_Page__c": "NPORTAL__LayoutTopsail",
+      "nFORCE__lookupKey__c": "42552733154006329"
+    },
+    "3": {
+      "Id": "a0bWD000001EB1UYAW",
+      "IsDeleted": "false",
+      "Name": "DT1-Layout",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Category__c": "",
+      "nFORCE__Generator_Class__c": "",
+      "nFORCE__Layout_Description__c": "",
+      "nFORCE__Layout_Preview_Image__c": "",
+      "nFORCE__Visualforce_Page__c": "",
+      "nFORCE__lookupKey__c": "42611931891004699"
+    },
+    "4": {
+      "Id": "a0bWD000001EB1TYAW",
+      "IsDeleted": "false",
+      "Name": "Topsail",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Category__c": "Online Application",
+      "nFORCE__Generator_Class__c": "",
+      "nFORCE__Layout_Description__c": "\u003cul\u003e\u003cli\u003eApplication Progress: Horizontal, at the top of screen\u003c/li\u003e\u003cli\u003eTiles: At bottom of screen\u003c/li\u003e\u003c/ul\u003e",
+      "nFORCE__Layout_Preview_Image__c": "/resource/1526499064000/nPortal__Global_Resources/images/layouts/Topsail.svg",
+      "nFORCE__Visualforce_Page__c": "NPORTAL__LayoutTopsail",
+      "nFORCE__lookupKey__c": "42722946441466849"
+    },
+    "5": {
+      "Id": "a0bWD000001EB1VYAW",
+      "IsDeleted": "false",
+      "Name": "DT2-Layout",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Category__c": "",
+      "nFORCE__Generator_Class__c": "",
+      "nFORCE__Layout_Description__c": "",
+      "nFORCE__Layout_Preview_Image__c": "",
+      "nFORCE__Visualforce_Page__c": "",
+      "nFORCE__lookupKey__c": "42943469212894316"
+    }
+  }
+}
