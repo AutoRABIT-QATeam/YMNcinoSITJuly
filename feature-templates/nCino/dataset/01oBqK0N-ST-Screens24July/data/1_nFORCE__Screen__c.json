@@ -1,0 +1,25 @@
+{
+  "name": "1_nFORCE__Screen__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "nFORCE__Disable_Print__c",
+    "nFORCE__Disable_Read_Only_View__c",
+    "nFORCE__Show_Link_To_Context_Object__c",
+    "nFORCE__lookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a0sWD00000Xny45YAB",
+      "IsDeleted": "false",
+      "Name": "Standard Loan Credit Memo",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Disable_Print__c": "true",
+      "nFORCE__Disable_Read_Only_View__c": "false",
+      "nFORCE__Show_Link_To_Context_Object__c": "true",
+      "nFORCE__lookupKey__c": "42705854020893109"
+    }
+  }
+}

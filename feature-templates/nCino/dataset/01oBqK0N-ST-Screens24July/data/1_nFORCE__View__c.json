@@ -1,0 +1,25 @@
+{
+  "name": "1_nFORCE__View__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "nFORCE__Edit__c",
+    "nFORCE__Preview__c",
+    "nFORCE__Read_Only__c",
+    "nFORCE__lookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a16WD000005UHyEYAW",
+      "IsDeleted": "false",
+      "Name": "VIEW-000006112",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Edit__c": "",
+      "nFORCE__Preview__c": "",
+      "nFORCE__Read_Only__c": "\u003cp\u003e\u003cimg src\u003d\"https://autorabit-ncino-org2--funcqa01.sandbox.file.force.com/servlet/rtaImage?eid\u003da16WD000005UHyE\u0026amp;feoid\u003d00Nal00001EbACK\u0026amp;refid\u003d0EMWD000002OYQn\" alt\u003d\"image.png\"\u003e\u003c/img\u003e\u003c/p\u003e",
+      "nFORCE__lookupKey__c": "42016371887281567"
+    }
+  }
+}
