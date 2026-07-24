@@ -1,1 +1,17 @@
-{"buckets":[{"objects":["LLC_BI__Branch__c","LLC_BI__EmailTemplate_Institution__c"],"bucketNum":1,"clauseField":"nFORCE_lookupKey_c","entryObject":"LLC_BI__Branch__c","mandatoryObject":["LLC_BI__Institution__c"],"exclusionObject":[]}]}
+{
+  "buckets": [
+    {
+      "objects": [
+        "LLC_BI__Branch__c",
+        "LLC_BI__EmailTemplate_Institution__c"
+      ],
+      "bucketNum": 1,
+      "clauseField": "nFORCE_lookupKey_c",
+      "entryObject": "LLC_BI__Branch__c",
+      "mandatoryObject": [
+        "LLC_BI__Institution__c"
+      ],
+      "exclusionObject": []
+    }
+  ]
+}
