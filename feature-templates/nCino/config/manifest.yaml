@@ -1,0 +1,12 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        01dP8Y1F-Budgets-YMCommunity:
+          path: dataset/01dP8Y1F-Budgets-YMCommunity
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1.0':
+              modifiedDate: '2026-07-24 13:13:24'
