@@ -8,11 +8,24 @@
     "nFORCE__Disable_Print__c",
     "nFORCE__Disable_Read_Only_View__c",
     "nFORCE__Show_Link_To_Context_Object__c",
-    "nFORCE__lookupKey__c"
+    "nFORCE__lookupKey__c",
+    "AutorabitExtId__c"
   ],
   "records": {
     "1": {
-      "Id": "a0sWD00000d3VlZYAU",
+      "AutorabitExtId__c": "",
+      "Id": "a0sWD00000d3VnBYAU",
+      "IsDeleted": "false",
+      "Name": "Test-YM2",
+      "OwnerId": "005al00000RVvFOAA1",
+      "nFORCE__Disable_Print__c": "",
+      "nFORCE__Disable_Read_Only_View__c": "",
+      "nFORCE__Show_Link_To_Context_Object__c": "",
+      "nFORCE__lookupKey__c": ""
+    },
+    "2": {
+      "AutorabitExtId__c": "",
+      "Id": "a0sWE000002eJnZYAU",
       "IsDeleted": "false",
       "Name": "Test-YM1",
       "OwnerId": "005al00000RVvFOAA1",
@@ -20,16 +33,6 @@
       "nFORCE__Disable_Read_Only_View__c": "false",
       "nFORCE__Show_Link_To_Context_Object__c": "true",
       "nFORCE__lookupKey__c": "42272630206528664"
-    },
-    "2": {
-      "Id": "a0sWD00000d3VnBYAU",
-      "IsDeleted": "false",
-      "Name": "Test-YM2",
-      "OwnerId": "005al00000RVvFOAA1",
-      "nFORCE__Disable_Print__c": "false",
-      "nFORCE__Disable_Read_Only_View__c": "false",
-      "nFORCE__Show_Link_To_Context_Object__c": "true",
-      "nFORCE__lookupKey__c": "42622575758999889"
     }
   }
 }
