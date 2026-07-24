@@ -1,4 +1,4 @@
 {
   "name": "LLC_BI__Budget__c",
-  "query": "Select Id From LLC_BI__Budget__c Where ( LLC_BI__lookupKey__c !\u003d  null )"
+  "query": "Select Id From LLC_BI__Budget__c Where ( LLC_BI__lookupKey__c !\u003d  null ) and Id \u003d \u0027a1WWD000002kI8r2AE\u0027"
 }
