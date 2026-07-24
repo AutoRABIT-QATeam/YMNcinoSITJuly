@@ -1,0 +1,4 @@
+{
+  "name": "nFORCE__Screen__c",
+  "query": "Select Id From nFORCE__Screen__c Where ( nFORCE__lookupKey__c !\u003d  null ) and Id \u003d \u0027a0sWD00000d3VlZYAU\u0027"
+}
