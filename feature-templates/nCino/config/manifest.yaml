@@ -16,7 +16,7 @@ packageDirectories:
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-07-24 14:43:05'
+              modifiedDate: '2026-07-27 15:56:32'
         01iKwD0E-Screens:
           path: dataset/01iKwD0E-Screens
           prefix: ncino
