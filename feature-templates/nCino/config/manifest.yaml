@@ -10,3 +10,10 @@ packageDirectories:
           versions:
             Rel 2024_07 v1:
               modifiedDate: '2026-07-30 11:46:45'
+        015XhG0C-Budgets:
+          path: dataset/015XhG0C-Budgets
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-07-30 11:52:45'
