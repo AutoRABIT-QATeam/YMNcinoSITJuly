@@ -1,0 +1,28 @@
+{
+  "prefix": "ncino",
+  "packageDirectories": {
+    "Rel 2024_07 v1": {
+      "metadata": {
+        "exclude": {
+          "CustomObject": []
+        }
+      },
+      "data": {
+        "exclude": {
+          "CustomObject": [
+            "Account",
+            "LLC_BI__Funding_Method__c",
+            "LLC_BI__Pricing_Option__c",
+            "LLC_BI__Annual_Review__c",
+            "LLC_BI__Loan__c",
+            "nFORCE__Data_Snapshot__c",
+            "LLC_BI__Risk_Grade_Template__c",
+            "Opportunity",
+            "LLC_BI__Deposit__c",
+            "LLC_BI__Credit_Memo__c"
+          ]
+        }
+      }
+    }
+  }
+}
