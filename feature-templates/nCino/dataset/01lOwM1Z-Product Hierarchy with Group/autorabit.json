@@ -1,0 +1,24 @@
+{
+  "prefix": "ncino",
+  "packageDirectories": {
+    "Rel 2024_07 v1": {
+      "metadata": {
+        "exclude": {
+          "CustomObject": []
+        }
+      },
+      "data": {
+        "exclude": {
+          "CustomObject": [
+            "LLC_BI__Funding_Method__c",
+            "LLC_BI__Pricing_Option__c",
+            "LLC_BI__Loan__c",
+            "Opportunity",
+            "LLC_BI__Deposit__c",
+            "LLC_BI__Credit_Memo__c"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "name": "EFPIO__LoggingProviderSettings__c",
+  "query": "Select Id From EFPIO__LoggingProviderSettings__c "
+}

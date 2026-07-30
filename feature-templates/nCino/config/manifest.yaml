@@ -1,0 +1,68 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        0199qO0A-Branches-brachnes:
+          path: dataset/0199qO0A-Branches-brachnes
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1':
+              modifiedDate: '2026-07-30 14:55:49'
+        0199qO0A-Feature-scarch:
+          path: dataset/0199qO0A-Feature-scarch
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1':
+              modifiedDate: '2026-07-30 14:55:49'
+        0199qO0A-User Interface-UI1:
+          path: dataset/0199qO0A-User Interface-UI1
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1':
+              modifiedDate: '2026-07-30 14:55:52'
+        01lOwM1Z-Budgets:
+          path: dataset/01lOwM1Z-Budgets
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-07-30 14:55:52'
+        01lOwM1Z-Forms:
+          path: dataset/01lOwM1Z-Forms
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v2:
+              modifiedDate: '2026-07-30 14:55:52'
+        01lOwM1Z-Product Hierarchy:
+          path: dataset/01lOwM1Z-Product Hierarchy
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-07-30 14:55:53'
+        01lOwM1Z-Product Hierarchy with Group:
+          path: dataset/01lOwM1Z-Product Hierarchy with Group
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-07-30 14:55:53'
+        01lOwM1Z-Rules Engine:
+          path: dataset/01lOwM1Z-Rules Engine
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-07-30 14:55:53'
+        01lOwM1Z-Screens:
+          path: dataset/01lOwM1Z-Screens
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-07-30 14:55:54'
