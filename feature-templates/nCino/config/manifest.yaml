@@ -24,3 +24,10 @@ packageDirectories:
           versions:
             Rel 2024_07 v1:
               modifiedDate: '2026-07-24 14:59:55'
+        01dP8Y1F-Feature-M:
+          path: dataset/01dP8Y1F-Feature-M
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1':
+              modifiedDate: '2026-07-31 10:14:01'
