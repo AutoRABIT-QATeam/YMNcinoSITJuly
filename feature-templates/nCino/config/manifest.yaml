@@ -31,3 +31,10 @@ packageDirectories:
           versions:
             '1':
               modifiedDate: '2026-07-31 10:14:01'
+        01iKwD0E-Rules Engine:
+          path: dataset/01iKwD0E-Rules Engine
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-07-31 11:37:07'
