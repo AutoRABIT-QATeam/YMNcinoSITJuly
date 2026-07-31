@@ -1,0 +1,12 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        01aLl10M-Spreads Template-YMCommunity:
+          path: dataset/01aLl10M-Spreads Template-YMCommunity
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1.0':
+              modifiedDate: '2026-07-31 10:34:52'

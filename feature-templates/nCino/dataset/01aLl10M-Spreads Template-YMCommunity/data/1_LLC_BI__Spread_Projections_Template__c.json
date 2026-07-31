@@ -1,0 +1,65 @@
+{
+  "name": "1_LLC_BI__Spread_Projections_Template__c",
+  "attributes": [
+    "Id",
+    "IsDeleted",
+    "LLC_BI__Description__c",
+    "LLC_BI__Is_Active__c",
+    "LLC_BI__Purpose__c",
+    "LLC_BI__lookupKey__c",
+    "Name",
+    "OwnerId"
+  ],
+  "records": {
+    "1": {
+      "Id": "a4TDV000000eLLr2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Description__c": "Reduce Revenue by 10%",
+      "LLC_BI__Is_Active__c": "true",
+      "LLC_BI__Purpose__c": "Projection",
+      "LLC_BI__lookupKey__c": "1a007dd4-7576-4e62-ad64-39f1a7f62ca7",
+      "Name": "Adverse (-10% Sales)",
+      "OwnerId": "0058c00000BxeO9AAJ"
+    },
+    "2": {
+      "Id": "a4TDV000000eLNE2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Description__c": "Neutral Projection Template with no Pre-configured Changes.",
+      "LLC_BI__Is_Active__c": "true",
+      "LLC_BI__Purpose__c": "Projection",
+      "LLC_BI__lookupKey__c": "4ef5eeab-a29e-4319-b798-47cea52e950c",
+      "Name": "No Change",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "3": {
+      "Id": "a4TDV000000eLLs2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Description__c": "Reduce Sales by 20%",
+      "LLC_BI__Is_Active__c": "true",
+      "LLC_BI__Purpose__c": "Projection",
+      "LLC_BI__lookupKey__c": "5e5c9df8-6c1d-4750-bf52-a32221535095",
+      "Name": "Severely Adverse (-20% Sales)",
+      "OwnerId": "0058c00000BxeO9AAJ"
+    },
+    "4": {
+      "Id": "a4TDV000000eLNF2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Description__c": "",
+      "LLC_BI__Is_Active__c": "true",
+      "LLC_BI__Purpose__c": "Average",
+      "LLC_BI__lookupKey__c": "81357ffb-e67c-40f1-8a08-2448e4c3d7f3",
+      "Name": "Average Period AG",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "5": {
+      "Id": "a4TDV000000eLLq2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Description__c": "This template causes all projections to be increased by 0.",
+      "LLC_BI__Is_Active__c": "true",
+      "LLC_BI__Purpose__c": "Projection",
+      "LLC_BI__lookupKey__c": "qwerzxvchsfgd1",
+      "Name": "Baseline Projections Template",
+      "OwnerId": "0058c00000BxeO9AAJ"
+    }
+  }
+}

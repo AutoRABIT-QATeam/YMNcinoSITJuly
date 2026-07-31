@@ -1,0 +1,113 @@
+{
+  "name": "1_LLC_BI__Spread_Projections_Driver__c",
+  "attributes": [
+    "Id",
+    "IsDeleted",
+    "LLC_BI__Classification__c",
+    "LLC_BI__Spread_Projections_Template__c",
+    "LLC_BI__Spread_Statement_Record__c",
+    "LLC_BI__Type__c",
+    "LLC_BI__Value__c",
+    "LLC_BI__lookupKey__c",
+    "Name",
+    "OwnerId"
+  ],
+  "records": {
+    "1": {
+      "Id": "a4SDV000000yG5x2AE",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a3YDV000000vWev2AE",
+      "LLC_BI__Spread_Projections_Template__c": "a4TDV000000eLLs2AM",
+      "LLC_BI__Spread_Statement_Record__c": "",
+      "LLC_BI__Type__c": "No Change",
+      "LLC_BI__Value__c": "",
+      "LLC_BI__lookupKey__c": "182af975-6cb7-419f-9104-c5ce2e4afedf",
+      "Name": "SPD-000000130",
+      "OwnerId": "0058c00000BxeO9AAJ"
+    },
+    "2": {
+      "Id": "a4SDV000000yG5w2AE",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a3YDV000000vWeu2AE",
+      "LLC_BI__Spread_Projections_Template__c": "a4TDV000000eLLs2AM",
+      "LLC_BI__Spread_Statement_Record__c": "",
+      "LLC_BI__Type__c": "Percent Amount Change",
+      "LLC_BI__Value__c": "-0.05",
+      "LLC_BI__lookupKey__c": "1d2b1125-84d3-4936-a9bf-9da015af37bd",
+      "Name": "SPD-000000129",
+      "OwnerId": "0058c00000BxeO9AAJ"
+    },
+    "3": {
+      "Id": "a4SDV000000yG5t2AE",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a3YDV000000vWez2AE",
+      "LLC_BI__Spread_Projections_Template__c": "a4TDV000000eLLr2AM",
+      "LLC_BI__Spread_Statement_Record__c": "",
+      "LLC_BI__Type__c": "No Change",
+      "LLC_BI__Value__c": "",
+      "LLC_BI__lookupKey__c": "24eb9987-d020-450b-b85f-a6bfb600d91e",
+      "Name": "SPD-000000126",
+      "OwnerId": "0058c00000BxeO9AAJ"
+    },
+    "4": {
+      "Id": "a4SDV000000yG5u2AE",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a3YDV000000vWer2AE",
+      "LLC_BI__Spread_Projections_Template__c": "a4TDV000000eLLs2AM",
+      "LLC_BI__Spread_Statement_Record__c": "",
+      "LLC_BI__Type__c": "Percent Amount Change",
+      "LLC_BI__Value__c": "-0.2",
+      "LLC_BI__lookupKey__c": "40316667-b705-4fba-b6c4-83a467472265",
+      "Name": "SPD-000000127",
+      "OwnerId": "0058c00000BxeO9AAJ"
+    },
+    "5": {
+      "Id": "a4SDV000000yG5r2AE",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a3YDV000000vWes2AE",
+      "LLC_BI__Spread_Projections_Template__c": "a4TDV000000eLLr2AM",
+      "LLC_BI__Spread_Statement_Record__c": "",
+      "LLC_BI__Type__c": "Percent Amount Change",
+      "LLC_BI__Value__c": "-0.05",
+      "LLC_BI__lookupKey__c": "40a7d6fa-0b41-4b38-a3ba-a336ce02c6e9",
+      "Name": "SPD-000000124",
+      "OwnerId": "0058c00000BxeO9AAJ"
+    },
+    "6": {
+      "Id": "a4SDV000000yG5v2AE",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a3YDV000000vWes2AE",
+      "LLC_BI__Spread_Projections_Template__c": "a4TDV000000eLLs2AM",
+      "LLC_BI__Spread_Statement_Record__c": "",
+      "LLC_BI__Type__c": "Percent Amount Change",
+      "LLC_BI__Value__c": "-0.1",
+      "LLC_BI__lookupKey__c": "7303b1d3-a574-4f69-a2d9-c9b020dbc9eb",
+      "Name": "SPD-000000128",
+      "OwnerId": "0058c00000BxeO9AAJ"
+    },
+    "7": {
+      "Id": "a4SDV000000yG5q2AE",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a3YDV000000vWer2AE",
+      "LLC_BI__Spread_Projections_Template__c": "a4TDV000000eLLr2AM",
+      "LLC_BI__Spread_Statement_Record__c": "",
+      "LLC_BI__Type__c": "Percent Amount Change",
+      "LLC_BI__Value__c": "-0.1",
+      "LLC_BI__lookupKey__c": "a7246069-4027-42ee-a3eb-3f889ef5af0d",
+      "Name": "SPD-000000123",
+      "OwnerId": "0058c00000BxeO9AAJ"
+    },
+    "8": {
+      "Id": "a4SDV000000yG5s2AE",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a3YDV000000vWeu2AE",
+      "LLC_BI__Spread_Projections_Template__c": "a4TDV000000eLLr2AM",
+      "LLC_BI__Spread_Statement_Record__c": "",
+      "LLC_BI__Type__c": "Percent Amount Change",
+      "LLC_BI__Value__c": "-0.025",
+      "LLC_BI__lookupKey__c": "d6cf7b43-0ce1-4d38-8621-ff17dc21f824",
+      "Name": "SPD-000000125",
+      "OwnerId": "0058c00000BxeO9AAJ"
+    }
+  }
+}

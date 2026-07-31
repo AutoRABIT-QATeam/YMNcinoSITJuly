@@ -1,0 +1,22 @@
+{
+  "prefix": "Regre",
+  "packageDirectories": {
+    "1.0": {
+      "metadata": {
+        "exclude": {
+          "CustomObject": []
+        }
+      },
+      "data": {
+        "exclude": {
+          "CustomObject": [
+            "LLC_BI__Rent_Roll__c",
+            "LLC_BI__Debt_Schedule__c",
+            "LLC_BI__Spread_Statement_Period__c",
+            "LLC_BI__Spread_Statement_Record_Value__c"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,3517 @@
+{
+  "name": "1_LLC_BI__Classification__c",
+  "attributes": [
+    "Id",
+    "IsDeleted",
+    "LLC_BI__Category__c",
+    "LLC_BI__lookupKey__c",
+    "Name",
+    "OwnerId"
+  ],
+  "records": {
+    "1": {
+      "Id": "a3YDV000000vXJV2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "8825_Amorization_ACCTGRD",
+      "Name": "8825 Amortization",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "2": {
+      "Id": "a3YDV000000vXED2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "8825_Depreciation_ACCTGRD",
+      "Name": "8825 Depreciation",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "3": {
+      "Id": "a3YDV000000vXEs2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "8825_Interest_ACCTGRD",
+      "Name": "8825 Interest",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "4": {
+      "Id": "a3YDV000000vXHM2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "AccountsNotes_Rec_LTP_ACCTGRD",
+      "Name": "Accounts/Notes Rec - LTP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "5": {
+      "Id": "a3YDV000000vXGz2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Accounts_Pay_Days_excl_Depr_ACCTGRD",
+      "Name": "Accounts Pay Days (excl Depr)",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "6": {
+      "Id": "a3YDV000000vXE12AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Accounts_PayableTrade_ACCTGRD",
+      "Name": "Accounts Payable-Trade",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "7": {
+      "Id": "a3YDV000000vXJL2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Accounts_Payable_Days_ACCTGRD",
+      "Name": "Accounts Payable Days",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "8": {
+      "Id": "a3YDV000000vXFM2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Accounts_Rec_Trade_CP_ACCTGRD",
+      "Name": "Accounts Receivable Trade - CP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "9": {
+      "Id": "a3YDV000000vXEx2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Cash Accounting)",
+      "LLC_BI__lookupKey__c": "Accounts_Receivable_ManualAdjust_ACCTGRD",
+      "Name": "Accounts Receivable - Manual Adjust",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "10": {
+      "Id": "a3YDV000000vXEw2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Cash Accounting)",
+      "LLC_BI__lookupKey__c": "Accrued_Interest_ManualAdjust_ACCTGTD",
+      "Name": "Accrued Interest - Manual Adjust",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "11": {
+      "Id": "a3YDV000000vXHj2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Accrued_Payroll_Taxes_ACCTGRD",
+      "Name": "Accrued Payroll Taxes",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "12": {
+      "Id": "a3YDV000000vXJT2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Accum_Amort_Impairment_ACCTGRD",
+      "Name": "Accum Amort \u0026 Impairment",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "13": {
+      "Id": "a3YDV000000vXDy2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Accum_Deprec_Impairment_ACCTGRD",
+      "Name": "Accum Deprec \u0026 Impairment",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "14": {
+      "Id": "a3YDV000000vXIP2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Accumulated_OCI_ACCTGRD",
+      "Name": "Accumulated OCI",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "15": {
+      "Id": "a3YDV000000vXGh2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "Adj_to_Retained_Earn_Accounting_Change_ACCTGRD",
+      "Name": "Adj to Retained Earn. - Accounting Change",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "16": {
+      "Id": "a3YDV000000vXGg2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "Adj_to_Retained_Earn_Dividends_ACCTGRD",
+      "Name": "Adj to Retained Earn. - Dividends",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "17": {
+      "Id": "a3YDV000000vXHd2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "Adj_to_Retained_Earn_Dividends_Stock_ACCTGRD",
+      "Name": "Adj to Retained Earn. - Dividends - Stock",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "18": {
+      "Id": "a3YDV000000vXGj2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "Adj_to_Retained_Earn_Other_Change_ACCTGRD",
+      "Name": "Adj to Retained Earn. -Â  Other Change",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "19": {
+      "Id": "a3YDV000000vXGi2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "Adj_to_Retained_Earn_Prior_Period_Adj_ACCTGRD",
+      "Name": "Adj to Retained Earn. - Prior Period Adj",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "20": {
+      "Id": "a3YDV000000vXGf2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "Adj_to_Retained_Earn_Withdrawals_ACCTGRD",
+      "Name": "Adj to Retained Earn. - Withdrawals",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "21": {
+      "Id": "a3YDV000000vXIr2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "Advertising_And_Marketing",
+      "Name": "Advertising And Marketing",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "22": {
+      "Id": "a3YDV000000vXJ62AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "Amortization_2_ACCTGRD",
+      "Name": "Amortization 2",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "23": {
+      "Id": "a3YDV000000vXJ12AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "Amortization_2nd_Mortgage_ACCTGRD",
+      "Name": "Amortization 2nd Mortgage",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "24": {
+      "Id": "a3YDV000000vXJ82AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "Amortization_3_ACCGRD",
+      "Name": "Amortization 3",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "25": {
+      "Id": "a3YDV000000vXJb2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Amortization_Expense_ACCTGRD",
+      "Name": "Amortization Expense",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "26": {
+      "Id": "a3YDV000000vXI32AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Annualized_COGS_ACCTGRD",
+      "Name": "Annualized COGS",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "27": {
+      "Id": "a3YDV000000vXER2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Annualized_Net_Sales_ACCTGRD",
+      "Name": "Annualized Net Sales",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "28": {
+      "Id": "a3YDV000000vXGw2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Asset_Impairment_ACCTGRD",
+      "Name": "Asset Impairment",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "29": {
+      "Id": "a3YDV000000vXFF2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "Average_Total_Farm_Assets_ACCTGRD",
+      "Name": "Average Total Farm Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "30": {
+      "Id": "a3YDV000000vXFG2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "Average_Total_Farm_Equity_ACCTGRD",
+      "Name": "Average Total Farm Equity",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "31": {
+      "Id": "a3YDV000000vXJQ2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Bad_Debt_Expense_ACCTGRD",
+      "Name": "Bad Debt Expense",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "32": {
+      "Id": "a3YDV000000vXHU2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Bad_Debt_Reserve_ACCTGRD",
+      "Name": "Bad Debt Reserve",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "33": {
+      "Id": "a3YDV000000vXEt2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "BeginningValue_BreedingLivestock_ACCTGRD",
+      "Name": "Beginning Value - Breeding Livestock",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "34": {
+      "Id": "a3YDV000000vXEy2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "BeginningValue_OtherCapitalAssets_ACCTGRD",
+      "Name": "Beginning Value - Other Capital Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "35": {
+      "Id": "a3YDV000000vXJd2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Cash Accounting)",
+      "LLC_BI__lookupKey__c": "Beginning_Cash_on_Hand_ACCTGRD",
+      "Name": "Beginning Cash on Hand",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "36": {
+      "Id": "a3YDV000000vXJX2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "Beginning_NetWorth_Cost Basis_ACCTGRD",
+      "Name": "Beginning Net Worth - Cost Basis",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "37": {
+      "Id": "a3YDV000000vXJY2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "Beginning_NetWorth_MarketBasis_ACCTGRD",
+      "Name": "Beginning Net Worth - Market Basis",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "38": {
+      "Id": "a3YDV000000vXHC2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Billings_in_Excess_of_Costs_ACCTGRD",
+      "Name": "Billings in Excess of Costs",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "39": {
+      "Id": "a3YDV000000vXHm2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Bonuses_Payable_ACCTGRD",
+      "Name": "Bonuses Payable",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "40": {
+      "Id": "a3YDV000000vXEB2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "Book_Capital_Gains_ACCTGRD",
+      "Name": "Book Capital Gains",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "41": {
+      "Id": "a3YDV000000vXJe2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "Book_Depreciation_and_Depletion_ACCTGRD",
+      "Name": "Book Depreciation and Depletion",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "42": {
+      "Id": "a3YDV000000vXEC2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "Book_Other_Income_ACCTGRD",
+      "Name": "Book Other Income",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "43": {
+      "Id": "a3YDV000000vXHq2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Borrowed_Funds_to_EBITDA_ACCTGRD",
+      "Name": "Borrowed Funds to EBITDA",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "44": {
+      "Id": "a3YDV000000vXHo2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Borrowed_Funds_to_Eff_TNW_ACCTGRD",
+      "Name": "Borrowed Funds to Eff TNW",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "45": {
+      "Id": "a3YDV000000vXHn2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Borrowed_Funds_to_NFA_ACCTGRD",
+      "Name": "Borrowed Funds to NFA",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "46": {
+      "Id": "a3YDV000000vXFP2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "BreedingStock_Inventory_ACCTGRD",
+      "Name": "Breeding Stock Inventory",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "47": {
+      "Id": "a3YDV000000vXFl2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Cash Income Statement)",
+      "LLC_BI__lookupKey__c": "Breeding_Livestock_Sold_ACCTGRD",
+      "Name": "Breeding Livestock Sold",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "48": {
+      "Id": "a3YDV000000vXHN2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Buildings_Improvements_ACCTGRD",
+      "Name": "Buildings \u0026 Improvements",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "49": {
+      "Id": "a3YDV000000vXJM2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "CAPEX_ACCTGRD",
+      "Name": "CAPEX",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "50": {
+      "Id": "a3YDV000000vXI02AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "CAPEX_Depreciation_Expense_ACCTGRD",
+      "Name": "CAPEX / Depreciation Expense",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "51": {
+      "Id": "a3YDV000000vXG02AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "CDRC _ACCTGRD",
+      "Name": "CDRC",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "52": {
+      "Id": "a3YDV000000vXE02AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "CPLTDBank_ACCTGRD",
+      "Name": "CPLTD-Bank",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "53": {
+      "Id": "a3YDV000000vXH72AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "CPLTDOther_Secured_ACCTGRD",
+      "Name": "CPLTD-Other Secured",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "54": {
+      "Id": "a3YDV000000vXH82AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "CPLTDOther_Unsecured_ACCTGRD",
+      "Name": "CPLTD-Other Unsecured",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "55": {
+      "Id": "a3YDV000000vXI12AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "CP_Subordinated_Debt_ACCTGRD",
+      "Name": "CP - Subordinated Debt",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "56": {
+      "Id": "a3YDV000000vXFS2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "Capital_Contributions_ACCTGRD",
+      "Name": "Capital Contributions",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "57": {
+      "Id": "a3YDV000000vXH92AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Capital_Lease_Obligations_CP_ACCTGRD",
+      "Name": "Capital Lease Obligations - CP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "58": {
+      "Id": "a3YDV000000vXH32AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Capital_Lease_Obligations_LTP_ACCTGRD",
+      "Name": "Capital Lease Obligations - LTP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "59": {
+      "Id": "a3YDV000000vXIU2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Capital_Leases_ACCTGRD",
+      "Name": "Capital Leases",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "60": {
+      "Id": "a3YDV000000vXFK2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Cash Income Statement)",
+      "LLC_BI__lookupKey__c": "Capital_Sales_ACCTGRD",
+      "Name": "Capital Sales",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "61": {
+      "Id": "a3YDV000000vXGk2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Cash_ACCTGRD",
+      "Name": "Cash",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "62": {
+      "Id": "a3YDV000000vXID2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Cash_Value_Life_Insurance_ACCTGRD",
+      "Name": "Cash Value Life Insurance",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "63": {
+      "Id": "a3YDV000000vXG12AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Cash Accounting)",
+      "LLC_BI__lookupKey__c": "Change_MarketLivestock_andPoultry_ACCTGRD",
+      "Name": "Chg. Mkt Livestock \u0026 Poultry",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "64": {
+      "Id": "a3YDV000000vXJW2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Chg_Net_Fixed_Assets_ACCTGRD",
+      "Name": "Chg Net Fixed Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "65": {
+      "Id": "a3YDV000000vXIh2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "Commercial_Vacancy_Rate",
+      "Name": "Commercial Vacancy Rate",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "66": {
+      "Id": "a3YDV000000vXG42AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Common_Stock_ACCTGRD",
+      "Name": "Common Stock",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "67": {
+      "Id": "a3YDV000000vXIV2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Construction_in_Progress_ACCTGRD",
+      "Name": "Construction in Progress",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "68": {
+      "Id": "a3YDV000000vXHh2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Cost_of_SalesRevenues_ACCTGRD",
+      "Name": "Cost of Sales/Revenues",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "69": {
+      "Id": "a3YDV000000vXHg2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Cost_of_Sales_Deprec_Impairment_ACCTGRD",
+      "Name": "Cost of Sales - Deprec \u0026 Impairment",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "70": {
+      "Id": "a3YDV000000vXGr2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Costs_in_Excess_of_Billings_ACCTGRD",
+      "Name": "Costs in Excess of Billings",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "71": {
+      "Id": "a3YDV000000vXFO2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "Crop_Inventory_ACCTGRD",
+      "Name": "Crop Inventory",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "72": {
+      "Id": "a3YDV000000vXG22AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Cash Accounting)",
+      "LLC_BI__lookupKey__c": "Crop_Inventory_ManualAdjust_ACCTGRD",
+      "Name": "Crop Inventory - Manual Adjust",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "73": {
+      "Id": "a3YDV000000vXFi2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Cash Accounting)",
+      "LLC_BI__lookupKey__c": "Crop_Sales_ACCTGRD",
+      "Name": "Crop Sales",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "74": {
+      "Id": "a3YDV000000vXGZ2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Cumulative_Effect_of_Acctg_Chg_ACCTGRD",
+      "Name": "Cumulative Effect of Acct\u0027g Chg",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "75": {
+      "Id": "a3YDV000000vXIN2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Currency_Translation_ACCTGRD",
+      "Name": "Currency Translation",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "76": {
+      "Id": "a3YDV000000vXG62AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Current_Income_Tax_ACCTGRD",
+      "Name": "Current Income Tax",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "77": {
+      "Id": "a3YDV000000vXEY2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Current_Ratio_ACCTGRD",
+      "Name": "Current Ratio",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "78": {
+      "Id": "a3YDV000000vXEJ2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "Days_In_Period_ACCTGRD",
+      "Name": "Days In Period",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "79": {
+      "Id": "a3YDV000000vXET2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Deannualized_CP_CPLTD_ACCTGRD",
+      "Name": "Deannualized CP CPLTD",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "80": {
+      "Id": "a3YDV000000vXEV2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Deannualized_PP_CPLTD_ACCTGRD",
+      "Name": "Deannualized PP CPLTD",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "81": {
+      "Id": "a3YDV000000vXI42AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Debt_Less_Sub_Debt_Eff_TNW_ACCTGRD",
+      "Name": "Debt Less Sub Debt/ Eff. TNW",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "82": {
+      "Id": "a3YDV000000vXJ72AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "Debt_Service_2_ACCTGRD",
+      "Name": "Debt Service 2",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "83": {
+      "Id": "a3YDV000000vXJ22AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "Debt_Service_2nd_Mortgage_ACCTGRD",
+      "Name": "Debt Service 2nd Mortgage",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "84": {
+      "Id": "a3YDV000000vXJ32AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Debt_Service_2nd_Mortgage_Only_ACCTGRD",
+      "Name": "Debt Service 2nd Mortgage Only",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "85": {
+      "Id": "a3YDV000000vXJB2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "Debt_Service_3_ACCTGRD",
+      "Name": "Debt Service 3",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "86": {
+      "Id": "a3YDV000000vXGL2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Debt_Service_Existing_ACCTGRD",
+      "Name": "Debt Service - Existing",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "87": {
+      "Id": "a3YDV000000vXGM2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Debt_Service_New_ACCTGRD",
+      "Name": "Debt Service - New",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "88": {
+      "Id": "a3YDV000000vXI52AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Debt_to_Capital_ACCTGRD",
+      "Name": "Debt to Capital",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "89": {
+      "Id": "a3YDV000000vXGs2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Def_Inc_Tax_Recover_CP_ACCTGRD",
+      "Name": "Def Inc Tax Recover - CP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "90": {
+      "Id": "a3YDV000000vXHQ2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Def_Inc_Tax_Recover_LTP_ACCTGRD",
+      "Name": "Def Inc Tax Recover - LTP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "91": {
+      "Id": "a3YDV000000vXH22AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Deferred_Fed_Inc_Tax_CP_ACCTGRD",
+      "Name": "Deferred Fed Inc Tax - CP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "92": {
+      "Id": "a3YDV000000vXGY2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Deferred_Income_Tax_ACCTGRD",
+      "Name": "Deferred Income Tax",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "93": {
+      "Id": "a3YDV000000vXHE2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Deferred_Income_Tax_LTP_ACCTGRD",
+      "Name": "Deferred Income Tax - LTP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "94": {
+      "Id": "a3YDV000000vXIB2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Deferred_Interest_ACCTGRD",
+      "Name": "Deferred Interest",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "95": {
+      "Id": "a3YDV000000vXHD2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Deferred_Revenue_ACCTGRD",
+      "Name": "Deferred Revenue",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "96": {
+      "Id": "a3YDV000000vXJP2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Depreciation_Expense_ACCTGRD",
+      "Name": "Depreciation Expense",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "97": {
+      "Id": "a3YDV000000vXIZ2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Derivative_Assets_CP_ACCTGRD",
+      "Name": "Derivative Assets - CP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "98": {
+      "Id": "a3YDV000000vXIF2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Derivative_Assets_LTP_ACCTGRD",
+      "Name": "Derivative Assets - LTP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "99": {
+      "Id": "a3YDV000000vXIM2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Derivative_Liabilities_LTP_ACCTGRD",
+      "Name": "Derivative Liabilities - LTP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "100": {
+      "Id": "a3YDV000000vXE92AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "DistributionsWithdrawals_ACCTGRD",
+      "Name": "Distributions/Withdrawals",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "101": {
+      "Id": "a3YDV000000vXEh2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Dividend_Payout_Rate_ACCTGRD",
+      "Name": "Dividend Payout Rate",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "102": {
+      "Id": "a3YDV000000vXFt2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Cash Accounting)",
+      "LLC_BI__lookupKey__c": "Dividends_Paid_ACCTGRD",
+      "Name": "Dividends Paid",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "103": {
+      "Id": "a3YDV000000vXH12AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Dividends_Payable_ACCTGRD",
+      "Name": "Dividends Payable",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "104": {
+      "Id": "a3YDV000000vXIX2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Due_from_OfficersStkhldr_LTP_ACCTGRD",
+      "Name": "Due from Officers/Stkhldr LTP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "105": {
+      "Id": "a3YDV000000vXHb2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Due_from_OfficersStockholders_CP_ACCTGRD",
+      "Name": "Due from Officers/Stockholders - CP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "106": {
+      "Id": "a3YDV000000vXHZ2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Due_from_Related_Co_CP_ACCTGRD",
+      "Name": "Due from Related Co - CP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "107": {
+      "Id": "a3YDV000000vXIY2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Due_from_Related_Co_LTP_ACCTGRD",
+      "Name": "Due from Related Co - LTP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "108": {
+      "Id": "a3YDV000000vXIA2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Due_to_OfficersStkhlders_LTP_ACCTGRD",
+      "Name": "Due to Officers/Stkhlders - LTP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "109": {
+      "Id": "a3YDV000000vXI82AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Due_to_OfficersStkhldrs_CP_ACCTGRD",
+      "Name": "Due to Officers/Stkhldrs - CP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "110": {
+      "Id": "a3YDV000000vXI72AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Due_to_Related_Co_CP_ACCTGRD",
+      "Name": "Due to Related Co - CP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "111": {
+      "Id": "a3YDV000000vXI92AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Due_to_Related_Co_LT_ACCTGRD",
+      "Name": "Due to Related Co LT",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "112": {
+      "Id": "a3YDV000000vXEg2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "EBIDA_ACCTGRD",
+      "Name": "EBIDA",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "113": {
+      "Id": "a3YDV000000vXEf2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "EBITDAR_ACCTGRD",
+      "Name": "EBITDAR",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "114": {
+      "Id": "a3YDV000000vXEc2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "EBITDA_ACCTGRD",
+      "Name": "EBITDA",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "115": {
+      "Id": "a3YDV000000vXES2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "EBITDA_Annualized_ACCTGRD",
+      "Name": "EBITDA - Annualized",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "116": {
+      "Id": "a3YDV000000vXHx2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "EBITDA_Int_Exp__CP_CPLTD_ACCTGRD",
+      "Name": "EBITDA / Int Exp + CP CPLTD",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "117": {
+      "Id": "a3YDV000000vXHt2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "EBITDA_Int_Exp__PP_CPLTD_ACCTGRD",
+      "Name": "EBITDA / Int Exp + PP CPLTD",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "118": {
+      "Id": "a3YDV000000vXEe2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "EBIT_ACCTGRD",
+      "Name": "EBIT",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "119": {
+      "Id": "a3YDV000000vXFJ2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "EBIT_Farm_ACCTGRD",
+      "Name": "EBIT - Farm",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "120": {
+      "Id": "a3YDV000000vXEd2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "EBT_ACCTGRD",
+      "Name": "EBT",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "121": {
+      "Id": "a3YDV000000vXEZ2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Eff_Tangible_Net_Worth_Actual_ACCTGRD",
+      "Name": "Eff Tangible Net Worth Actual",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "122": {
+      "Id": "a3YDV000000vXF32AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "EndingNetWorth_Computed_MarketBasis_ACCTGRD",
+      "Name": "Ending Net Worth - Computed - Market Basis",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "123": {
+      "Id": "a3YDV000000vXF82AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "EndingNetWorth_Reported_MarketBasis_ACCTGRD",
+      "Name": "Ending Net Worth - Reported - Market Basis",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "124": {
+      "Id": "a3YDV000000vXEz2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "EndingValue_Calculated_BreedingLivestock_ACCTGRD",
+      "Name": "Ending Value - Calculated - Breeding Livestock",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "125": {
+      "Id": "a3YDV000000vXF72AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "EndingValue_Calculated_OtherCapitalAssets_ACCTGRD",
+      "Name": "Ending Value - Calculated - Other Capital Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "126": {
+      "Id": "a3YDV000000vXF02AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "EndingValue_Reported_BreedingLivestock_ACCTGRD",
+      "Name": "Ending Value - Reported - Breeding Livestock",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "127": {
+      "Id": "a3YDV000000vXF62AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "EndingValue_Reported_OtherCapitalAssets_ACCTGRD",
+      "Name": "Ending Value - Reported - Other Capital Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "128": {
+      "Id": "a3YDV000000vXJf2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Estimated_Tax_Penalty_ACCTGRD",
+      "Name": "Estimated Tax Penalty",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "129": {
+      "Id": "a3YDV000000vXGb2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Extraordinary_Gain_ACCTGRD",
+      "Name": "Extraordinary Gain",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "130": {
+      "Id": "a3YDV000000vXGa2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Extraordinary_Loss_ACCTGRD",
+      "Name": "Extraordinary Loss",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "131": {
+      "Id": "a3YDV000000vXFH2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "Farm_Size_Acres_ACCTGRD",
+      "Name": "Farm Size - Acres",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "132": {
+      "Id": "a3YDV000000vXHY2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Finished_Goods_ACCTGRD",
+      "Name": "Finished Goods",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "133": {
+      "Id": "a3YDV000000vXHu2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Fixed_Charge_Coverage_ACCTGRD",
+      "Name": "Fixed Charge Coverage",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "134": {
+      "Id": "a3YDV000000vXHO2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Furniture_Fixtures_ACCTGRD",
+      "Name": "Furniture \u0026 Fixtures",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "135": {
+      "Id": "a3YDV000000vXGW2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Gain_on_Asset_Sale_ACCTGRD",
+      "Name": "Gain on Asset Sale",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "136": {
+      "Id": "a3YDV000000vXFn2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "General_Admin_Expense_ACCTGRD",
+      "Name": "General \u0026 Admin Expense",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "137": {
+      "Id": "a3YDV000000vXK42AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "General_And_Administrative",
+      "Name": "General And Administrative",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "138": {
+      "Id": "a3YDV000000vXFj2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Cash Accounting)",
+      "LLC_BI__lookupKey__c": "Government_Payments_ACCTGRD",
+      "Name": "Government Payments",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "139": {
+      "Id": "a3YDV000000vXFU2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "Grain_Inventory_ACCTGRD",
+      "Name": "Grain Inventory",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "140": {
+      "Id": "a3YDV000000vXJZ2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Gross_Margin_ACCTGRD",
+      "Name": "Gross Margin",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "141": {
+      "Id": "a3YDV000000vXIu2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "Ground_Rent",
+      "Name": "Ground Rent",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "142": {
+      "Id": "a3YDV000000vXFR2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "Growing_Crops_ACCTGRD",
+      "Name": "Growing Crops",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "143": {
+      "Id": "a3YDV000000vXJS2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Historical_CFC_TCF_ACCTGRD",
+      "Name": "Historical CFC (TCF)",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "144": {
+      "Id": "a3YDV000000vXEv2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "Improvements_BreedingLivestock_ACCTGTD",
+      "Name": "Improvements - Breeding Livestock",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "145": {
+      "Id": "a3YDV000000vXF42AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "Improvements_OtherCapitalAssets_ACCTGRD",
+      "Name": "Improvements - Other Capital Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "146": {
+      "Id": "a3YDV000000vXGq2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Income_Tax_Receivable_ACCTGRD",
+      "Name": "Income Tax Receivable",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "147": {
+      "Id": "a3YDV000000vXHB2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Income_Taxes_Payable_ACCTGRD",
+      "Name": "Income Taxes Payable",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "148": {
+      "Id": "a3YDV000000vXIL2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Income_from_SubsJoint_Ventures_ACCTGRD",
+      "Name": "Income from Subs/Joint Ventures",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "149": {
+      "Id": "a3YDV000000vXK52AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "Insurance",
+      "Name": "Insurance",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "150": {
+      "Id": "a3YDV000000vXII2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Intangibles_Due_From_Related_ACCTGRD",
+      "Name": "Intangibles - Due From Related",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "151": {
+      "Id": "a3YDV000000vXIG2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Intangibles_Goodwill_ACCTGRD",
+      "Name": "Intangibles - Goodwill",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "152": {
+      "Id": "a3YDV000000vXIH2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Intangibles_Other_ACCTGRD",
+      "Name": "Intangibles - Other",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "153": {
+      "Id": "a3YDV000000vXK12AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Interest_Coverage_ACCTGRD",
+      "Name": "Interest Coverage",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "154": {
+      "Id": "a3YDV000000vXIK2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Interest_Expense_ACCTGRD",
+      "Name": "Interest Expense",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "155": {
+      "Id": "a3YDV000000vXJz2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Interest_Income_ACCTGRD",
+      "Name": "Interest Income",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "156": {
+      "Id": "a3YDV000000vXHS2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Interest_Payable_ACCTGRD",
+      "Name": "Interest Payable",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "157": {
+      "Id": "a3YDV000000vXJ42AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "Interest_Rate_2_ACCTGRD",
+      "Name": "Interest Rate 2",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "158": {
+      "Id": "a3YDV000000vXIz2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "Interest_Rate_2nd_Mortgage",
+      "Name": "Interest Rate 2nd Mortgage",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "159": {
+      "Id": "a3YDV000000vXJA2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "Interest_Rate_3_ACCTGRD",
+      "Name": "Interest Rate 3",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "160": {
+      "Id": "a3YDV000000vXGp2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Inventory_ACCTGRD",
+      "Name": "Inventory",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "161": {
+      "Id": "a3YDV000000vXJK2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Inventory_Days_on_Hand_ACCTGRD",
+      "Name": "Inventory Days on Hand",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "162": {
+      "Id": "a3YDV000000vXIE2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Investment_in_Subsidiaries_ACCTGRD",
+      "Name": "Investment in Subsidiaries",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "163": {
+      "Id": "a3YDV000000vXIl2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "Janitorial_Services",
+      "Name": "Janitorial Services",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "164": {
+      "Id": "a3YDV000000vXEA2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "K1_Foreign_Taxes_ACCTGRD",
+      "Name": "K1 Foreign Taxes",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "165": {
+      "Id": "a3YDV000000vXJv2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "K1_Income_ACCTGRD",
+      "Name": "K-1 Income",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "166": {
+      "Id": "a3YDV000000vXE82AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "K1_Section_179_Deduction_ACCTGRD",
+      "Name": "K1 Section 179 Deduction",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "167": {
+      "Id": "a3YDV000000vXHV2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "LIFO_Reserve_ACCTGRD",
+      "Name": "LIFO Reserve",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "168": {
+      "Id": "a3YDV000000vXJE2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "LTV Reconciled Value",
+      "Name": "LTV Reconciled Value",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "169": {
+      "Id": "a3YDV000000vXGu2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Land_ACCTGRD",
+      "Name": "Land",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "170": {
+      "Id": "a3YDV000000vXIp2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "Landscaping",
+      "Name": "Landscaping",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "171": {
+      "Id": "a3YDV000000vXFp2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "LeaseRent_Expense_ACCTGRD",
+      "Name": "Lease/Rent Expense",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "172": {
+      "Id": "a3YDV000000vXIT2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Leasehold_Improvements_ACCTGRD",
+      "Name": "Leasehold Improvements",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "173": {
+      "Id": "a3YDV000000vXIo2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "Legal_And_Professional_Fees",
+      "Name": "Legal And Professional Fees",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "174": {
+      "Id": "a3YDV000000vXFh2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Cash Accounting)",
+      "LLC_BI__lookupKey__c": "Livestock_Product_Sales_ACCTGRD",
+      "Name": "Livestock Product Sales",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "175": {
+      "Id": "a3YDV000000vXFQ2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "Livestock_Products_ACCTGRD",
+      "Name": "Livestock Products",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "176": {
+      "Id": "a3YDV000000vXFy2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Cash Accounting)",
+      "LLC_BI__lookupKey__c": "LoC_Balance_ACCTGRD",
+      "Name": "LoC Balance",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "177": {
+      "Id": "a3YDV000000vXJ52AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "Loan_Amount_2_ACCTGRD",
+      "Name": "Loan Amount 2",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "178": {
+      "Id": "a3YDV000000vXJ02AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "Loan_Amount_2nd_Mortgage_ACCTGRD",
+      "Name": "Loan Amount 2nd Mortgage",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "179": {
+      "Id": "a3YDV000000vXJ92AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "Loan_Amount_3_ACCTGRD",
+      "Name": "Loan Amount 3",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "180": {
+      "Id": "a3YDV000000vXEE2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Loans_from_Related_Co_CP_ACCTGRD",
+      "Name": "Loans from Related Co - CP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "181": {
+      "Id": "a3YDV000000vXEI2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Loans_from_Related_Co_LTP_ACCTGRD",
+      "Name": "Loans from Related Co - LTP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "182": {
+      "Id": "a3YDV000000vXGn2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Loans_to_Related_Co_CP_ACCTGRD",
+      "Name": "Loans to Related Co - CP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "183": {
+      "Id": "a3YDV000000vXG32AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Loans_to_Related_Co_LTP_ACCTGRD",
+      "Name": "Loans to Related Co - LTP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "184": {
+      "Id": "a3YDV000000vXEG2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Long_Term_DebtBank_ACCTGRD",
+      "Name": "Long Term Debt-Bank",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "185": {
+      "Id": "a3YDV000000vXHH2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Long_Term_DebtOther_Sec_ACCTGRD",
+      "Name": "Long Term Debt-Other Sec",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "186": {
+      "Id": "a3YDV000000vXHG2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Long_Term_DebtOther_Unsec_ACCTGRD",
+      "Name": "Long Term Debt-Other Unsec",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "187": {
+      "Id": "a3YDV000000vXGX2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Loss_on_Asset_Sale_ACCTGRD",
+      "Name": "Loss on Asset Sale",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "188": {
+      "Id": "a3YDV000000vXE42AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "M1_2_Income_incl_in_SchK_ACCTGRD",
+      "Name": "M1 2 Income incl in SchK",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "189": {
+      "Id": "a3YDV000000vXE22AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "M1_3_Expenses_ACCTGRD",
+      "Name": "M1 3 Expenses",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "190": {
+      "Id": "a3YDV000000vXE52AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "M1_3a_Depreciation_ACCTGRD",
+      "Name": "M1 3a Depreciation",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "191": {
+      "Id": "a3YDV000000vXE62AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "M1_5_Income_recorded_ACCTGRD",
+      "Name": "M1 5 Income recorded",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "192": {
+      "Id": "a3YDV000000vXE72AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "M1_6_Deductions_ACCTGRD",
+      "Name": "M1 6 Deductions",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "193": {
+      "Id": "a3YDV000000vXJU2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "M1_6a_Depreciation_ACCTGRD",
+      "Name": "M1 6a Depreciation",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "194": {
+      "Id": "a3YDV000000vXE32AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "M1_Net_Income_per_book_ACCTGRD",
+      "Name": "M1 Net Income per book",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "195": {
+      "Id": "a3YDV000000vXGv2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Machinery_Equipment_ACCTGRD",
+      "Name": "Machinery \u0026 Equipment",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "196": {
+      "Id": "a3YDV000000vXGe2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "Manual_Input_PFY_Net_Worth_ACCTGRD",
+      "Name": "Manual Input - PFY Net Worth",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "197": {
+      "Id": "a3YDV000000vXFN2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "MarketLivestock_andPoultry_ACCTGRD",
+      "Name": "Market Livestock \u0026 Poultry",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "198": {
+      "Id": "a3YDV000000vXFo2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Cash Accounting)",
+      "LLC_BI__lookupKey__c": "MarketLivestock_andPoultry_ManualAdjust_ACCTGRD",
+      "Name": "Mkt Livestock \u0026 Poultry - Manual Adjust",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "199": {
+      "Id": "a3YDV000000vXEr2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Cash Accounting)",
+      "LLC_BI__lookupKey__c": "Market_LvstkPoultry_Sales_ACCTGRD",
+      "Name": "Market Lvstk/Poultry Sales",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "200": {
+      "Id": "a3YDV000000vXGl2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Marketable_Securities_ACCTGRD",
+      "Name": "Marketable Securities",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "201": {
+      "Id": "a3YDV000000vXIb2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Minority_InterestEquity_ACCTGRD",
+      "Name": "Minority Interest-Equity",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "202": {
+      "Id": "a3YDV000000vXIC2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Minority_InterestLiab_ACCTGRD",
+      "Name": "Minority Interest-Liab",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "203": {
+      "Id": "a3YDV000000vXIR2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Minority_Interest_ACCTGRD",
+      "Name": "Minority Interest",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "204": {
+      "Id": "a3YDV000000vXJI2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "NCF DSCR",
+      "Name": "NCF DSCR",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "205": {
+      "Id": "a3YDV000000vXHr2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "NIDeprAmortDivs_CP_CPLTD_ACCTGRD",
+      "Name": "NI+Depr+Amort-Divs / CP CPLTD",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "206": {
+      "Id": "a3YDV000000vXHp2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "NIDeprAmortDivs_PP_CPLTD_ACCTGRD",
+      "Name": "NI+Depr+Amort-Divs / PP CPLTD",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "207": {
+      "Id": "a3YDV000000vWfc2AE",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "CCMIS Spread Export",
+      "LLC_BI__lookupKey__c": "NetSales",
+      "Name": "NetSales",
+      "OwnerId": "0058c00000BxeO9AAJ"
+    },
+    "208": {
+      "Id": "a3YDV000000vXHz2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Net_Accounts_Receivable_Days_ACCTGRD",
+      "Name": "Net Accounts Receivable Days",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "209": {
+      "Id": "a3YDV000000vXIw2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "Net_Cash_Flow",
+      "Name": "Net Cash Flow",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "210": {
+      "Id": "a3YDV000000vXK32AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Net_Margin_ACCTGRD",
+      "Name": "Net Margin",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "211": {
+      "Id": "a3YDV000000vXEn2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Net_Profit_Growth_ACCTGRD",
+      "Name": "Net Profit Growth",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "212": {
+      "Id": "a3YDV000000vXEl2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Net_Sales_Growth_ACCTGRD",
+      "Name": "Net Sales Growth",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "213": {
+      "Id": "a3YDV000000vXEW2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Net_Sales_Working_Capital_ACCTGRD",
+      "Name": "Net Sales/ Working Capital",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "214": {
+      "Id": "a3YDV000000vXEb2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Net_WorthActual_ACCTGRD",
+      "Name": "Net Worth Actual",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "215": {
+      "Id": "a3YDV000000vXEo2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Net_Worth_Growth_ACCTGRD",
+      "Name": "Net Worth Growth",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "216": {
+      "Id": "a3YDV000000vXDz2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Other)",
+      "LLC_BI__lookupKey__c": "NonAccounting_ACCTGRD",
+      "Name": "Non-Accounting",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "217": {
+      "Id": "a3YDV000000vXJy2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "NonCash_Expense_ACCTGRD",
+      "Name": "Non-Cash Expense",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "218": {
+      "Id": "a3YDV000000vXJx2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "NonCash_Income_ACCTGRD",
+      "Name": "Non-Cash Income",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "219": {
+      "Id": "a3YDV000000vXFu2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Cash Accounting)",
+      "LLC_BI__lookupKey__c": "NonFarm_Income_ACCTGRD",
+      "Name": "Non-Farm Income",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "220": {
+      "Id": "a3YDV000000vXIQ2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Non_Cash_Interest_Exp_ACCTGRD",
+      "Name": "Non-Cash Interest Expense",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "221": {
+      "Id": "a3YDV000000vXHc2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Notes_Rec_CP_ACCTGRD",
+      "Name": "Notes Receivable - CP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "222": {
+      "Id": "a3YDV000000vXJO2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Officers_Compensation_ACCTGRD",
+      "Name": "Officers\u0027 Compensation",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "223": {
+      "Id": "a3YDV000000vXFq2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Cash Accounting)",
+      "LLC_BI__lookupKey__c": "Operating_Interest_ACCTGRD",
+      "Name": "Operating Interest",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "224": {
+      "Id": "a3YDV000000vXEm2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Operating_Profit_Growth_ACCTGRD",
+      "Name": "Operating Profit Growth",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "225": {
+      "Id": "a3YDV000000vXK22AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Operating_Profit_Margin_ACCTGRD",
+      "Name": "Operating Profit Margin",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "226": {
+      "Id": "a3YDV000000vXHy2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Operating_Profit_Margin_plus_Depr_ACCTGRD",
+      "Name": "Operating Profit Margin (plus Depr)",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "227": {
+      "Id": "a3YDV000000vXFI2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "Operator_Draw_ACCTGRD",
+      "Name": "Operator Draw",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "228": {
+      "Id": "a3YDV000000vXF92AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "OtherAdjustments_NetWorth_Market_Basis_ACCTGRD",
+      "Name": "Other Net Worth Adjustments - Market Basis",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "229": {
+      "Id": "a3YDV000000vXF52AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "OtherAdjustments_OtherCapitalAssets_ACCTGTD",
+      "Name": "Other Adjustments - Other Capital Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "230": {
+      "Id": "a3YDV000000vXF12AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "OtherCapitalAssets_AppreciationorDepreciation_ACCTGRD",
+      "Name": "Other Capital Assets - Appreciation/Depreciation",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "231": {
+      "Id": "a3YDV000000vXIW2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Other_AccountsNotes_Rec_LTP_ACCTGRD",
+      "Name": "Other Accounts/Notes Rec - LTP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "232": {
+      "Id": "a3YDV000000vXHi2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Other_Accounts_Payable_ACCTGRD",
+      "Name": "Other Accounts Payable",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "233": {
+      "Id": "a3YDV000000vXGm2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Other_Accounts_Receivable_CP_ACCTGRD",
+      "Name": "Other Accounts Receivable - CP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "234": {
+      "Id": "a3YDV000000vXH02AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Other_Accruals_ACCTGRD",
+      "Name": "Other Accruals",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "235": {
+      "Id": "a3YDV000000vXIf2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Other_Cash_Equivalents_ACCTGRD",
+      "Name": "Other Cash \u0026 Equivalents",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "236": {
+      "Id": "a3YDV000000vXI62AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Other_Due_from_Related_Co_LTP_ACCTGRD",
+      "Name": "Other Due from Related Co - LTP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "237": {
+      "Id": "a3YDV000000vXG52AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Other_Equity_ACCTGRD",
+      "Name": "Other Equity",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "238": {
+      "Id": "a3YDV000000vXFv2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Other_Expense_ACCTGRD",
+      "Name": "Other Expense",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "239": {
+      "Id": "a3YDV000000vXIS2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Other_Extraordinary_Item_ACCTGRD",
+      "Name": "Other Extraordinary Item",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "240": {
+      "Id": "a3YDV000000vXFk2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Cash Accounting)",
+      "LLC_BI__lookupKey__c": "Other_Farm_Income_ACCTGRD",
+      "Name": "Other Farm Income",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "241": {
+      "Id": "a3YDV000000vXDx2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Other_Fixed_Assets_ACCTGRD",
+      "Name": "Other Fixed Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "242": {
+      "Id": "a3YDV000000vXI22AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Other_Gen_Admin_Expense_ACCTGRD",
+      "Name": "Other Gen \u0026 Admin Expense",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "243": {
+      "Id": "a3YDV000000vXEq2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Other_Income_ACCTGRD",
+      "Name": "Other Income",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "244": {
+      "Id": "a3YDV000000vXDw2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Other_Investments_ACCTGRD",
+      "Name": "Other Investments",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "245": {
+      "Id": "a3YDV000000vXGt2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Other_NonOp_Current_Assets_ACCTGRD",
+      "Name": "Other Non-Op Current Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "246": {
+      "Id": "a3YDV000000vXHT2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Other_NonOp_Current_Liabs_ACCTGRD",
+      "Name": "Other Non-Op Current Liabs",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "247": {
+      "Id": "a3YDV000000vXFX2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Other_NonOp_NonCur_Assets_ACCTGRD",
+      "Name": "Other Non-Op Non-Cur Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "248": {
+      "Id": "a3YDV000000vXFd2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Other_NonOp_NonCur_Liabs_ACCTGRD",
+      "Name": "Other Non-Op Non-Cur Liabs",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "249": {
+      "Id": "a3YDV000000vXIs2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "Other_NonRecurring_Expenses",
+      "Name": "Other Non-Recurring Expenses",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "250": {
+      "Id": "a3YDV000000vXGo2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Other_Operating_Current_Assets_ACCTGRD",
+      "Name": "Other Operating Current Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "251": {
+      "Id": "a3YDV000000vXEF2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Other_Operating_Current_Liabs_ACCTGRD",
+      "Name": "Other Operating Current Liabs",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "252": {
+      "Id": "a3YDV000000vXFm2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Other_Operating_Expense_ACCTGRD",
+      "Name": "Other Operating Expense",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "253": {
+      "Id": "a3YDV000000vXDv2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Other_Operating_NonCur_Assets_ACCTGRD",
+      "Name": "Other Operating Non-Cur Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "254": {
+      "Id": "a3YDV000000vXEH2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Other_Operating_NonCur_Liabs_ACCTGRD",
+      "Name": "Other Operating Non-Cur Liabs",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "255": {
+      "Id": "a3YDV000000vXHa2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Other_Receivables_CP_ACCTGRD",
+      "Name": "Other Receivables - CP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "256": {
+      "Id": "a3YDV000000vXIq2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "Other_Recurring_Expenses",
+      "Name": "Other Recurring Expenses",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "257": {
+      "Id": "a3YDV000000vXId2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Other_Reserves_ACCTGRD",
+      "Name": "Other Reserves",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "258": {
+      "Id": "a3YDV000000vXHw2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Other_Taxes_Payable_ACCTGRD",
+      "Name": "Other Taxes Payable",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "259": {
+      "Id": "a3YDV000000vXH62AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Overdrafts_Book_ACCTGRD",
+      "Name": "Overdrafts - Book",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "260": {
+      "Id": "a3YDV000000vXHR2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Overdrafts_Financing_ACCTGRD",
+      "Name": "Overdrafts - Financing",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "261": {
+      "Id": "a3YDV000000vXJc2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Cash Accounting)",
+      "LLC_BI__lookupKey__c": "Owner_Withdrawal_ACCTGRD",
+      "Name": "Owner Withdrawal",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "262": {
+      "Id": "a3YDV000000vXGA2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "PFS_Adj_to_Net_Worth_ACCTGRD",
+      "Name": "PFS - Adjustments to Net Worth",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "263": {
+      "Id": "a3YDV000000vXG92AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "PFS_Liabilities_ACCTGRD",
+      "Name": "PFS - Liabilities",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "264": {
+      "Id": "a3YDV000000vXG72AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "PFS_Liquid_Assets_ACCTGRD",
+      "Name": "PFS - Liquid Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "265": {
+      "Id": "a3YDV000000vXG82AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "PFS_Non_Liquid_Assets_ACCTGRD",
+      "Name": "PFS - Non-Liquid Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "266": {
+      "Id": "a3YDV000000vXK92AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "PFS_Total_Assets_ACCTGRD",
+      "Name": "PFS - Total Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "267": {
+      "Id": "a3YDV000000vXFY2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "PFS_Total_Current_Assets_ACCTGRD",
+      "Name": "PFS - Total Current Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "268": {
+      "Id": "a3YDV000000vXFe2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "PFS_Total_Current_Liabilities_ACCTGRD",
+      "Name": "PFS - Total Current Liabilities",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "269": {
+      "Id": "a3YDV000000vXFZ2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "PFS_Total_Intermediate_Assets_ACCTGRD",
+      "Name": "PFS - Total Intermediate Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "270": {
+      "Id": "a3YDV000000vXFf2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "PFS_Total_Intermediate_Liabs_ACCTGRD",
+      "Name": "PFS - Total Intermediate Liabs",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "271": {
+      "Id": "a3YDV000000vXFa2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "PFS_Total_Long_Term_Assets_ACCTGRD",
+      "Name": "PFS - Total Long Term Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "272": {
+      "Id": "a3YDV000000vXFg2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "PFS_Total_Long_Term_Liabs_ACCTGRD",
+      "Name": "PFS - Total Long Term Liabilities",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "273": {
+      "Id": "a3YDV000000vXHI2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Paid_In_Capital_ACCTGRD",
+      "Name": "Paid In Capital",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "274": {
+      "Id": "a3YDV000000vXIt2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "Payroll_And_Benefits",
+      "Name": "Payroll And Benefits",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "275": {
+      "Id": "a3YDV000000vXH42AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Personnel_Expense_ACCTGRD",
+      "Name": "Personnel Expense",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "276": {
+      "Id": "a3YDV000000vXHJ2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Preferred_Stock_ACCTGRD",
+      "Name": "Preferred Stock",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "277": {
+      "Id": "a3YDV000000vXFT2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "PrepaidsDeferreds_CP_ACCTGRD",
+      "Name": "Prepaids/Deferreds - CP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "278": {
+      "Id": "a3YDV000000vXHP2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "PrepaidsDeferreds_LTP_ACCTGRD",
+      "Name": "Prepaids/Deferreds - LTP",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "279": {
+      "Id": "a3YDV000000vXEK2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Prior_Period_CPLTD_Total_ACCTGRD",
+      "Name": "Prior Period CPLTD Total",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "280": {
+      "Id": "a3YDV000000vXFC2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "Prior_Period_Farm_EBIT_ACCTGRD",
+      "Name": "Prior Period Farm EBIT",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "281": {
+      "Id": "a3YDV000000vXEQ2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Prior_Period_Net_Profit_ACCTGRD",
+      "Name": "Prior Period Net Profit",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "282": {
+      "Id": "a3YDV000000vXEN2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Prior_Period_Net_Worth_ACCTGRD",
+      "Name": "Prior Period Net Worth",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "283": {
+      "Id": "a3YDV000000vXEP2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Prior_Period_Operating_Profit_ACCTGRD",
+      "Name": "Prior Period Operating Profit",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "284": {
+      "Id": "a3YDV000000vXEL2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Prior_Period_Total_Assets_ACCTGRD",
+      "Name": "Prior Period Total Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "285": {
+      "Id": "a3YDV000000vXFD2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "Prior_Period_Total_Farm_Assets_ACCTGRD",
+      "Name": "Prior Period Total Farm Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "286": {
+      "Id": "a3YDV000000vXFE2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "Prior_Period_Total_Farm_Equity_ACCTGRD",
+      "Name": "Prior Period Total Farm Equity",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "287": {
+      "Id": "a3YDV000000vXEM2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Prior_Period_Total_Liabilities_ACCTGRD",
+      "Name": "Prior Period Total Liabilities",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "288": {
+      "Id": "a3YDV000000vXEO2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Prior_Period_Total_Sales_ACCTGRD",
+      "Name": "Prior Period Total Sales",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "289": {
+      "Id": "a3YDV000000vXHl2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Profit_Sharing_Plan_Contribution_ACCTGRD",
+      "Name": "Profit Sharing Plan Contribution",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "290": {
+      "Id": "a3YDV000000vXHv2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Proforma_CFC_TCF_ACCTGRD",
+      "Name": "Proforma CFC (TCF)",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "291": {
+      "Id": "a3YDV000000vXIj2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "Property_Taxes",
+      "Name": "Property Taxes",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "292": {
+      "Id": "a3YDV000000vXFW2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "Purchased_Breeding_Stock_ACCTGRD",
+      "Name": "Purchased Breeding Stock",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "293": {
+      "Id": "a3YDV000000vXEu2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "Purchases_BreedingLivestock_ACCTGRD",
+      "Name": "Purchases - Breeding Livestock",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "294": {
+      "Id": "a3YDV000000vXF22AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "Purchases_OtherCapitalAssets_ACCTGRD",
+      "Name": "Purchases - Other Capital Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "295": {
+      "Id": "a3YDV000000vXEX2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Quick_Ratio_ACCTGRD",
+      "Name": "Quick Ratio",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "296": {
+      "Id": "a3YDV000000vXFV2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "Raised_Breeding_Stock_ACCTGRD",
+      "Name": "Raised Breeding Stock",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "297": {
+      "Id": "a3YDV000000vXHW2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Raw_Materials_ACCTGRD",
+      "Name": "Raw Materials",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "298": {
+      "Id": "a3YDV000000vXFA2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "RealEstate_AppreciationorDepreciation_ACCTGRD",
+      "Name": "Real Estate - Appreciation/Depreciation",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "299": {
+      "Id": "a3YDV000000vXJC2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "Reconciled Value",
+      "Name": "Reconciled Value",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "300": {
+      "Id": "a3YDV000000vXIn2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "Repairs_And_Maintenance",
+      "Name": "Repairs and Maintenance",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "301": {
+      "Id": "a3YDV000000vXIg2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "Res_Vacancy_Rate",
+      "Name": "Residential Vacancy Rate",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "302": {
+      "Id": "a3YDV000000vWfb2AE",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "CCMIS Spread Export",
+      "LLC_BI__lookupKey__c": "RetainedEarnings",
+      "Name": "RetainedEarnings",
+      "OwnerId": "0058c00000BxeO9AAJ"
+    },
+    "303": {
+      "Id": "a3YDV000000vXHL2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Retained_Earnings_ACCTGRD",
+      "Name": "Retained Earnings",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "304": {
+      "Id": "a3YDV000000vXEj2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Return_on_Assets_ACCTGRD",
+      "Name": "Return on Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "305": {
+      "Id": "a3YDV000000vXEi2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Return_on_Equity_ACCTGRD",
+      "Name": "Return on Equity",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "306": {
+      "Id": "a3YDV000000vXJN2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Returns_Allowances_ACCTGRD",
+      "Name": "Returns \u0026 Allowances",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "307": {
+      "Id": "a3YDV000000vXH52AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Revolving_Line_of_Credit_ACCTGRD",
+      "Name": "Revolving Line of Credit",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "308": {
+      "Id": "a3YDV000000vXHA2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "ST_Loans_PayableBank_ACCTGRD",
+      "Name": "ST Loans Payable-Bank",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "309": {
+      "Id": "a3YDV000000vXFb2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "ST_Loans_PayableOther_ACCTGRD",
+      "Name": "ST Loans Payable-Other",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "310": {
+      "Id": "a3YDV000000vXFc2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "ST_Notes_Payable_ACCTGRD",
+      "Name": "ST Notes Payable",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "311": {
+      "Id": "a3YDV000000vXFz2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "SalesRevenues_ACCTGRD",
+      "Name": "Sales/Revenues",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "312": {
+      "Id": "a3YDV000000vXFB2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "Sales_OtherCapitalAssets_ACCTGRD",
+      "Name": "Sales - Other Capital Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "313": {
+      "Id": "a3YDV000000vXJj2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_C_Amortization_Expense_ACCTGRD",
+      "Name": "Sch. C - Amortization Expense",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "314": {
+      "Id": "a3YDV000000vXGN2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_C_COGS_ACCTGRD",
+      "Name": "Sch. C - COGS",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "315": {
+      "Id": "a3YDV000000vXJp2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_C_COGS_Depreciation_ACCTGRD",
+      "Name": "Sch. C - COGS Depreciation",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "316": {
+      "Id": "a3YDV000000vXGV2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_C_Cash_Flow_Adj_ACCTGRD",
+      "Name": "Sch. C - Cash Flow Adjustments",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "317": {
+      "Id": "a3YDV000000vXGO2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_C_Depreciation_Expense_ACCTGRD",
+      "Name": "Sch. C - Depreciation Expense",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "318": {
+      "Id": "a3YDV000000vXGE2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_C_Expenses_ACCTGRD",
+      "Name": "Sch. C - Expenses",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "319": {
+      "Id": "a3YDV000000vXGF2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_C_Expenses_for_Primary_Residence_ACCTGRD",
+      "Name": "Sch. C - Expenses for Primary Residence",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "320": {
+      "Id": "a3YDV000000vXJn2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_C_Gross_Sales_ACCTGRD",
+      "Name": "Sch. C - Gross Sales",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "321": {
+      "Id": "a3YDV000000vXJr2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_C_Interest_Expense_ACCTGRD",
+      "Name": "Sch. C - Interest Expense",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "322": {
+      "Id": "a3YDV000000vXJq2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_C_Other_Income_ACCTGRD",
+      "Name": "Sch. C - Other Income",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "323": {
+      "Id": "a3YDV000000vXJs2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_C_Other_Interest_Expense_ACCTGRD",
+      "Name": "Sch. C - Other Interest Expense",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "324": {
+      "Id": "a3YDV000000vXJo2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_C_Returns_Allowances_ACCTGRD",
+      "Name": "Sch. C - Returns \u0026 Allowances",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "325": {
+      "Id": "a3YDV000000vXJm2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_E_ Amortization_ACCTGRD",
+      "Name": "Sch. E - Amortization",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "326": {
+      "Id": "a3YDV000000vXGJ2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_E_ Depreciation_ACCTGRD",
+      "Name": "Sch. E - Depreciation",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "327": {
+      "Id": "a3YDV000000vXGI2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_E_ Mortgage_Interest_Expense_ACCTGRD",
+      "Name": "Sch. E - Mortgage Interest Expense",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "328": {
+      "Id": "a3YDV000000vXJl2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_E_ Other_Interest_Expense_ACCTGRD",
+      "Name": "Sch. E - Other Interest Expense",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "329": {
+      "Id": "a3YDV000000vXGG2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_E_ Rents_Received _ACCTGRD",
+      "Name": "Sch. E - Rents Received",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "330": {
+      "Id": "a3YDV000000vXGH2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_E_ Royalties_Received _ACCTGRD",
+      "Name": "Sch. E - Royalties Received",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "331": {
+      "Id": "a3YDV000000vXGT2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_E_Cash_Flow_Adj_ACCTGRD",
+      "Name": "Sch. E - Cash Flow Adjustments",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "332": {
+      "Id": "a3YDV000000vXJk2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_E_Expenses_ACCTGRD",
+      "Name": "Sch. E - Expenses",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "333": {
+      "Id": "a3YDV000000vXGP2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_E_Income_from_Estates_and_Trusts_ACCTGRD",
+      "Name": "Sch. E - Income from Estates \u0026 Trusts",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "334": {
+      "Id": "a3YDV000000vXGR2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_E_Income_from_Mortgage_Inv_Conduits_ACCTGRD",
+      "Name": "Sch. E - Income from Mortgage Inv. Conduits",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "335": {
+      "Id": "a3YDV000000vXGK2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_E_Income_from_Partn_and_S_Corps_ACCTGRD",
+      "Name": "Sch. E - Income from Partnerships \u0026 S Corps",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "336": {
+      "Id": "a3YDV000000vXJi2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_F_Amortization_Expense_ACCTGRD",
+      "Name": "Sch. F - Amortization Expense",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "337": {
+      "Id": "a3YDV000000vXJu2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_F_Cash_Flow_Adj_ACCTGRD",
+      "Name": "Sch. F - Cash Flow Adjustments",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "338": {
+      "Id": "a3YDV000000vXGQ2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_F_Cost_of_Livestock_ACCTGRD",
+      "Name": "Sch. F - Cost of Livestock",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "339": {
+      "Id": "a3YDV000000vXGC2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_F_Depreciation_Expense_ACCTGRD",
+      "Name": "Sch. F - Depreciation Expense",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "340": {
+      "Id": "a3YDV000000vXGD2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_F_Expenses_ACCTGRD",
+      "Name": "Sch. F - Expenses",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "341": {
+      "Id": "a3YDV000000vXJg2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_F_Interest_Expense_ACCTGRD",
+      "Name": "Sch. F - Interest Expense",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "342": {
+      "Id": "a3YDV000000vXJt2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_F_Other_Income_ACCTGRD",
+      "Name": "Sch. F - Other Income",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "343": {
+      "Id": "a3YDV000000vXJh2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_F_Other_Interest_Expense_ACCTGRD",
+      "Name": "Sch. F - Other Interest Expense",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "344": {
+      "Id": "a3YDV000000vXGS2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "Sch_F_Sales_of_Livestock_ACCTGRD",
+      "Name": "Sch. F - Sales of Livestock",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "345": {
+      "Id": "a3YDV000000vXIa2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Securities_Avail_for_Sale_ACCTGRD",
+      "Name": "Securities Avail for Sale",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "346": {
+      "Id": "a3YDV000000vXIk2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "Security_And_Alarm_Services",
+      "Name": "Security And Alarm Services",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "347": {
+      "Id": "a3YDV000000vXGx2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Selling_Expense_ACCTGRD",
+      "Name": "Selling Expense",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "348": {
+      "Id": "a3YDV000000vXIm2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "Snow_Removal",
+      "Name": "Snow Removal",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "349": {
+      "Id": "a3YDV000000vXIc2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Stock_Warrants_ACCTGRD",
+      "Name": "Stock Warrants",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "350": {
+      "Id": "a3YDV000000vXIJ2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Subord_Deferred_DebtLiab_ACCTGRD",
+      "Name": "Subord Deferred Debt-Liab",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "351": {
+      "Id": "a3YDV000000vXIO2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Subordinated_DebtEquity_ACCTGRD",
+      "Name": "Subordinated Debt-Equity",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "352": {
+      "Id": "a3YDV000000vXHF2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Subordinated_DebtLiab_ACCTGRD",
+      "Name": "Subordinated Debt-Liab",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "353": {
+      "Id": "a3YDV000000vXK02AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Sustainable_Growth_ACCTGRD",
+      "Name": "Sustainable Growth",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "354": {
+      "Id": "a3YDV000000vXJw2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "TCF_Adj_ACCTGRD",
+      "Name": "TCF - Adjustments",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "355": {
+      "Id": "a3YDV000000vXGc2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Cash Flows)",
+      "LLC_BI__lookupKey__c": "TCF_Contributions_ACCTGRD",
+      "Name": "(TCF) Contributions",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "356": {
+      "Id": "a3YDV000000vXGU2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "TCF_Deductions_ACCTGRD",
+      "Name": "TCF - Deductions",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "357": {
+      "Id": "a3YDV000000vXHe2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Cash Flows)",
+      "LLC_BI__lookupKey__c": "TCF_Manual_Adjust_CF_Available_To_Service_Debt_ACCTGRD",
+      "Name": "(TCF) Manual Adjust - CF Available To Service Debt",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "358": {
+      "Id": "a3YDV000000vXJR2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Cash Flows)",
+      "LLC_BI__lookupKey__c": "TCF_Manual_Adjust_Historical_Debt_Service_ACCTGRD",
+      "Name": "(TCF) Manual Adjust - Historical Debt Service",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "359": {
+      "Id": "a3YDV000000vXHf2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Cash Flows)",
+      "LLC_BI__lookupKey__c": "TCF_Manual_Adjust_Pro_Forma_Debt_Service_ACCTGRD",
+      "Name": "(TCF) Manual Adjust - Pro Forma Debt Service",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "360": {
+      "Id": "a3YDV000000vXFL2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "TCF_Net_Cash_Flow_ACCTGRD",
+      "Name": "TCF - Net Cash Flow",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "361": {
+      "Id": "a3YDV000000vXGB2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Individual)",
+      "LLC_BI__lookupKey__c": "TCF_Personal_Income_ACCTGRD",
+      "Name": "TCF - Personal Income",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "362": {
+      "Id": "a3YDV000000vXGd2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Cash Flows)",
+      "LLC_BI__lookupKey__c": "TCF_RentLease_Add_Back_ACCTGRD",
+      "Name": "(TCF) Rent/Lease Add Back",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "363": {
+      "Id": "a3YDV000000vXEa2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Tangible_Net_Worth_Actual_ACCTGRD",
+      "Name": "Tangible Net Worth Actual",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "364": {
+      "Id": "a3YDV000000vXFr2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Cash Accounting)",
+      "LLC_BI__lookupKey__c": "Term_Interest_ACCTGRD",
+      "Name": "Term Interest",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "365": {
+      "Id": "a3YDV000000vXFs2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Cash Accounting)",
+      "LLC_BI__lookupKey__c": "Term_Principal_Payment_ACCTGRD",
+      "Name": "Term Principal Payment",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "366": {
+      "Id": "a3YDV000000vXIe2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Time_Deposits_ACCTGRD",
+      "Name": "Time Deposits",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "367": {
+      "Id": "a3YDV000000vWfd2AE",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "CCMIS Spread Export",
+      "LLC_BI__lookupKey__c": "TotalAssets",
+      "Name": "TotalAssets",
+      "OwnerId": "0058c00000BxeO9AAJ"
+    },
+    "368": {
+      "Id": "a3YDV000000vXK82AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Total_Assets_ACCTGRD",
+      "Name": "Total Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "369": {
+      "Id": "a3YDV000000vXEp2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Total_Assets_Growth_ACCTGRD",
+      "Name": "Total Assets Growth",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "370": {
+      "Id": "a3YDV000000vXJJ2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Total_Assets_to_Net_Sales_ACCTGRD",
+      "Name": "Total Assets to Net Sales",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "371": {
+      "Id": "a3YDV000000vXFw2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Cash Accounting)",
+      "LLC_BI__lookupKey__c": "Total_Cash_ Outflows_ACCTGRD",
+      "Name": "Total Cash Outflows",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "372": {
+      "Id": "a3YDV000000vXFx2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Cash Accounting)",
+      "LLC_BI__lookupKey__c": "Total_Cash_Inflows_ACCTGRD",
+      "Name": "Total Cash Inflows",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "373": {
+      "Id": "a3YDV000000vXKB2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (AG Owner Operator)",
+      "LLC_BI__lookupKey__c": "Total_Gross_Revenue_ACCTGRD",
+      "Name": "Total Gross Revenue",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "374": {
+      "Id": "a3YDV000000vXEk2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Total_Liabilities_Growth_ACCTGRD",
+      "Name": "Total Liabilities Growth",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "375": {
+      "Id": "a3YDV000000vXKA2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Income Statement)",
+      "LLC_BI__lookupKey__c": "Total_Net_SalesRevenue_ACCTGRD",
+      "Name": "Total Net Sales/Revenue",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "376": {
+      "Id": "a3YDV000000vXJa2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Transportation_Equipment_ACCTGRD",
+      "Name": "Transportation Equipment",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "377": {
+      "Id": "a3YDV000000vXHK2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Treasury_Stock_ACCTGRD",
+      "Name": "Treasury Stock",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "378": {
+      "Id": "a3YDV000000vXGy2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "UCA_CFC_PP_CPLTD_ACCTGRD",
+      "Name": "UCA CFC (PP CPLTD)",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "379": {
+      "Id": "a3YDV000000vXHs2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "UCA_Cash_Flow_Coverage_ACCTGRD",
+      "Name": "UCA Cash Flow Coverage",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "380": {
+      "Id": "a3YDV000000vXK62AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "Utilities",
+      "Name": "Utilities",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "381": {
+      "Id": "a3YDV000000vXHk2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "WagesSalaries_Payable_ACCTGRD",
+      "Name": "Wages/Salaries Payable",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "382": {
+      "Id": "a3YDV000000vXHX2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Balance Sheet)",
+      "LLC_BI__lookupKey__c": "Work_in_Process_ACCTGRD",
+      "Name": "Work in Process",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "383": {
+      "Id": "a3YDV000000vXEU2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Accounting Grid (Ratios/Stats)",
+      "LLC_BI__lookupKey__c": "Working_Capital_ACCTGRD",
+      "Name": "Working Capital",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "384": {
+      "Id": "a3YDV000000vWfR2AU",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Non Accounting",
+      "LLC_BI__lookupKey__c": "accounting_tag_not_required",
+      "Name": "Accounting Tag Not Required",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "385": {
+      "Id": "a3YDV000000vWfE2AU",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "accumulated_amortization",
+      "Name": "Accumulated Amortization",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "386": {
+      "Id": "a3YDV000000vWf92AE",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "accumulated_depreciation",
+      "Name": "Accumulated Depreciation",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "387": {
+      "Id": "a3YDV000000vWfK2AU",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "amortization",
+      "Name": "Amortization",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "388": {
+      "Id": "a3YDV000000vWfD2AU",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "buildings",
+      "Name": "Buildings",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "389": {
+      "Id": "a3YDV000000vWfT2AU",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "cap_rate",
+      "Name": "Cap Rate",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "390": {
+      "Id": "a3YDV000000vWf42AE",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "cash",
+      "Name": "Cash",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "391": {
+      "Id": "a3YDV000000vXIx2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "cash_flow_after_debt_service",
+      "Name": "Cash Flow After Debt Service",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "392": {
+      "Id": "a3YDV000000vWes2AE",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "cost_of_sales",
+      "Name": "Cost of Sales",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "393": {
+      "Id": "a3YDV000000vWfF2AU",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "current_portion_of_long_term_debt",
+      "Name": "Current Portion of Long Term Debt",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "394": {
+      "Id": "a3YDV000000vWfS2AU",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "debt_service",
+      "Name": "Debt Service",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "395": {
+      "Id": "a3YDV000000vWfQ2AU",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "deferred_taxes",
+      "Name": "Deferred Taxes",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "396": {
+      "Id": "a3YDV000000vWez2AE",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Income Statement",
+      "LLC_BI__lookupKey__c": "depletion",
+      "Name": "Depletion",
+      "OwnerId": "0058c00000BxeO9AAJ"
+    },
+    "397": {
+      "Id": "a3YDV000000vWew2AE",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "depreciation",
+      "Name": "Depreciation",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "398": {
+      "Id": "a3YDV000000vXIy2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "dscr",
+      "Name": "Debt Service Coverage Ratio",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "399": {
+      "Id": "a3YDV000000vXJD2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "estimated_value",
+      "Name": "Estimated Value",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "400": {
+      "Id": "a3YDV000000vWfA2AU",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Asset",
+      "LLC_BI__lookupKey__c": "fixed_assets_net",
+      "Name": "Fixed Assets (net)",
+      "OwnerId": "0058c00000BxeO9AAJ"
+    },
+    "401": {
+      "Id": "a3YDV000000vWfL2AU",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "income_taxes",
+      "Name": "Income Taxes",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "402": {
+      "Id": "a3YDV000000vWfP2AU",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "income_taxes_payable",
+      "Name": "Income Taxes Payable",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "403": {
+      "Id": "a3YDV000000vWfN2AU",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "intangibles_gross",
+      "Name": "Intangibles (gross)",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "404": {
+      "Id": "a3YDV000000vWfC2AU",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "intangibles_net",
+      "Name": "Intangibles (net)",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "405": {
+      "Id": "a3YDV000000vWex2AE",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "interest_expense",
+      "Name": "Interest Expense",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "406": {
+      "Id": "a3YDV000000vWf62AE",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "inventory",
+      "Name": "Inventory",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "407": {
+      "Id": "a3YDV000000vWfI2AU",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "land",
+      "Name": "Land",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "408": {
+      "Id": "a3YDV000000vWf02AE",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "long_term_debt",
+      "Name": "Long Term Debt",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "409": {
+      "Id": "a3YDV000000vXJF2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "ltv",
+      "Name": "Loan to Value",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "410": {
+      "Id": "a3YDV000000vXK72AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "management_fees",
+      "Name": "Management Fees",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "411": {
+      "Id": "a3YDV000000vWfM2AU",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "marketable_securities",
+      "Name": "Marketable Securities",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "412": {
+      "Id": "a3YDV000000vXJH2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "max_annual_payment_given_policy_dscr",
+      "Name": "Max Annual Payment Given Policy DSCR",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "413": {
+      "Id": "a3YDV000000vXJG2A2",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "max_loan_policy_dscr",
+      "Name": "Max Loan Policy DSCR",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "414": {
+      "Id": "a3YDV000000vWfO2AU",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "notes_payable_short_term",
+      "Name": "Notes Payable - Short Term",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "415": {
+      "Id": "a3YDV000000vWev2AE",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "officers_directors_owners_compensation",
+      "Name": "Officers\u0027, Directors\u0027, Owners\u0027 Compensation",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "416": {
+      "Id": "a3YDV000000vWfa2AE",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "operating_expenses",
+      "Name": "CRE Operating Expenses",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "417": {
+      "Id": "a3YDV000000vWf82AE",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "other_current_assets",
+      "Name": "Other Current Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "418": {
+      "Id": "a3YDV000000vWfG2AU",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "other_current_liabilities",
+      "Name": "Other Current Liabilities",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "419": {
+      "Id": "a3YDV000000vWf22AE",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "other_equity",
+      "Name": "Other Equity",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "420": {
+      "Id": "a3YDV000000vWfZ2AU",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "other_income",
+      "Name": "Other Income",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "421": {
+      "Id": "a3YDV000000vWet2AE",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "other_income_and_expense",
+      "Name": "Other Income and Expense",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "422": {
+      "Id": "a3YDV000000vWf72AE",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "other_liquid_assets",
+      "Name": "Other Liquid Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "423": {
+      "Id": "a3YDV000000vWfB2AU",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "other_non_current_assets",
+      "Name": "Other Non-Current Assets",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "424": {
+      "Id": "a3YDV000000vWf12AE",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "other_non_current_liabilities",
+      "Name": "Other Non-current Liabilities",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "425": {
+      "Id": "a3YDV000000vWeu2AE",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "other_operating_expenses",
+      "Name": "Other Operating Expenses",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "426": {
+      "Id": "a3YDV000000vWey2AE",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "paid_in_capital",
+      "Name": "Paid-in Capital",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "427": {
+      "Id": "a3YDV000000vXIi2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "potential_gross_income",
+      "Name": "Potential Gross Income",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "428": {
+      "Id": "a3YDV000000vWfJ2AU",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "property_plant_equipment",
+      "Name": "Property, Plant, \u0026 Equipment",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "429": {
+      "Id": "a3YDV000000vWfY2AU",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "rental_income",
+      "Name": "Rental Income",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "430": {
+      "Id": "a3YDV000000vXIv2AM",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "replacement reserves",
+      "Name": "Replacement Reserves",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "431": {
+      "Id": "a3YDV000000vWf32AE",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "retained_earnings",
+      "Name": "Retained Earnings",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "432": {
+      "Id": "a3YDV000000vWfX2AU",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "room_revenue",
+      "Name": "Room Revenue",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "433": {
+      "Id": "a3YDV000000vWer2AE",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "sales_net",
+      "Name": "Sales (net)",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "434": {
+      "Id": "a3YDV000000vWfW2AU",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "total_available_rooms",
+      "Name": "Total Available Rooms",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "435": {
+      "Id": "a3YDV000000vWfV2AU",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "total_vacancy_amount",
+      "Name": "Total Vacancy Amount",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "436": {
+      "Id": "a3YDV000000vWfH2AU",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "trade_payables",
+      "Name": "Trade Payables",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "437": {
+      "Id": "a3YDV000000vWf52AE",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "RMA Benchmarking",
+      "LLC_BI__lookupKey__c": "trade_receivables_net",
+      "Name": "Trade Receivables (net)",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    },
+    "438": {
+      "Id": "a3YDV000000vWfU2AU",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "NOI Statement",
+      "LLC_BI__lookupKey__c": "vacancy_rate",
+      "Name": "Vacancy Rate",
+      "OwnerId": "0058c00000Dk4fdAAB"
+    }
+  }
+}

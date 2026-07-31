@@ -1,0 +1,6 @@
+"Id","IsDeleted","LLC_BI__Description__c","LLC_BI__Is_Active__c","LLC_BI__Purpose__c","LLC_BI__lookupKey__c","Name","OwnerId"
+"a4TDV000000eLLr2AM","false","Reduce Revenue by 10%","true","Projection","1a007dd4-7576-4e62-ad64-39f1a7f62ca7","Adverse (-10% Sales)","0058c00000BxeO9AAJ"
+"a4TDV000000eLNE2A2","false","Neutral Projection Template with no Pre-configured Changes.","true","Projection","4ef5eeab-a29e-4319-b798-47cea52e950c","No Change","0058c00000Dk4fdAAB"
+"a4TDV000000eLLs2AM","false","Reduce Sales by 20%","true","Projection","5e5c9df8-6c1d-4750-bf52-a32221535095","Severely Adverse (-20% Sales)","0058c00000BxeO9AAJ"
+"a4TDV000000eLNF2A2","false","","true","Average","81357ffb-e67c-40f1-8a08-2448e4c3d7f3","Average Period AG","0058c00000Dk4fdAAB"
+"a4TDV000000eLLq2AM","false","This template causes all projections to be increased by 0.","true","Projection","qwerzxvchsfgd1","Baseline Projections Template","0058c00000BxeO9AAJ"
