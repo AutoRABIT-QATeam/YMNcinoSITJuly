@@ -87,3 +87,10 @@ packageDirectories:
           versions:
             '1':
               modifiedDate: '2026-08-07 07:47:28'
+        01kZoY0C-Feature-scarch:
+          path: dataset/01kZoY0C-Feature-scarch
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1':
+              modifiedDate: '2026-08-07 07:53:15'
