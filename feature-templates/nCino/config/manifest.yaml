@@ -1,0 +1,33 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        01jAhI0O-Branches-brachnes:
+          path: dataset/01jAhI0O-Branches-brachnes
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1':
+              modifiedDate: '2026-08-07 11:34:26'
+        01jAhI0O-User Interface-UI1:
+          path: dataset/01jAhI0O-User Interface-UI1
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1':
+              modifiedDate: '2026-08-07 11:34:30'
+        01oPlE0Z-Rules Engine:
+          path: dataset/01oPlE0Z-Rules Engine
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-07 11:34:30'
+        01oPlE0Z-Screens:
+          path: dataset/01oPlE0Z-Screens
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-07 11:34:32'
