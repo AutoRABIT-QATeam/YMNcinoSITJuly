@@ -1,0 +1,115 @@
+{
+  "name": "1_nFORCE__Tile__c",
+  "attributes": [
+    "Id",
+    "IsDeleted",
+    "Name",
+    "OwnerId",
+    "nFORCE__Body__c",
+    "nFORCE__Header__c",
+    "nFORCE__Icon_Path__c",
+    "nFORCE__lookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a11WD000006LpKDYA0",
+      "IsDeleted": "false",
+      "Name": "sridhar-agfirst-ticket",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Body__c": "\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003ca href\u003d\"https://www.agfirst.com/ccpa.aspx\" target\u003d\"_blank\" style\u003d\"font-size: 14px;\"\u003eCalifornia Consumer Privacy Act\u003c/a\u003e\u003c/li\u003e\u003cli\u003e\u003ca href\u003d\"https://www.agfirst.com/code-of-ethics.aspx\" target\u003d\"_blank\" style\u003d\"font-size: 14px;\"\u003eCode of Ethics \u0026amp; Charter\u003c/a\u003e\u003c/li\u003e\u003cli\u003e\u003ca href\u003d\"https://www.agfirst.com/privacy-policy.aspx\" target\u003d\"_blank\" style\u003d\"font-size: 14px;\"\u003ePrivacy Policy\u003c/a\u003e\u003c/li\u003e\u003cli\u003e\u003ca href\u003d\"https://www.agfirst.com/disclosures.aspx\" target\u003d\"_blank\" style\u003d\"font-size: 14px;\"\u003eTerms \u0026amp; Conditions\u003c/a\u003e\u003c/li\u003e\u003c/ul\u003e",
+      "nFORCE__Header__c": "",
+      "nFORCE__Icon_Path__c": "",
+      "nFORCE__lookupKey__c": "42080644754773373"
+    },
+    "2": {
+      "Id": "a11WD000006LpKEYA0",
+      "IsDeleted": "false",
+      "Name": "RollBackTest-0719-001",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Body__c": "",
+      "nFORCE__Header__c": "",
+      "nFORCE__Icon_Path__c": "",
+      "nFORCE__lookupKey__c": "42130818514251094"
+    },
+    "3": {
+      "Id": "a11WD000006LpKFYA0",
+      "IsDeleted": "false",
+      "Name": "Test-Tile-001",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Body__c": "This is RIXH Text Area Field.",
+      "nFORCE__Header__c": "",
+      "nFORCE__Icon_Path__c": "Test for NULL Value",
+      "nFORCE__lookupKey__c": "42307282055305349"
+    },
+    "4": {
+      "Id": "a11WD000006LpKGYA0",
+      "IsDeleted": "false",
+      "Name": "RollBackTest-0722-002",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Body__c": "",
+      "nFORCE__Header__c": "",
+      "nFORCE__Icon_Path__c": "",
+      "nFORCE__lookupKey__c": "42471668042593066"
+    },
+    "5": {
+      "Id": "a11WD000006LpKHYA0",
+      "IsDeleted": "false",
+      "Name": "Tile-73371-Test",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Body__c": "\u003cul\u003e\u003cli\u003e\u003ca target\u003d\"_blank\"\u003eEqual Housing Lender\u003c/a\u003e\u003c/li\u003e\u003cli\u003e\u003ca href\u003d\"https://www.agfirst.com/disclosures.aspx#Equal%20Credit%20Opportunity%20Act\" target\u003d\"_blank\"\u003eEqual Credit Opportunity\u003c/a\u003e\u003c/li\u003e\u003cli\u003e\u003ca href\u003d\"https://www.agfirst.com/disclosures.aspx#Equal%20Opportunity%20Employer\" target\u003d\"_blank\"\u003eEqual Opportunity Employer\u003c/a\u003e\u003c/li\u003e\u003cli\u003e\u003ca href\u003d\"https://www.agfirst.com/ccpa.aspx\" target\u003d\"_blank\"\u003eCalifornia Consumer Privacy Act\u003c/a\u003e\u003c/li\u003e\u003cli\u003e\u003ca href\u003d\"https://www.agfirst.com/code-of-ethics.aspx\" target\u003d\"_blank\"\u003eCode of Ethics \u0026amp; Charter\u003c/a\u003e\u003c/li\u003e\u003cli\u003ehref\u003d\u0026quot;https://www.agfirst.com/privacy-policy.aspx\u0026quot; target\u003d\u0026quot;_blank\u0026quot; style\u003d\u0026quot;font-size: 14px;\u0026quot;\u0026gt;Privacy Policy\u003c/li\u003e\u003cli\u003e\u003cstrong\u003eTerms \u0026amp; Conditions\u003c/strong\u003e\u003c/li\u003e\u003cli\u003e\u003ca target\u003d\"_blank\"\u003eVinay test\u003c/a\u003e\u003c/li\u003e\u003c/ul\u003e",
+      "nFORCE__Header__c": "",
+      "nFORCE__Icon_Path__c": "",
+      "nFORCE__lookupKey__c": "42555514070635446"
+    },
+    "6": {
+      "Id": "a11WD000006LpKLYA0",
+      "IsDeleted": "false",
+      "Name": "Income Disclaimer",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Body__c": "\u003cp style\u003d\"text-align: center;\"\u003e\u003cspan style\u003d\"color: rgb(68, 68, 68);\"\u003eNote: You are not legally required to provide income details from Alimony or Child Support if you do not want it considered in determining your creditworthiness.\u003c/span\u003e\u003c/p\u003e",
+      "nFORCE__Header__c": "",
+      "nFORCE__Icon_Path__c": "utility-sprite/svg/symbols.svg#info",
+      "nFORCE__lookupKey__c": "42629667351181365"
+    },
+    "7": {
+      "Id": "a11WD000006LpKIYA0",
+      "IsDeleted": "false",
+      "Name": "RollBackTest-0724-001",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Body__c": "",
+      "nFORCE__Header__c": "",
+      "nFORCE__Icon_Path__c": "",
+      "nFORCE__lookupKey__c": "42726067001483098"
+    },
+    "8": {
+      "Id": "a11WD000006LpKMYA0",
+      "IsDeleted": "false",
+      "Name": "USA Patriot Act",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Body__c": "To help the government fight the funding of terrorism and money laundering activities, Federal law requires all financial institutions to obtain, verify, and record information that identifies each person who opens an account.\u003cbr\u003e\u003cbr\u003eWhat this means for you: When you open an account, we will ask for your name, address, date of birth, and other information that will allow us to identify you. We may also ask to see your driver’s license or other identifying documents.\u003cbr\u003e ",
+      "nFORCE__Header__c": "USA Patriot Act",
+      "nFORCE__Icon_Path__c": "",
+      "nFORCE__lookupKey__c": "42942675889941202"
+    },
+    "9": {
+      "Id": "a11WD000006LpKJYA0",
+      "IsDeleted": "false",
+      "Name": "FAQs-Personal",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Body__c": "\u003cdiv style\u003d\"text-align: center;\"\u003e\u003ca href\u003d\"http://www.ncino.com\" target\u003d\"_blank\"\u003eC\u003c/a\u003e\u003ca href\u003d\"http://www.ncino.com\" target\u003d\"_blank\"\u003ean I apply for this loan if I am not the business owner?\u003c/a\u003e\u003c/div\u003e\n\n\u003cdiv style\u003d\"text-align: center;\"\u003e\u003ca href\u003d\"http://www.ncino.com\" target\u003d\"_blank\"\u003eWhy do you need to review my credit history?\u003c/a\u003e\u003c/div\u003e\n\n\u003cdiv style\u003d\"text-align: center;\"\u003e\u003ca href\u003d\"http://www.ncino.com\" target\u003d\"_blank\"\u003eHow do I save and come back later?\u003c/a\u003e\u003c/div\u003e",
+      "nFORCE__Header__c": "FAQs",
+      "nFORCE__Icon_Path__c": "action-sprite/svg/symbols.svg#question_post_action",
+      "nFORCE__lookupKey__c": "a5q3g000000XZRHAA4"
+    },
+    "10": {
+      "Id": "a11WD000006LpKKYA0",
+      "IsDeleted": "false",
+      "Name": "Need Help",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Body__c": "\u003cdiv style\u003d\"text-align: center;\"\u003eYour Personal Banker is here to help.  Contact us now!\u003cbr\u003e\u003cbr\u003e\u003c/div\u003e",
+      "nFORCE__Header__c": "Need Help?",
+      "nFORCE__Icon_Path__c": "action-sprite/svg/symbols.svg#add_contact",
+      "nFORCE__lookupKey__c": "a5q3g000000XZRIAA4"
+    }
+  }
+}

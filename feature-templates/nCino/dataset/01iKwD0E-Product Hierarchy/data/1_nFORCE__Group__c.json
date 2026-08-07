@@ -1,0 +1,47 @@
+{
+  "name": "1_nFORCE__Group__c",
+  "attributes": [
+    "ChexSystems_route__c",
+    "Description_Custom__c",
+    "Id",
+    "IsDeleted",
+    "Name",
+    "OwnerId",
+    "nFORCE__Answer_Context__c",
+    "nFORCE__App__c",
+    "nFORCE__Category__c",
+    "nFORCE__Default_Collapse_Parent_Navigation__c",
+    "nFORCE__Description__c",
+    "nFORCE__Is_Archived__c",
+    "nFORCE__Is_Questionnaire__c",
+    "nFORCE__Parent_Group__c",
+    "nFORCE__Screen__c",
+    "nFORCE__Taxonomy_Id__c",
+    "nFORCE__lookupKey__c",
+    "nPortal__Context_Type__c",
+    "nPortal__Is_Portal_Enabled__c"
+  ],
+  "records": {
+    "1": {
+      "ChexSystems_route__c": "",
+      "Description_Custom__c": "",
+      "Id": "a2Bbn000000KMCWEA4",
+      "IsDeleted": "false",
+      "Name": "Small Business Loan Online Application",
+      "OwnerId": "005bn000003k2JdAAI",
+      "nFORCE__Answer_Context__c": "",
+      "nFORCE__App__c": "small-business-loan-online-application",
+      "nFORCE__Category__c": "Online Application",
+      "nFORCE__Default_Collapse_Parent_Navigation__c": "false",
+      "nFORCE__Description__c": "",
+      "nFORCE__Is_Archived__c": "false",
+      "nFORCE__Is_Questionnaire__c": "false",
+      "nFORCE__Parent_Group__c": "",
+      "nFORCE__Screen__c": "",
+      "nFORCE__Taxonomy_Id__c": "portal-sbloan",
+      "nFORCE__lookupKey__c": "41241666029060795",
+      "nPortal__Context_Type__c": "Applicant",
+      "nPortal__Is_Portal_Enabled__c": "true"
+    }
+  }
+}

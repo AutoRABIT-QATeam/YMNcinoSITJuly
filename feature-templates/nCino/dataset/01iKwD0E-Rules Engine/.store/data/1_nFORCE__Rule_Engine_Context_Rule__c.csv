@@ -1,6 +1,7 @@
 "Id","IsDeleted","Name","nFORCE__Description__c","nFORCE__Rule_Engine_Context__c","nFORCE__lookupKey__c"
 "a31bn000000i1ADAAY","","Retrieve Pricing Options Retail Pricing","Create the pricing option(s) based on information in the Loan specific to Retail Pricing.","a32bn000000i7qkAAA","42124860362386702"
 "a31bn000000i1A6AAI","","Retrieve Pricing Options","Create the pricing option(s) based on information in the Loan.","a32bn000000i7qcAAA","Asdc6498yn"
+"a31bn000000i1A5AAI","","DuplicateContentVersion","","a32bn000000i7qbAAA","asdadsfdfsfdsfds1"
 "a31bn000000i1ACAAY","","CLA Inspection PlaceHolder Creation","The CLA Inspection PlaceHolder Creation rule runs when a new Valuation object is created in order to create one or more Document Manager placeholders.","a32bn000000i7qiAAA","asdtr134"
 "a31bn000000i1AAAAY","","Loan Auto-Decision","The Loan Auto-Decision Rule context runs when the Auto-Decision Action item is selected from a loan","a32bn000000i7qgAAA","ashg5y5432"
 "a31bn000000i1A8AAI","","Credit Request Preprocessing","This is run before creating a credit request to determine the parameters for the request","a32bn000000i7qeAAA","cfvasdf1435234"

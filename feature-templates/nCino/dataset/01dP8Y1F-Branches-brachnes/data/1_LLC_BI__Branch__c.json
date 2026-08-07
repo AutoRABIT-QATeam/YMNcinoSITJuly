@@ -1,10 +1,9 @@
 {
   "name": "1_LLC_BI__Branch__c",
   "attributes": [
+    "AutorabitExtId__c",
     "Id",
-    "OwnerId",
     "IsDeleted",
-    "Name",
     "LLC_BI__Branch_Id__c",
     "LLC_BI__City__c",
     "LLC_BI__County__c",
@@ -20,7 +19,8 @@
     "LLC_BI__Street__c",
     "LLC_BI__Zip_Code__c",
     "LLC_BI__lookupKey__c",
-    "AutorabitExtId__c"
+    "Name",
+    "OwnerId"
   ],
   "records": {
     "1": {

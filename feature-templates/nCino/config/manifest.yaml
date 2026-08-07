@@ -16,14 +16,14 @@ packageDirectories:
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-07-27 15:56:32'
+              modifiedDate: '2026-08-07 13:33:21'
         01iKwD0E-Screens:
           path: dataset/01iKwD0E-Screens
           prefix: ncino
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-07-24 14:59:55'
+              modifiedDate: '2026-08-07 13:33:20'
         01dP8Y1F-Feature-M:
           path: dataset/01dP8Y1F-Feature-M
           prefix: Regre
@@ -37,11 +37,46 @@ packageDirectories:
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-07-31 11:37:07'
+              modifiedDate: '2026-08-07 13:33:21'
         01dP8Y1F-Branches-brachnes:
           path: dataset/01dP8Y1F-Branches-brachnes
           prefix: Regre
           standardFeature: false
           versions:
             '1':
-              modifiedDate: '2026-08-07 13:24:19'
+              modifiedDate: '2026-08-07 13:33:19'
+        01dP8Y1F-User Interface-UI1:
+          path: dataset/01dP8Y1F-User Interface-UI1
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1':
+              modifiedDate: '2026-08-07 13:33:20'
+        01iKwD0E-Product Hierarchy:
+          path: dataset/01iKwD0E-Product Hierarchy
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-07 13:33:21'
+        01dP8Y1F-Feature-scarch:
+          path: dataset/01dP8Y1F-Feature-scarch
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1':
+              modifiedDate: '2026-08-07 13:33:21'
+        01iKwD0E-Forms:
+          path: dataset/01iKwD0E-Forms
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v2:
+              modifiedDate: '2026-08-07 13:33:21'
+        01iKwD0E-Product Hierarchy with Group:
+          path: dataset/01iKwD0E-Product Hierarchy with Group
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-07 13:33:21'

@@ -1,0 +1,61 @@
+{
+  "name": "1_nFORCE__Screen__c",
+  "attributes": [
+    "Id",
+    "IsDeleted",
+    "Name",
+    "OwnerId",
+    "nFORCE__Disable_Print__c",
+    "nFORCE__Disable_Read_Only_View__c",
+    "nFORCE__Show_Link_To_Context_Object__c",
+    "nFORCE__lookupKey__c",
+    "nPortal__Add_Multi_Record_Display_Icon__c",
+    "nPortal__Maximum_Number_of_Records__c",
+    "nPortal__Minimum_Number_of_Records__c",
+    "nPortal__OA_Review_Multiple_Record_Entry_Label__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a2Gbn000000mWf8EAE",
+      "IsDeleted": "false",
+      "Name": "DAO In-Branch - Ancillary Services Information",
+      "OwnerId": "005bn000003k2JdAAI",
+      "nFORCE__Disable_Print__c": "false",
+      "nFORCE__Disable_Read_Only_View__c": "false",
+      "nFORCE__Show_Link_To_Context_Object__c": "true",
+      "nFORCE__lookupKey__c": "42003474925522009",
+      "nPortal__Add_Multi_Record_Display_Icon__c": "",
+      "nPortal__Maximum_Number_of_Records__c": "",
+      "nPortal__Minimum_Number_of_Records__c": "",
+      "nPortal__OA_Review_Multiple_Record_Entry_Label__c": ""
+    },
+    "2": {
+      "Id": "a2Gbn000000mXOKEA2",
+      "IsDeleted": "false",
+      "Name": "DAO In-Branch Workflow- Product Information",
+      "OwnerId": "005bn000003k2JdAAI",
+      "nFORCE__Disable_Print__c": "false",
+      "nFORCE__Disable_Read_Only_View__c": "false",
+      "nFORCE__Show_Link_To_Context_Object__c": "true",
+      "nFORCE__lookupKey__c": "42716762031533477",
+      "nPortal__Add_Multi_Record_Display_Icon__c": "",
+      "nPortal__Maximum_Number_of_Records__c": "",
+      "nPortal__Minimum_Number_of_Records__c": "",
+      "nPortal__OA_Review_Multiple_Record_Entry_Label__c": ""
+    },
+    "3": {
+      "Id": "a2Gbn000000mWf7EAE",
+      "IsDeleted": "false",
+      "Name": "OA - Overdraft Opt-In Acknowledgement",
+      "OwnerId": "005bn000003k2JdAAI",
+      "nFORCE__Disable_Print__c": "false",
+      "nFORCE__Disable_Read_Only_View__c": "false",
+      "nFORCE__Show_Link_To_Context_Object__c": "true",
+      "nFORCE__lookupKey__c": "42774638895939535",
+      "nPortal__Add_Multi_Record_Display_Icon__c": "",
+      "nPortal__Maximum_Number_of_Records__c": "",
+      "nPortal__Minimum_Number_of_Records__c": "",
+      "nPortal__OA_Review_Multiple_Record_Entry_Label__c": ""
+    }
+  }
+}

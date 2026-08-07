@@ -70,6 +70,20 @@
       "nFORCE__Rule_Engine__c": "nFORCE.FlowRuleEngine:rule-engine",
       "nFORCE__Start_Date__c": "2025-01-06",
       "nFORCE__lookupKey__c": "abc123"
+    },
+    "5": {
+      "Id": "a33bn000000asczAAA",
+      "IsDeleted": "",
+      "Name": "RER00040",
+      "nFORCE__Active__c": "",
+      "nFORCE__Description__c": "",
+      "nFORCE__End_Date__c": "2042-01-01",
+      "nFORCE__Rule_Engine_Context_Rule__c": "a31bn000000i1AAAAY",
+      "nFORCE__Rule_Engine_Rule_Name__c": "Initial_Loan_Auto_Decision",
+      "nFORCE__Rule_Engine_Rule_Reference__c": "3005f000001YRNcAAO",
+      "nFORCE__Rule_Engine__c": "nFORCE.FlowRuleEngine:rule-engine",
+      "nFORCE__Start_Date__c": "2022-01-01",
+      "nFORCE__lookupKey__c": "def456"
     }
   }
 }

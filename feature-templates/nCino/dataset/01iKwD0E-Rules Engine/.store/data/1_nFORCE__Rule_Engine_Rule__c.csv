@@ -3,3 +3,4 @@
 "a33bn000000asd2AAA","","RER00043","","","2042-03-31","a31bn000000i1A7AAI","Initial_Display_Offers","3005f000001YRNTAA4","nFORCE.FlowRuleEngine:rule-engine","2022-03-01","42511303862797440"
 "a33bn000000asd3AAA","","RER00044","","Retrieve pricing options by product line","2042-04-01","a31bn000000i1A6AAI","Initial_Retrieve_Pricing_Options","3005f000001YRNmAAO","nFORCE.FlowRuleEngine:rule-engine","2022-04-01","42681346349231765"
 "a33bn000000asd0AAA","","RER00041","","CLA Inspection placeholder in Document Manager","2027-12-05","a31bn000000i1ACAAY","InspectionPlaceholder","3005f0000019sljAAA","nFORCE.FlowRuleEngine:rule-engine","2025-01-06","abc123"
+"a33bn000000asczAAA","","RER00040","","","2042-01-01","a31bn000000i1AAAAY","Initial_Loan_Auto_Decision","3005f000001YRNcAAO","nFORCE.FlowRuleEngine:rule-engine","2022-01-01","def456"

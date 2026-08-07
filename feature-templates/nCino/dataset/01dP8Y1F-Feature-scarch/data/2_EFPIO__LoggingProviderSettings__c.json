@@ -1,0 +1,23 @@
+{
+  "name": "2_EFPIO__LoggingProviderSettings__c",
+  "attributes": [
+    "EFPIO__LoggingLevels__c",
+    "EFPIO__LoggingMaxRetryAttempts__c",
+    "EFPIO__LoggingProvider__c",
+    "Id",
+    "IsDeleted",
+    "Name",
+    "SetupOwnerId"
+  ],
+  "records": {
+    "1": {
+      "EFPIO__LoggingLevels__c": "NONE",
+      "EFPIO__LoggingMaxRetryAttempts__c": "",
+      "EFPIO__LoggingProvider__c": "EFPIO.TransactionLoggingProvider_v3",
+      "Id": "a5tal00001KRbFZAA1",
+      "IsDeleted": "false",
+      "Name": "a5tal00001KRbFZ",
+      "SetupOwnerId": ""
+    }
+  }
+}

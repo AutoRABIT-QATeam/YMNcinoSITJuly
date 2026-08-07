@@ -1,0 +1,4 @@
+{
+  "name": "EFPIO__OrchestrationEventSettings__c",
+  "query": "Select Id From EFPIO__OrchestrationEventSettings__c "
+}

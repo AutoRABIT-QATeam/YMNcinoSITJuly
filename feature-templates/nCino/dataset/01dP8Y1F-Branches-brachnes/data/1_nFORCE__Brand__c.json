@@ -1,17 +1,17 @@
 {
   "name": "1_nFORCE__Brand__c",
   "attributes": [
+    "AutorabitExtId__c",
     "Id",
-    "OwnerId",
     "IsDeleted",
     "Name",
+    "OwnerId",
     "nFORCE__Brand_Custom_CSS__c",
     "nFORCE__Brand_JSON__c",
     "nFORCE__Description__c",
     "nFORCE__Is_Applied__c",
     "nFORCE__Look_Up_Key__c",
-    "nFORCE__LookupKey__c",
-    "AutorabitExtId__c"
+    "nFORCE__LookupKey__c"
   ],
   "records": {
     "1": {

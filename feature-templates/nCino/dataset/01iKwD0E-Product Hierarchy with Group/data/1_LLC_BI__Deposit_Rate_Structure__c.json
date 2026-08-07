@@ -1,0 +1,105 @@
+{
+  "name": "1_LLC_BI__Deposit_Rate_Structure__c",
+  "attributes": [
+    "Id",
+    "IsDeleted",
+    "LLC_BI__Is_Template__c",
+    "LLC_BI__Type__c",
+    "LLC_BI__lookupKey__c",
+    "Name",
+    "OwnerId",
+    "Product_Type__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a3ybn0000002k0lAAA",
+      "IsDeleted": "",
+      "LLC_BI__Is_Template__c": "true",
+      "LLC_BI__Type__c": "Tiered",
+      "LLC_BI__lookupKey__c": "42180522650340896",
+      "Name": "Roth Fixed IRA",
+      "OwnerId": "005bn000003k2JdAAI",
+      "Product_Type__c": "IRA"
+    },
+    "2": {
+      "Id": "a3ybn0000002k0kAAA",
+      "IsDeleted": "",
+      "LLC_BI__Is_Template__c": "true",
+      "LLC_BI__Type__c": "Tiered",
+      "LLC_BI__lookupKey__c": "42188463157965038",
+      "Name": "Traditional Fixed IRA",
+      "OwnerId": "005bn000003k2JdAAI",
+      "Product_Type__c": "IRA"
+    },
+    "3": {
+      "Id": "a3ybn0000002k0fAAA",
+      "IsDeleted": "",
+      "LLC_BI__Is_Template__c": "true",
+      "LLC_BI__Type__c": "Single",
+      "LLC_BI__lookupKey__c": "42244523527536086",
+      "Name": "Silver Savings",
+      "OwnerId": "005bn000003k2JdAAI",
+      "Product_Type__c": "Consumer Savings"
+    },
+    "4": {
+      "Id": "a3ybn0000002k0hAAA",
+      "IsDeleted": "",
+      "LLC_BI__Is_Template__c": "true",
+      "LLC_BI__Type__c": "Single",
+      "LLC_BI__lookupKey__c": "42672927583424186",
+      "Name": "12 Month CD",
+      "OwnerId": "005bn000003k2JdAAI",
+      "Product_Type__c": "Consumer CD"
+    },
+    "5": {
+      "Id": "a3ybn0000002k0iAAA",
+      "IsDeleted": "",
+      "LLC_BI__Is_Template__c": "true",
+      "LLC_BI__Type__c": "Single",
+      "LLC_BI__lookupKey__c": "42690931093276273",
+      "Name": "Advantage Savings",
+      "OwnerId": "005bn000003k2JdAAI",
+      "Product_Type__c": "Business Savings"
+    },
+    "6": {
+      "Id": "a3ybn0000002k0dAAA",
+      "IsDeleted": "",
+      "LLC_BI__Is_Template__c": "true",
+      "LLC_BI__Type__c": "Single",
+      "LLC_BI__lookupKey__c": "42723928686341252",
+      "Name": "6 Month CD",
+      "OwnerId": "005bn000003k2JdAAI",
+      "Product_Type__c": "Consumer CD"
+    },
+    "7": {
+      "Id": "a3ybn0000002k0eAAA",
+      "IsDeleted": "",
+      "LLC_BI__Is_Template__c": "true",
+      "LLC_BI__Type__c": "Tiered",
+      "LLC_BI__lookupKey__c": "42780403575539527",
+      "Name": "Platinum Savings",
+      "OwnerId": "005bn000003k2JdAAI",
+      "Product_Type__c": "Consumer Savings"
+    },
+    "8": {
+      "Id": "a3ybn0000002k0gAAA",
+      "IsDeleted": "",
+      "LLC_BI__Is_Template__c": "true",
+      "LLC_BI__Type__c": "Single",
+      "LLC_BI__lookupKey__c": "42820560982611726",
+      "Name": "Gold Savings",
+      "OwnerId": "005bn000003k2JdAAI",
+      "Product_Type__c": "Consumer Savings"
+    },
+    "9": {
+      "Id": "a3ybn0000002k0jAAA",
+      "IsDeleted": "",
+      "LLC_BI__Is_Template__c": "true",
+      "LLC_BI__Type__c": "Tiered",
+      "LLC_BI__lookupKey__c": "42937064733993273",
+      "Name": "Money Market Savings",
+      "OwnerId": "005bn000003k2JdAAI",
+      "Product_Type__c": "Business Savings"
+    }
+  }
+}

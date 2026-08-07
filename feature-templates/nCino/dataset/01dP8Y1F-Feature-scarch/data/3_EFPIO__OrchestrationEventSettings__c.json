@@ -1,0 +1,37 @@
+{
+  "name": "3_EFPIO__OrchestrationEventSettings__c",
+  "attributes": [
+    "EFPIO__CacheRepository_v1__c",
+    "EFPIO__CacheTTL__c",
+    "EFPIO__DataEncryptionProvider_v1__c",
+    "EFPIO__EncryptStateData__c",
+    "EFPIO__EventLogMaxRetryAttempts__c",
+    "EFPIO__EventRepository_v1__c",
+    "EFPIO__EventRepository_v2__c",
+    "EFPIO__PlatformCachePartitionName__c",
+    "EFPIO__PlatformEventDefinitionNs__c",
+    "EFPIO__PlatformEventDefinition__c",
+    "Id",
+    "IsDeleted",
+    "Name",
+    "SetupOwnerId"
+  ],
+  "records": {
+    "1": {
+      "EFPIO__CacheRepository_v1__c": "EFPIO.StateDataRepository_v1",
+      "EFPIO__CacheTTL__c": "300.0",
+      "EFPIO__DataEncryptionProvider_v1__c": "EFPIO.ManagedAESEncryptionProvider_v1",
+      "EFPIO__EncryptStateData__c": "true",
+      "EFPIO__EventLogMaxRetryAttempts__c": "5.0",
+      "EFPIO__EventRepository_v1__c": "",
+      "EFPIO__EventRepository_v2__c": "EFPIO.SObjectEventRepository_v2",
+      "EFPIO__PlatformCachePartitionName__c": "",
+      "EFPIO__PlatformEventDefinitionNs__c": "",
+      "EFPIO__PlatformEventDefinition__c": "",
+      "Id": "a5ual000000EkJ7AAK",
+      "IsDeleted": "false",
+      "Name": "a5ual000000EkJ7",
+      "SetupOwnerId": ""
+    }
+  }
+}

@@ -1,0 +1,2 @@
+"EFPIO__CacheRepository_v1__c","EFPIO__CacheTTL__c","EFPIO__DataEncryptionProvider_v1__c","EFPIO__EncryptStateData__c","EFPIO__EventLogMaxRetryAttempts__c","EFPIO__EventRepository_v1__c","EFPIO__EventRepository_v2__c","EFPIO__PlatformCachePartitionName__c","EFPIO__PlatformEventDefinitionNs__c","EFPIO__PlatformEventDefinition__c","Id","IsDeleted","Name","SetupOwnerId"
+"EFPIO.StateDataRepository_v1","300.0","EFPIO.ManagedAESEncryptionProvider_v1","true","5.0","","EFPIO.SObjectEventRepository_v2","","","","a5ual000000EkJ7AAK","false","a5ual000000EkJ7",""
