@@ -10,3 +10,10 @@ packageDirectories:
           versions:
             Rel 2024_07 v1:
               modifiedDate: '2026-07-09 04:03:05'
+        10zQeF0D-User Interface-UI1:
+          path: dataset/10zQeF0D-User Interface-UI1
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1':
+              modifiedDate: '2026-08-07 07:55:31'
