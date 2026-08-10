@@ -1,0 +1,23 @@
+{
+  "name": "1_LLC_BI__Team_Member__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "LLC_BI__Team__c",
+    "LLC_BI__User__c",
+    "LLC_BI__lookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a1pbn00000BB7q5AAD",
+      "IsDeleted": "",
+      "LLC_BI__Team__c": "a1rbn00001sjUEAAA2",
+      "LLC_BI__User__c": "005bn000003k2JdAAI",
+      "LLC_BI__lookupKey__c": "c5vtebr67hcrsv5tegr6yrvtg",
+      "Name": "TM42",
+      "OwnerId": "005bn000003k2JdAAI"
+    }
+  }
+}

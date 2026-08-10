@@ -1,0 +1,21 @@
+{
+  "name": "1_LLC_BI__Team__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "LLC_BI__Description__c",
+    "LLC_BI__lookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a1rbn00001sjUEAAA2",
+      "IsDeleted": "",
+      "LLC_BI__Description__c": "",
+      "LLC_BI__lookupKey__c": "sdfg546hjk8wf5ge6h7nb6rh",
+      "Name": "Loan Officer 1",
+      "OwnerId": "005bn000003k2JdAAI"
+    }
+  }
+}
