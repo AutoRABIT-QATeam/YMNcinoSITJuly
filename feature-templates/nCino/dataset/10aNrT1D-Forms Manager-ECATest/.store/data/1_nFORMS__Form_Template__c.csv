@@ -1,0 +1,3 @@
+"Id","OwnerId","IsDeleted","Name","nFORMS__Description__c","nFORMS__Enable_FLS__c","nFORMS__Enforce_Masking__c","nFORMS__Filter__c","nFORMS__Form_Purpose__c","nFORMS__Output_Type__c","nFORMS__Page_Dimension_Unit__c","nFORMS__Page_Width__c","nFORMS__Primary_Object__c","nFORMS__Save_To_Docman__c","nFORMS__Template_Input_Type__c","nFORMS__lookupKey__c","nFORMS__Document_Output_Type__c"
+"a5rWD000000E0szYAC","005al00000RVcKvAAL","false","Test-QA-FormTemplate","Test","true","true","","General","pdf","Inches","","Form","false","HTML","123456796123","PDF"
+"a5rWD000000E0t0YAC","005al00000RVcKvAAL","false","QA-Lightning-FormsTemplate002-Name","","true","true","","General","Test","Inches","","Account","true","HTML","123875271856312","PDF"
