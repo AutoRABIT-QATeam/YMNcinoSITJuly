@@ -1,0 +1,33 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        10kIsZ0P-Brands:
+          path: dataset/10kIsZ0P-Brands
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-11 09:35:26'
+        10kIsZ0P-Budgets:
+          path: dataset/10kIsZ0P-Budgets
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-11 09:35:27'
+        10kIsZ0P-Forms:
+          path: dataset/10kIsZ0P-Forms
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v2:
+              modifiedDate: '2026-08-11 09:35:27'
+        10kIsZ0P-Screens:
+          path: dataset/10kIsZ0P-Screens
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-11 09:35:29'
