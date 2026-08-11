@@ -1,0 +1,4 @@
+{
+  "name": "nFORMS__Form_Template__c",
+  "query": "Select Id From nFORMS__Form_Template__c where Id !\u003d null LIMIT 2"
+}

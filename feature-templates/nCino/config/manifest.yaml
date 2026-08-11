@@ -1,0 +1,19 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        01wH1A1S-Budgets-YM:
+          path: dataset/01wH1A1S-Budgets-YM
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1':
+              modifiedDate: '2026-08-11 16:14:02'
+        01wH1A1S-Forms Manager-ECATest:
+          path: dataset/01wH1A1S-Forms Manager-ECATest
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1.0':
+              modifiedDate: '2026-08-11 16:14:07'
