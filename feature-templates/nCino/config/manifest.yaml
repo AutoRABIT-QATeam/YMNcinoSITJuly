@@ -16,14 +16,14 @@ packageDirectories:
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-08-11 10:39:42'
+              modifiedDate: '2026-08-11 16:28:25'
         10kIsZ0P-Forms:
           path: dataset/10kIsZ0P-Forms
           prefix: ncino
           standardFeature: true
           versions:
             Rel 2024_07 v2:
-              modifiedDate: '2026-08-11 12:02:00'
+              modifiedDate: '2026-08-11 16:28:26'
         10kIsZ0P-Screens:
           path: dataset/10kIsZ0P-Screens
           prefix: ncino
