@@ -1,0 +1,19 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        01xFsY1G-Collateral Types:
+          path: dataset/01xFsY1G-Collateral Types
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-11 16:26:35'
+        01xFsY1G-Roles:
+          path: dataset/01xFsY1G-Roles
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-11 16:26:35'

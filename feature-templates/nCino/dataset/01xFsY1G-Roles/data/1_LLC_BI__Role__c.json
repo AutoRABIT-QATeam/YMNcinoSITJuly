@@ -1,0 +1,203 @@
+{
+  "name": "1_LLC_BI__Role__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "LLC_BI__Description__c",
+    "LLC_BI__Type__c",
+    "LLC_BI__lookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a4eWD000000fCmpYAE",
+      "IsDeleted": "false",
+      "LLC_BI__Description__c": "",
+      "LLC_BI__Type__c": "TEAM_ROLES",
+      "LLC_BI__lookupKey__c": "42146639854510830",
+      "Name": "Loan Assistant",
+      "OwnerId": "005al00000RVcKvAAL"
+    },
+    "2": {
+      "Id": "a4eWD000000fCmqYAE",
+      "IsDeleted": "false",
+      "LLC_BI__Description__c": "",
+      "LLC_BI__Type__c": "TEAM_ROLES",
+      "LLC_BI__lookupKey__c": "42353013574271057",
+      "Name": "Loan Processor",
+      "OwnerId": "005al00000Q6IbCAAV"
+    },
+    "3": {
+      "Id": "a4eWD000000fCmrYAE",
+      "IsDeleted": "false",
+      "LLC_BI__Description__c": "",
+      "LLC_BI__Type__c": "TEAM_ROLES",
+      "LLC_BI__lookupKey__c": "42904076123240639",
+      "Name": "Document Specialist",
+      "OwnerId": "005al00000Q6IbCAAV"
+    },
+    "4": {
+      "Id": "a4eWD000000rMaIYAU",
+      "IsDeleted": "false",
+      "LLC_BI__Description__c": "Primary borrower responsible for the loan obligation",
+      "LLC_BI__Type__c": "",
+      "LLC_BI__lookupKey__c": "ROLE_BRW01",
+      "Name": "Borrower",
+      "OwnerId": "005al00000RVcKvAAL"
+    },
+    "5": {
+      "Id": "a4eWD000000rMaKYAU",
+      "IsDeleted": "false",
+      "LLC_BI__Description__c": "Secondary borrower sharing responsibility for the loan",
+      "LLC_BI__Type__c": "",
+      "LLC_BI__lookupKey__c": "ROLE_CBR03",
+      "Name": "Co-Borrower",
+      "OwnerId": "005al00000RVcKvAAL"
+    },
+    "6": {
+      "Id": "a4eWD000000rMaLYAU",
+      "IsDeleted": "false",
+      "LLC_BI__Description__c": "Owner of collateral pledged against the credit facility",
+      "LLC_BI__Type__c": "",
+      "LLC_BI__lookupKey__c": "ROLE_COW04",
+      "Name": "Collateral Owner",
+      "OwnerId": "005al00000RVcKvAAL"
+    },
+    "7": {
+      "Id": "a4eWD000000rMaJYAU",
+      "IsDeleted": "false",
+      "LLC_BI__Description__c": "Individual or entity guaranteeing repayment of the loan",
+      "LLC_BI__Type__c": "",
+      "LLC_BI__lookupKey__c": "ROLE_GRT02",
+      "Name": "Guarantor",
+      "OwnerId": "005al00000RVcKvAAL"
+    },
+    "8": {
+      "Id": "a4eWD000000rMaHYAU",
+      "IsDeleted": "false",
+      "LLC_BI__Description__c": "Fiduciary party managing assets on behalf of the trust",
+      "LLC_BI__Type__c": "",
+      "LLC_BI__lookupKey__c": "ROLE_TRS05",
+      "Name": "Trustee",
+      "OwnerId": "005al00000RVcKvAAL"
+    },
+    "9": {
+      "Id": "a4eWD000000fCmoYAE",
+      "IsDeleted": "false",
+      "LLC_BI__Description__c": "",
+      "LLC_BI__Type__c": "TEAM_ROLES",
+      "LLC_BI__lookupKey__c": "a1nal00000H3k69AAB",
+      "Name": "Credit Analyst / Underwriter",
+      "OwnerId": "005al00000Q6IbCAAV"
+    },
+    "10": {
+      "Id": "a4eWD000000fCmsYAE",
+      "IsDeleted": "false",
+      "LLC_BI__Description__c": "",
+      "LLC_BI__Type__c": "TEAM_ROLES",
+      "LLC_BI__lookupKey__c": "a1nal00000H3k6AAAR",
+      "Name": "Closer",
+      "OwnerId": "005al00000Q6IbCAAV"
+    },
+    "11": {
+      "Id": "a4eWD000000fCmtYAE",
+      "IsDeleted": "false",
+      "LLC_BI__Description__c": "",
+      "LLC_BI__Type__c": "TEAM_ROLES",
+      "LLC_BI__lookupKey__c": "a1nal00000H3k6BAAR",
+      "Name": "Portfolio Manager",
+      "OwnerId": "005al00000Q6IbCAAV"
+    },
+    "12": {
+      "Id": "a4eWD000000fCmuYAE",
+      "IsDeleted": "false",
+      "LLC_BI__Description__c": "",
+      "LLC_BI__Type__c": "TEAM_ROLES",
+      "LLC_BI__lookupKey__c": "a1nal00000H3k6CAAR",
+      "Name": "Loan Ops",
+      "OwnerId": "005al00000Q6IbCAAV"
+    },
+    "13": {
+      "Id": "a4eWD000000fCmnYAE",
+      "IsDeleted": "false",
+      "LLC_BI__Description__c": "",
+      "LLC_BI__Type__c": "TEAM_ROLES",
+      "LLC_BI__lookupKey__c": "a1nal00000H3k6DAAR",
+      "Name": "Loan Officer",
+      "OwnerId": "005al00000Q6IbCAAV"
+    },
+    "14": {
+      "Id": "a4eWD000000uA9ZYAU",
+      "IsDeleted": "false",
+      "LLC_BI__Description__c": "",
+      "LLC_BI__Type__c": "TEAM_ROLES",
+      "LLC_BI__lookupKey__c": "a1nbn000001OLhLAAW",
+      "Name": "Credit Analyst / Underwriter",
+      "OwnerId": "005al00000RVcKvAAL"
+    },
+    "15": {
+      "Id": "a4eWD000000uA9aYAE",
+      "IsDeleted": "false",
+      "LLC_BI__Description__c": "",
+      "LLC_BI__Type__c": "TEAM_ROLES",
+      "LLC_BI__lookupKey__c": "a1nbn000001OLhMAAW",
+      "Name": "Closer",
+      "OwnerId": "005al00000RVcKvAAL"
+    },
+    "16": {
+      "Id": "a4eWD000000uA9bYAE",
+      "IsDeleted": "false",
+      "LLC_BI__Description__c": "",
+      "LLC_BI__Type__c": "TEAM_ROLES",
+      "LLC_BI__lookupKey__c": "a1nbn000001OLhNAAW",
+      "Name": "Portfolio Manager",
+      "OwnerId": "005al00000RVcKvAAL"
+    },
+    "17": {
+      "Id": "a4eWD000000uA9cYAE",
+      "IsDeleted": "false",
+      "LLC_BI__Description__c": "",
+      "LLC_BI__Type__c": "",
+      "LLC_BI__lookupKey__c": "a1nbn000001OLhOAAW",
+      "Name": "Loan Approver",
+      "OwnerId": "005al00000RVcKvAAL"
+    },
+    "18": {
+      "Id": "a4eWD000000uA9dYAE",
+      "IsDeleted": "false",
+      "LLC_BI__Description__c": "",
+      "LLC_BI__Type__c": "",
+      "LLC_BI__lookupKey__c": "a1nbn000001OLhPAAW",
+      "Name": "Loan Approver Queue",
+      "OwnerId": "005al00000RVcKvAAL"
+    },
+    "19": {
+      "Id": "a4eWD000000uA9eYAE",
+      "IsDeleted": "false",
+      "LLC_BI__Description__c": "",
+      "LLC_BI__Type__c": "TEAM_ROLES",
+      "LLC_BI__lookupKey__c": "a1nbn000001OLhQAAW",
+      "Name": "Loan Ops",
+      "OwnerId": "005al00000RVcKvAAL"
+    },
+    "20": {
+      "Id": "a4eWD000000uA9fYAE",
+      "IsDeleted": "false",
+      "LLC_BI__Description__c": "",
+      "LLC_BI__Type__c": "TEAM_ROLES",
+      "LLC_BI__lookupKey__c": "a1nbn000001OLhRAAW",
+      "Name": "Loan Officer",
+      "OwnerId": "005al00000RVcKvAAL"
+    },
+    "21": {
+      "Id": "a4eWD000000uA9gYAE",
+      "IsDeleted": "false",
+      "LLC_BI__Description__c": "",
+      "LLC_BI__Type__c": "TEAM_ROLES",
+      "LLC_BI__lookupKey__c": "a1nbn000001OLhSAAW",
+      "Name": "Special Assets",
+      "OwnerId": "005al00000RVcKvAAL"
+    }
+  }
+}
