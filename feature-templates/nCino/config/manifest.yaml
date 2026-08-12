@@ -23,11 +23,11 @@ packageDirectories:
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-08-12 07:19:36'
+              modifiedDate: '2026-08-12 10:40:50'
         01zMsE1S-Roles:
           path: dataset/01zMsE1S-Roles
           prefix: ncino
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-08-12 07:19:36'
+              modifiedDate: '2026-08-12 10:40:50'
