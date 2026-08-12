@@ -31,3 +31,10 @@ packageDirectories:
           versions:
             '1':
               modifiedDate: '2026-07-16 14:26:04'
+        01oNsG1I-Budgets:
+          path: dataset/01oNsG1I-Budgets
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-12 05:34:01'
