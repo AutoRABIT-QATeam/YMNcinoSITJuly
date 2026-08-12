@@ -9,11 +9,11 @@ packageDirectories:
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-08-11 16:32:52'
+              modifiedDate: '2026-08-12 05:37:14'
         01xFsY1G-Roles:
           path: dataset/01xFsY1G-Roles
           prefix: ncino
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-08-11 16:32:53'
+              modifiedDate: '2026-08-12 05:37:14'
