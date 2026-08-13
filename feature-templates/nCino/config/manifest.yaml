@@ -10,3 +10,10 @@ packageDirectories:
           versions:
             Rel 2024_07 v1:
               modifiedDate: '2026-08-13 12:36:58'
+        10g2331Y-Questionnaire-CDR-Test:
+          path: dataset/10g2331Y-Questionnaire-CDR-Test
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1.0':
+              modifiedDate: '2026-08-13 14:50:02'
