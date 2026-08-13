@@ -17,3 +17,38 @@ packageDirectories:
           versions:
             '1.0':
               modifiedDate: '2026-08-13 14:50:02'
+        01uCdE0K-Budgets:
+          path: dataset/01uCdE0K-Budgets
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-13 15:05:52'
+        10g2331Y-Budgets-YM:
+          path: dataset/10g2331Y-Budgets-YM
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1':
+              modifiedDate: '2026-08-13 15:05:52'
+        01uCdE0K-Roles:
+          path: dataset/01uCdE0K-Roles
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-13 15:05:52'
+        10g2331Y-Forms Manager-ECATest:
+          path: dataset/10g2331Y-Forms Manager-ECATest
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1.0':
+              modifiedDate: '2026-08-13 15:05:52'
+        01uCdE0K-Forms:
+          path: dataset/01uCdE0K-Forms
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v2:
+              modifiedDate: '2026-08-13 15:05:52'
