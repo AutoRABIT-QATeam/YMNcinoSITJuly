@@ -10,3 +10,17 @@ packageDirectories:
           versions:
             '1':
               modifiedDate: '2026-08-14 13:31:58'
+        01aGyG1W-Brands:
+          path: dataset/01aGyG1W-Brands
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-14 13:35:22'
+        01aGyG1W-Screens:
+          path: dataset/01aGyG1W-Screens
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-14 13:35:23'
