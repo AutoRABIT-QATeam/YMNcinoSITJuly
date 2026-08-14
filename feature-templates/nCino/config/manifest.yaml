@@ -10,3 +10,10 @@ packageDirectories:
           versions:
             Rel 2024_07 v1:
               modifiedDate: '2026-08-14 13:30:23'
+        01mEa91Z-Budgets:
+          path: dataset/01mEa91Z-Budgets
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-14 13:32:01'
