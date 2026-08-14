@@ -10,3 +10,10 @@ packageDirectories:
           versions:
             '1':
               modifiedDate: '2026-08-14 13:24:23'
+        017Ke90S-Rules Engine:
+          path: dataset/017Ke90S-Rules Engine
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-14 13:34:35'
