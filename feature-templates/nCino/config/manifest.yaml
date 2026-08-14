@@ -17,3 +17,17 @@ packageDirectories:
           versions:
             Rel 2024_07 v2:
               modifiedDate: '2026-08-11 16:39:28'
+        102WqR1I-Collateral Types:
+          path: dataset/102WqR1I-Collateral Types
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-14 06:48:42'
+        102WqR1I-Roles:
+          path: dataset/102WqR1I-Roles
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-14 06:48:42'
