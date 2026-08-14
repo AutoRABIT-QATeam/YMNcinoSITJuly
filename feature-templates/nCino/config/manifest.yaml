@@ -17,3 +17,17 @@ packageDirectories:
           versions:
             Rel 2024_07 v1:
               modifiedDate: '2026-08-13 07:42:22'
+        016UdJ0N-Budgets:
+          path: dataset/016UdJ0N-Budgets
+          prefix: Regre
+          standardFeature: false
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-14 11:48:23'
+        016UdJ0N-Collateral Types-DT1:
+          path: dataset/016UdJ0N-Collateral Types-DT1
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '2':
+              modifiedDate: '2026-08-14 11:48:23'

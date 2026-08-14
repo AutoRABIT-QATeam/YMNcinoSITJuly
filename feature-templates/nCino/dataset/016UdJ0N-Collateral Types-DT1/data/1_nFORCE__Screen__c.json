@@ -1,0 +1,35 @@
+{
+  "name": "1_nFORCE__Screen__c",
+  "attributes": [
+    "Id",
+    "IsDeleted",
+    "Name",
+    "OwnerId",
+    "nFORCE__Disable_Print__c",
+    "nFORCE__Disable_Read_Only_View__c",
+    "nFORCE__Show_Link_To_Context_Object__c",
+    "nFORCE__lookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a0sal000004PdLVAA0",
+      "IsDeleted": "false",
+      "Name": "Default Pledged Leased Asset Edit Screen",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Disable_Print__c": "false",
+      "nFORCE__Disable_Read_Only_View__c": "false",
+      "nFORCE__Show_Link_To_Context_Object__c": "true",
+      "nFORCE__lookupKey__c": "42524349854296463"
+    },
+    "2": {
+      "Id": "a0sal000004PdLcAAK",
+      "IsDeleted": "false",
+      "Name": "Collateral-Real Estate",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Disable_Print__c": "false",
+      "nFORCE__Disable_Read_Only_View__c": "false",
+      "nFORCE__Show_Link_To_Context_Object__c": "true",
+      "nFORCE__lookupKey__c": "42875581032868363"
+    }
+  }
+}
