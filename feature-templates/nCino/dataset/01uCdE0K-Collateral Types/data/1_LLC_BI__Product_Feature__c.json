@@ -173,10 +173,12 @@
     "Is_Consumer__c",
     "Is_SBA__c",
     "LLC_BI__Maximum_Age_For_Applying__c",
-    "LLC_BI__Minimum_Age_For_Applying__c"
+    "LLC_BI__Minimum_Age_For_Applying__c",
+    "AutorabitExtId__c"
   ],
   "records": {
     "1": {
+      "AutorabitExtId__c": "",
       "CreatedById": "005al00000RVcKvAAL",
       "CreatedDate": "2026-04-10T10:02:35.000Z",
       "Id": "a3uWD000002003hYAA",
@@ -344,14 +346,15 @@
       "LLC_BI__Use_Teaser_Rate__c": "false",
       "LLC_BI__Used_CreditConversionFactor__c": "",
       "LLC_BI__lookupKey__c": "42216812210787140",
-      "LastModifiedById": "005al00000RVcKvAAL",
-      "LastModifiedDate": "2026-08-06T11:30:35.000Z",
+      "LastModifiedById": "005al00000RVvFOAA1",
+      "LastModifiedDate": "2026-08-14T06:51:07.000Z",
       "Name": "Product_Feature-00334",
       "OwnerId": "005al00000RVcKvAAL",
       "SCALC__Calculation_Method__c": "LOAN_BUILDER",
-      "SystemModstamp": "2026-08-06T11:30:35.000Z"
+      "SystemModstamp": "2026-08-14T06:51:07.000Z"
     },
     "2": {
+      "AutorabitExtId__c": "",
       "CreatedById": "005al00000RVcKvAAL",
       "CreatedDate": "2026-04-10T10:02:35.000Z",
       "Id": "a3uWD000002003iYAA",
@@ -519,14 +522,15 @@
       "LLC_BI__Use_Teaser_Rate__c": "false",
       "LLC_BI__Used_CreditConversionFactor__c": "",
       "LLC_BI__lookupKey__c": "42332996929753554",
-      "LastModifiedById": "005al00000RVcKvAAL",
-      "LastModifiedDate": "2026-08-06T11:30:35.000Z",
+      "LastModifiedById": "005al00000RVvFOAA1",
+      "LastModifiedDate": "2026-08-14T06:51:07.000Z",
       "Name": "Product_Feature-00335",
       "OwnerId": "005al00000RVcKvAAL",
       "SCALC__Calculation_Method__c": "LOAN_BUILDER",
-      "SystemModstamp": "2026-08-06T11:30:35.000Z"
+      "SystemModstamp": "2026-08-14T06:51:07.000Z"
     },
     "3": {
+      "AutorabitExtId__c": "",
       "CreatedById": "005al00000RVcKvAAL",
       "CreatedDate": "2026-04-10T10:02:35.000Z",
       "Id": "a3uWD000002003jYAA",
@@ -694,14 +698,15 @@
       "LLC_BI__Use_Teaser_Rate__c": "false",
       "LLC_BI__Used_CreditConversionFactor__c": "",
       "LLC_BI__lookupKey__c": "42387459058204077",
-      "LastModifiedById": "005al00000RVcKvAAL",
-      "LastModifiedDate": "2026-08-06T11:30:35.000Z",
+      "LastModifiedById": "005al00000RVvFOAA1",
+      "LastModifiedDate": "2026-08-14T06:51:07.000Z",
       "Name": "Product_Feature-00336",
       "OwnerId": "005al00000RVcKvAAL",
       "SCALC__Calculation_Method__c": "LOAN_BUILDER",
-      "SystemModstamp": "2026-08-06T11:30:35.000Z"
+      "SystemModstamp": "2026-08-14T06:51:07.000Z"
     },
     "4": {
+      "AutorabitExtId__c": "",
       "CreatedById": "005al00000RVcKvAAL",
       "CreatedDate": "2026-04-10T10:02:35.000Z",
       "Id": "a3uWD000002003kYAA",
@@ -869,12 +874,12 @@
       "LLC_BI__Use_Teaser_Rate__c": "false",
       "LLC_BI__Used_CreditConversionFactor__c": "",
       "LLC_BI__lookupKey__c": "42570587863021143",
-      "LastModifiedById": "005al00000RVcKvAAL",
-      "LastModifiedDate": "2026-08-06T11:30:35.000Z",
+      "LastModifiedById": "005al00000RVvFOAA1",
+      "LastModifiedDate": "2026-08-14T06:51:07.000Z",
       "Name": "Product_Feature-00337",
       "OwnerId": "005al00000RVcKvAAL",
       "SCALC__Calculation_Method__c": "LOAN_BUILDER",
-      "SystemModstamp": "2026-08-06T11:30:35.000Z"
+      "SystemModstamp": "2026-08-14T06:51:07.000Z"
     }
   }
 }

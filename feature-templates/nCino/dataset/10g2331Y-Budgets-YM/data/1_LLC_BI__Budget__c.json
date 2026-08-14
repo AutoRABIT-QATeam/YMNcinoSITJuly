@@ -36,14 +36,15 @@
     "LLC_BI__Remaining_Disbursement__c",
     "LLC_BI__Total_Remaining__c",
     "AutorabitExtId__c",
+    "YM_ExternalIDDestination__c",
     "YM_ExternalIDSource__c"
   ],
   "records": {
     "1": {
-      "AutorabitExtId__c": "",
+      "AutorabitExtId__c": "a1WWD000002QYEb2AO",
       "CreatedById": "005al00000RVcKvAAL",
-      "CreatedDate": "2026-05-31T13:37:50.000Z",
-      "Id": "a1WWD000002QYEb2AO",
+      "CreatedDate": "2026-05-12T13:54:24.000Z",
+      "Id": "a1WWE000004pp2j2AA",
       "IsDeleted": "false",
       "LLC_BI__Budget_Template_Id__c": "",
       "LLC_BI__Budget_Template__c": "",
@@ -69,12 +70,13 @@
       "LLC_BI__lookupKey__c": "42649749863455617",
       "LastActivityDate": "",
       "LastModifiedById": "005al00000RVvFOAA1",
-      "LastModifiedDate": "2026-08-11T10:44:50.000Z",
+      "LastModifiedDate": "2026-08-14T09:27:26.000Z",
       "LastReferencedDate": "",
       "LastViewedDate": "",
-      "Name": "Exc F Source",
-      "OwnerId": "005al00000RVcKvAAL",
-      "SystemModstamp": "2026-08-11T10:44:50.000Z",
+      "Name": "A budget 1",
+      "OwnerId": "005al00000RVvFOAA1",
+      "SystemModstamp": "2026-08-14T09:27:26.000Z",
+      "YM_ExternalIDDestination__c": "",
       "YM_ExternalIDSource__c": ""
     }
   }

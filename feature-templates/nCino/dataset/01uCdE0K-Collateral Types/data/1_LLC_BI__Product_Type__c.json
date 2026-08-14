@@ -32,13 +32,15 @@
     "LLC_BI__Product_State_Excluded_Config_Count__c",
     "LLC_BI__Product_State_Rdy_To_Trans_Confg_Cnt__c",
     "LLC_BI__Is_Deposit__c",
-    "LLC_BI__Is_Loan__c"
+    "LLC_BI__Is_Loan__c",
+    "AutorabitExtId__c"
   ],
   "records": {
     "1": {
+      "AutorabitExtId__c": "",
       "CreatedById": "005al00000RVcKvAAL",
-      "CreatedDate": "2026-07-20T14:11:49.000Z",
-      "Id": "a47WD000000QQuzYAG",
+      "CreatedDate": "2026-07-06T10:05:03.000Z",
+      "Id": "a47WE000001ltbfYAA",
       "IsDeleted": "false",
       "LLC_BI__Category__c": "",
       "LLC_BI__Collapsed_Offer_Card_Field_Set__c": "SBL_Collapsed_Offer_Card_Summary",
@@ -64,15 +66,16 @@
       "LLC_BI__Usage_Type__c": "Loan",
       "LLC_BI__configKey__c": "KY_PT_00000513",
       "LLC_BI__lookupKey__c": "PT-NonReal0872933",
-      "LastModifiedById": "005al00000RVcKvAAL",
-      "LastModifiedDate": "2026-08-06T11:32:21.000Z",
+      "LastModifiedById": "005al00000RVvFOAA1",
+      "LastModifiedDate": "2026-08-14T06:51:41.000Z",
       "Name": "Small Business Non-Real Estate",
-      "SystemModstamp": "2026-08-06T11:32:21.000Z"
+      "SystemModstamp": "2026-08-14T06:51:41.000Z"
     },
     "2": {
+      "AutorabitExtId__c": "",
       "CreatedById": "005al00000RVcKvAAL",
-      "CreatedDate": "2026-07-20T14:11:49.000Z",
-      "Id": "a47WD000000QQv0YAG",
+      "CreatedDate": "2026-07-06T10:05:03.000Z",
+      "Id": "a47WE000001ltbgYAA",
       "IsDeleted": "false",
       "LLC_BI__Category__c": "",
       "LLC_BI__Collapsed_Offer_Card_Field_Set__c": "SBL_Collapsed_Offer_Card_Summary",
@@ -98,10 +101,10 @@
       "LLC_BI__Usage_Type__c": "Loan",
       "LLC_BI__configKey__c": "KY_PT_00000514",
       "LLC_BI__lookupKey__c": "PT-RealEst0789302",
-      "LastModifiedById": "005al00000RVcKvAAL",
-      "LastModifiedDate": "2026-08-06T11:32:21.000Z",
+      "LastModifiedById": "005al00000RVvFOAA1",
+      "LastModifiedDate": "2026-08-14T06:51:41.000Z",
       "Name": "Small Business Real Estate",
-      "SystemModstamp": "2026-08-06T11:32:21.000Z"
+      "SystemModstamp": "2026-08-14T06:51:41.000Z"
     }
   }
 }
