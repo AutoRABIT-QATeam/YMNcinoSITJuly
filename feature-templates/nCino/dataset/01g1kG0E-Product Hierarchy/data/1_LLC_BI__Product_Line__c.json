@@ -1,0 +1,109 @@
+{
+  "name": "1_LLC_BI__Product_Line__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "LLC_BI__Product_Object__c",
+    "LLC_BI__lookupKey__c",
+    "LLC_BI__Non_Global_Product_Type_Count__c",
+    "LLC_BI__Category__c",
+    "LLC_BI__Interest_Accrual_Method__c",
+    "cm_Days_to_Close__c",
+    "cm_Static_Name__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a0obn000000HlYnAAK",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "",
+      "LLC_BI__Interest_Accrual_Method__c": "30_360",
+      "LLC_BI__Non_Global_Product_Type_Count__c": "5.0",
+      "LLC_BI__Product_Object__c": "Loan__c",
+      "LLC_BI__lookupKey__c": "Commercial",
+      "Name": "Commercial",
+      "OwnerId": "005bn000003k2JdAAI",
+      "cm_Days_to_Close__c": "",
+      "cm_Static_Name__c": ""
+    },
+    "2": {
+      "Id": "a0obn000000KpHiAAK",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Business",
+      "LLC_BI__Interest_Accrual_Method__c": "30_360",
+      "LLC_BI__Non_Global_Product_Type_Count__c": "0.0",
+      "LLC_BI__Product_Object__c": "Deposit__c",
+      "LLC_BI__lookupKey__c": "PL-Busines0663337",
+      "Name": "Business Deposits",
+      "OwnerId": "005bn000003k2JdAAI",
+      "cm_Days_to_Close__c": "",
+      "cm_Static_Name__c": "Business Deposits"
+    },
+    "3": {
+      "Id": "a0obn000000HlYoAAK",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Consumer",
+      "LLC_BI__Interest_Accrual_Method__c": "220",
+      "LLC_BI__Non_Global_Product_Type_Count__c": "6.0",
+      "LLC_BI__Product_Object__c": "Loan__c",
+      "LLC_BI__lookupKey__c": "PL-Consume0741724",
+      "Name": "Consumer",
+      "OwnerId": "005bn000003k2JdAAI",
+      "cm_Days_to_Close__c": "",
+      "cm_Static_Name__c": "Consumer"
+    },
+    "4": {
+      "Id": "a0obn000000J3yHAAS",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Business",
+      "LLC_BI__Interest_Accrual_Method__c": "30_360",
+      "LLC_BI__Non_Global_Product_Type_Count__c": "3.0",
+      "LLC_BI__Product_Object__c": "Loan__c",
+      "LLC_BI__lookupKey__c": "PL-SmallBu0534351",
+      "Name": "Small Business",
+      "OwnerId": "005bn000003k2JdAAI",
+      "cm_Days_to_Close__c": "",
+      "cm_Static_Name__c": "Small Business"
+    },
+    "5": {
+      "Id": "a0obn000000HlYqAAK",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "Consumer",
+      "LLC_BI__Interest_Accrual_Method__c": "",
+      "LLC_BI__Non_Global_Product_Type_Count__c": "1.0",
+      "LLC_BI__Product_Object__c": "Deposit__c",
+      "LLC_BI__lookupKey__c": "PT-Deposit",
+      "Name": "Consumer Deposits",
+      "OwnerId": "005bn000003k2JdAAI",
+      "cm_Days_to_Close__c": "",
+      "cm_Static_Name__c": "Consumer Deposits"
+    },
+    "6": {
+      "Id": "a0obn000000KpHhAAK",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "",
+      "LLC_BI__Interest_Accrual_Method__c": "30_360",
+      "LLC_BI__Non_Global_Product_Type_Count__c": "0.0",
+      "LLC_BI__Product_Object__c": "Treasury_Service__c",
+      "LLC_BI__lookupKey__c": "a0o5f00000051lcAAA",
+      "Name": "Ancillary Services",
+      "OwnerId": "005bn000003k2JdAAI",
+      "cm_Days_to_Close__c": "",
+      "cm_Static_Name__c": "Ancillary Services"
+    },
+    "7": {
+      "Id": "a0obn000000HlYpAAK",
+      "IsDeleted": "false",
+      "LLC_BI__Category__c": "",
+      "LLC_BI__Interest_Accrual_Method__c": "30_360",
+      "LLC_BI__Non_Global_Product_Type_Count__c": "1.0",
+      "LLC_BI__Product_Object__c": "Treasury_Service__c",
+      "LLC_BI__lookupKey__c": "a0obn000000HlYpAAK",
+      "Name": "Treasury",
+      "OwnerId": "005bn000003k2JdAAI",
+      "cm_Days_to_Close__c": "",
+      "cm_Static_Name__c": ""
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "1_nFORCE__Tile__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "nFORCE__Body__c",
+    "nFORCE__Header__c",
+    "nFORCE__Icon_Path__c",
+    "nFORCE__lookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a3Xbn000000i32DEAQ",
+      "IsDeleted": "",
+      "Name": "Income Disclaimer",
+      "OwnerId": "005bn000003k2JdAAI",
+      "nFORCE__Body__c": "",
+      "nFORCE__Header__c": "",
+      "nFORCE__Icon_Path__c": "utility-sprite/svg/symbols.svg#info",
+      "nFORCE__lookupKey__c": "42629667351181365"
+    },
+    "2": {
+      "Id": "a3Xbn000000kRA5EAM",
+      "IsDeleted": "",
+      "Name": "USA Patriot Act",
+      "OwnerId": "005bn000003k2JdAAI",
+      "nFORCE__Body__c": "\u003cp\u003eTo help the government fight the funding of terrorism and money laundering activities, federal law requires all financial institutions to obtain, verify, and record information that identifies each person who opens an account.\u003c/p\u003e\u003cp\u003e\u003cbr\u003e\u003c/p\u003e\u003cp\u003eWhat this means for you: When you open an account, we will ask for your name, address, date of birth, and other information that will allow us to identify you. We may also ask to see your driver’s license or other identifying documents.\u003c/p\u003e",
+      "nFORCE__Header__c": "",
+      "nFORCE__Icon_Path__c": "",
+      "nFORCE__lookupKey__c": "42942675889941202"
+    }
+  }
+}

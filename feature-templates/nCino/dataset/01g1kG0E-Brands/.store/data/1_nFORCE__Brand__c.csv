@@ -1,0 +1,1543 @@
+"Id","OwnerId","IsDeleted","Name","nFORCE__Brand_Custom_CSS__c","nFORCE__Brand_JSON__c","nFORCE__Description__c","nFORCE__Is_Applied__c","nFORCE__Look_Up_Key__c","nFORCE__LookupKey__c"
+"a1ubn000001fEKzAAM","005bn000003k2JdAAI","","2023 Accessible Customer Branding","/* Hide marketplace */
+/*
+ul[n-style=""pso-dashboard-nav-horizontal""] > li:nth-child(2),
+div.portal-nav-section-mobile > ul > li[n-style=""pso-dashboard-nav-li""]:nth-child(2){
+    display: none;
+}
+*/
+
+/* Hide route group path on self-reg */
+body[n-style=""pso-login-background""] application-navigation {
+    display: none;
+}
+
+/*Remove new customer login section*/
+#loginForm p.slds-m-top--medium.portal-center-text {
+    display: none;
+}
+
+
+/*Hide make another selection button*/
+#goBack {
+display: none;
+}
+
+/*base font size*/
+.slds body,
+.slds:not(html) {
+    font-size: 16px;
+}
+
+/*loading background color*/
+.portal-loader-overlay {
+    background-color: rgba(255, 255, 255, .64);
+    transition: .3s;
+}
+
+.portal-loader-overlay .portal-loader-message {
+    top: 40%;
+}
+
+/*hide oa icon*/
+.slds span[n-style=""pso-section-icon""] {
+    display: none;
+}
+
+/*remove oa section background*/
+.portal-form-container[n-style=""pso-section""] {
+    background-color: #fff;
+    box-shadow: none;
+    margin-top: 0;
+}
+
+/*removing additional space below header text*/
+[n-style=""pso-oa-topbar""] .slds-grid.slds-wrap.slds-m-top--medium.slds-p-bottom--large {
+    display: none;
+}
+
+/*show subheader text in mobile*/
+.slds [n-style=""pso-application-body-subheader""] {
+display: block !important;
+}
+
+/*removing shadow from multi-object cards*/
+.slds .multi-object-form-edit-card {
+box-shadow: none;
+}
+
+/*input and select hover, active, and placeholder*/
+.slds .slds-input:hover,
+.slds .slds-input:focus,
+.slds .slds-select:hover,
+.slds .slds-select:focus,
+.portal-input-group:hover .portal-input-group-addon,
+.portal-input-group:focus .portal-input-group-addon {
+    border-bottom-color: #1589EE !important;
+}
+
+.portal-input-group .portal-input-group-addon {
+    transition: .3s;
+}
+
+.slds .slds-input.ng-not-empty,
+.slds .slds-select.ng-not-empty,
+.slds nds-input-datepicker.ng-not-empty .slds-input,
+.slds nds-input-number.ng-not-empty .slds-input,
+.slds nds-input-number.ng-not-empty .portal-input-group .portal-input-group-addon,
+nds-input-long-text.ng-not-empty .slds-textarea,
+nds-input-long-text .slds-textarea:hover,
+nds-input-long-text .slds-textarea:active {
+    border-bottom-color: #1589EE !important;
+}
+
+.slds .slds-input::-webkit-input-placeholder { 
+     color: #706E6B;
+}
+
+/*Lined Input*/
+.slds .slds-form-element__control {}
+
+/*left padding for portal section subheaders*/
+.slds .h4.slds-form-element__label[ng-bind=""section.portalSubheaderText""] {
+padding-left: 12px;
+}
+
+/*make button groups smaller width to provide button affordance*/
+.portal-button-group [n-style=""pso-button-secondary""] {
+    background-color: rgba(216, 237, 255, 0.14) !important;
+    border-bottom: 2px solid #d8dde6 !important;
+    border-radius: 8px 8px 0 0;
+}
+
+.slds .slds-wizard {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+div.portal-wrapper {
+    background: #fff;
+    border-bottom: 1px solid #d8dde6;
+}
+
+.slds .slds-datepicker__filter .slds-select_container:after,
+.slds .slds-datepicker__filter .slds-select_container:before {
+    height: inherit;
+}
+
+
+/*fixing padding on buttons made with a tags*/
+.slds a.slds-button {
+    padding-top: 8px;
+}
+
+/*fixing review and submit spacing*/
+div.portal-review-section .slds-grid .slds-form-element__static {
+    font-size: 18px;
+    line-height: 20px;
+    margin-bottom: 16px;
+    font-weight: 300;
+}
+
+/*submit button*/
+#submitOnlineForm {
+    margin-top: 64px;
+    height: 64px !important;
+}
+
+/*align collateral icon on review and submit to the top*/
+.slds .portal-collateral-review-item {
+    align-items: flex-start;
+}
+
+/*fix dashboard header height*/
+.slds .portal-dashboard-hero-content {
+    min-height: inherit;
+}
+
+/*hide your product icons to reduce visual noise*/
+.slds .portal-your-products-header .slds-p-right--x-small {
+    display: none;
+    transparency: 1;
+}
+
+/*keeping selected offers card from jumping*/
+.slds .offers-card {
+    border-top: 8px solid #fff;
+}
+
+/*making product cards full width after hiding icons*/
+.slds-grid.portal-your-products-header .slds-col.slds-size--7-of-8 {
+    width: 100%;
+}
+
+/*separating to-do list from additional products and cards*/
+.todo-list-wrapper {
+    margin-bottom: 128px;
+}
+
+/*Make Checkmark Large*/
+.slds .slds-checkbox [type=checkbox]:checked + .slds-checkbox--faux:after,
+.slds .slds-checkbox [type=checkbox]:checked ~ .slds-checkbox--faux:after {
+    height: 7px;
+    width: 14px
+}
+
+/*Left align to-do list headers*/
+.slds .todo-list-wrapper h2.slds-text-heading--small {
+    text-align: left;
+}
+
+/*fix modal not scrolling on mobile, mainly for review and accept functionality*/
+.slds .slds-modal__content {
+    overflow: scroll;
+}
+
+/*tile header background color*/
+.slds .portal-tile-header {
+    background-color: transparent;
+    padding: 12px 0 12px 0;
+}
+
+/*center tile when in bottom center position*/
+.slds .portal-center-bottom-tile {
+    max-width: 664px;
+    margin: 0 auto;
+}
+
+/*Fixing your products card width on mobile*/
+.your-products-card-wrapper {
+    min-width: auto;
+}
+
+/*Questionnaire questions single column*/
+.portal-questionnaire-container .slds-scope .slds-size_12-of-12{
+width: 100% !important;
+}
+
+/*----------REVIEW AND SUBMIT STYLING BELOW------------*/
+
+/*review and submit section headers and spacing*/
+[n-style=""pso-review-section""] [n-style=""pso-smallheader""] {
+    margin-top: 16px !important;
+    padding-left: 0 !important;
+}
+
+[n-style=""pso-review-section""] .h4.slds-form-element__label[ng-bind=""section.portalSubheaderText""] {
+    padding-left: 0 !important;
+}
+
+[n-style=""pso-review-section""] .slds-m-top--small {
+margin-top: 0;
+}
+
+/*----------BUSINESS OWNER CARDS BELOW------------*/
+
+/*bold business name*/
+.slds .portal-owner-card .slds-media__body p:first-of-type {
+font-weight: bold
+}
+
+/*transparent card background*/
+.slds .portal-owner-card .slds-card {
+    background-color: transparent;
+    border: none;
+}
+
+/*sizing*/
+.slds .portal-owner-card .slds-media {
+display: block
+}
+
+/*remove box shadow and fix border*/
+.slds .portal-owner-card div.portal-selected-grid-cell {
+box-shadow: none;    
+border-left: 4px #0176D3 solid;
+}
+
+.slds .portal-owner-card .card-bottom-active-button {
+    box-shadow: none;
+}
+
+.slds .portal-owner-card .card-bottom-button {
+    border: none !important;
+    text-align: left;
+}
+
+/*hide edit buttons*/
+.portal-owner-card .slds-media__body button.slds-button.slds-button--neutral.slds-float--right {
+    display: none;
+}
+
+/*----------ACCOUNT OPTIONS STYLING BELOW------------*/
+.slds div.portal-detail-row:hover {
+box-shadow: none;
+}
+
+.slds div.portal-detail-row {
+box-shadow: none;
+}
+
+/*----------MOBILE STYLING BELOW------------*/
+
+@media only screen and (max-width: 1024px) {
+    .slds [n-style=""pso-dashboard-topbar""] {
+        max-width: 100% !important;
+        margin: 0px auto !important;
+        padding: 32px 24px !important;
+    }
+
+/*mobile header text sizing*/
+.slds [n-style=""pso-application-body-header""], .slds [n-style=""pso-dashboard-topbar-header""] {
+    font-size: 28px !important;
+}
+.slds [n-style=""pso-smallheader""], .slds [n-style=""pso-form-label""] {
+margin-left: 0;
+padding-left: 0;
+}
+
+/*mobile suggested product card buttons*/
+[n-style=""pso-detail-card""] .slds-size--1-of-1.slds-large-size--3-of-12.slds-align-middle.slds-text-align--center {
+padding: 0 32px 16px 32px
+}
+
+/*left align h1 on mobile*/
+[n-style=""pso-oa-topbar""]{
+padding-left: 0 !important;
+}
+
+/*shrinking subheader text size on mobile*/
+[n-style=""pso-application-body-subheader""] {
+font-size: 16px !important;
+}
+}","{
+    ""pso-button-primary"": {
+        ""height"": ""48px"",
+        ""font-size"": ""16px"",
+        ""border-radius"": ""64px"",
+        ""min-width"": ""100px""
+    },
+    ""pso-button-secondary"": {
+        ""height"": ""44px"",
+        ""font-size"": ""16px"",
+        ""border"": ""1px solid #d8dde6"",
+        ""border-radius"": ""64px""
+    },
+    ""pso-view-and-accept-button"": {
+        ""height"": ""48px"",
+        ""border"": ""1px solid #d8dde6"",
+        ""border-radius"": ""24px""
+    },
+    ""pso-accepted-button"": {
+        ""height"": ""48px"",
+        ""border"": ""1px solid #d8dde6"",
+        ""border-radius"": ""24px""
+    },
+    ""pso-wizard-container"": {
+        ""margin-top"": ""-30px""
+    },
+    ""pso-wizard-item-text-active"": {
+        ""font-size"": ""13px""
+    },
+    ""pso-wizard-item-text-inactive"": {
+        ""font-size"": ""13px""
+    },
+    ""pso-checkbox"": {
+        ""width"": ""24px"",
+        ""height"": ""24px"",
+        ""cursor"": ""pointer""
+    },
+    ""pso-input"": {
+        ""background-color"": ""transparent"",
+        ""font-size"": ""18px"",
+        ""padding-left"": ""0px"",
+        ""border-bottom"": ""2px solid #d8dde6"",
+        ""border-top"": ""none"",
+        ""border-left"": ""none"",
+        ""border-right"": ""none"",
+        ""border-radius"": ""8px 8px 0 0"",
+        ""height"": ""32px"",
+        ""transition"": ""0.3s""
+    },
+    ""pso-select"": {
+        ""background-color"": ""transparent"",
+        ""font-size"": ""18px"",
+        ""padding-left"": ""0"",
+        ""border-bottom"": ""2px solid #d8dde6"",
+        ""border-top"": ""none"",
+        ""border-left"": ""none"",
+        ""border-right"": ""none"",
+        ""border-radius"": ""8px 8px 0 0"",
+        ""cursor"": ""pointer""
+    },
+    ""pso-select-currency"": {
+        ""border"": ""none"",
+        ""background-color"": ""rgba(216, 237, 255, 0.14)"",
+        ""border-bottom"": ""2px solid #d8dde6"",
+        ""border-radius"": ""8px 0 0 0""
+    },
+    ""pso-date-subtext"": {
+        ""color"": ""#706E6B""
+    },
+    ""pso-section"": {
+        ""max-width"": ""664px"",
+        ""margin"": ""0 auto"",
+        ""border"": ""none""
+    },
+    ""pso-section-inner"": {
+        ""padding-left"": ""0""
+    },
+    ""pso-topbar"": {
+        ""max-width"": ""1200px"",
+        ""margin"": ""0 auto"",
+        ""border"": ""none"",
+        ""box-shadow"": ""none""
+    },
+    ""pso-topbar-img"": {
+        ""height"": ""50px""
+    },
+    ""pso-application-body-header"": {
+        ""font-size"": ""46px"",
+        ""font-weight"": ""600"",
+        ""text-align"": ""left"",
+        ""padding-left"": ""12px"",
+        ""margin-top"": ""0""
+    },
+    ""pso-application-body-subheader"": {
+        ""font-size"": ""18px"",
+        ""font-weight"": ""normal"",
+        ""text-align"": ""left"",
+        ""display"": ""block"",
+        ""margin-bottom"": ""0"",
+        ""padding-left"": ""12px""
+    },
+    ""pso-smallheader"": {
+        ""font-size"": ""18px"",
+        ""font-weight"": ""600"",
+        ""margin-top"": ""64px"",
+        ""padding-left"": ""12px""
+    },
+    ""pso-dashboard-topbar-header"": {
+        ""font-size"": ""46px"",
+        ""font-weight"": ""600"",
+        ""text-align"": ""left""
+    },
+    ""pso-dashboard-topbar-smallheader"": {
+        ""font-size"": ""18px"",
+        ""font-weight"": ""400"",
+        ""text-align"": ""left""
+    },
+    ""pso-your-products"": {
+        ""box-shadow"": ""none"",
+        ""border-bottom"": ""1px solid #d8dde6""
+    },
+    ""pso-dashboard-hero"": {
+        ""height"": ""20vh""
+    },
+    ""pso-todo"": {
+        ""bottom-border"": ""1px solid #D8DDE6"",
+        ""border-top"": ""none"",
+        ""border-left"": ""none"",
+        ""border-right"": ""none""
+    },
+    ""pso-todo-list-task-background"": {
+        ""background-color"": ""rgba(216, 237, 255, 0.32)"",
+        ""border-radius"": ""8px"",
+        ""margin-top"": ""16px"",
+        ""border-bottom"": ""none""
+    },
+    ""pso-todo-task-incomplete-background"": {
+        ""background-color"": ""#fff""
+    },
+    ""pso-todo-list-collapse-container"": {
+        ""background-color"": ""transparent"",
+        ""border"": ""none"",
+        ""color"": ""#0176D3"",
+        ""font-weight"": ""400""
+    },
+    ""pso-todo-list-section-icon"": {
+        ""fill"": ""#62b7ed""
+    },
+    ""pso-oa-topbar"": {
+        ""max-width"": ""664px"",
+        ""margin"": ""0 auto"",
+        ""padding-left"": ""32px"",
+        ""padding-right"": ""32px"",
+        ""tex-align"": """",
+        ""font-size"": """"
+    },
+    ""pso-oa-topbar-header"": {
+        ""text-align"": ""left"",
+        ""font-size"": ""16px"",
+        ""font-weight"": ""400""
+    },
+    ""pso-application-hero"": {
+        ""min-height"": ""fit-content""
+    },
+    ""pso-form-label"": {
+        ""font-size"": ""16px"",
+        ""margin-top"": ""4px""
+    },
+    ""pso-tile"": {
+        ""box-shadow"": ""none"",
+        ""padding-right"": ""32px"",
+        ""padding-left"": ""32px"",
+        ""border"": ""none"",
+        ""max-width"": ""664px""
+    },
+    ""pso-tile-header"": {
+        ""text-align"": ""left"",
+        ""font-size"": ""18px""
+    },
+    ""pso-tile-body"": {
+        ""padding"": ""8px 0 8px 0"",
+        ""font-weight"": ""300""
+    },
+    ""pso-tile-header-background"": {
+        ""background-color"": ""transparent"",
+        ""padding-bottom"": ""16px""
+    },
+    ""pso-dashboard-topbar"": {
+        ""max-width"": ""50%"",
+        ""margin"": ""0px auto"",
+        ""padding"": ""64px 0px""
+    },
+    ""pso-todo-list-collapse-container"": {
+        ""display"": ""none""
+    },
+    ""pso-review-card-header"": {
+        ""font-size"": ""18px"",
+        ""font-weight"": ""400""
+    },
+    ""pso-review-value"": {
+        ""margin-bottom"": ""0"",
+        ""word-break"": ""break-all"",
+        ""font-weight"": ""400""
+    },
+    ""pso-loader-icon"": {
+        ""background-image"": ""url('https://c.na52.content.force.com/servlet/servlet.ImageServer?id=0150W00000F7wwW&oid=00Dd0000000hi2e&lastMod=1560888558000')""
+    },
+    ""pso-offers-available-card-subheader"": {
+        ""color"": ""#fff""
+    }
+}","","true","42915564807535271",""
+"a1ubn000001dH5FAAU","005bn000003k2JdAAI","","Consumer Baseline","/* Hide route group path on self-reg */
+body[n-style=""pso-login-background""] application-navigation {
+    display: none;
+}
+
+/*Remove new customer login section*/
+#loginForm p.slds-m-top--medium.portal-center-text {
+    display: none;
+}
+
+
+/*Hide make another selection button*/
+#goBack {
+display: none;
+}
+
+/*base font size*/
+.slds body,
+.slds:not(html) {
+    font-size: 16px;
+}
+
+/*loading background color*/
+.portal-loader-overlay {
+    background-color: rgba(255, 255, 255, .64);
+    transition: .3s;
+}
+
+.portal-loader-overlay .portal-loader-message {
+    top: 40%;
+}
+
+/*hide oa icon*/
+.slds span[n-style=""pso-section-icon""] {
+    display: none;
+}
+
+/*remove oa section background*/
+.portal-form-container[n-style=""pso-section""] {
+    background-color: #fff;
+    box-shadow: none;
+    margin-top: 0;
+}
+
+/*removing additional space below header text*/
+[n-style=""pso-oa-topbar""] .slds-grid.slds-wrap.slds-m-top--medium.slds-p-bottom--large {
+    display: none;
+}
+
+/*show subheader text in mobile*/
+.slds [n-style=""pso-application-body-subheader""] {
+display: block !important;
+}
+
+/*removing shadow from multi-object cards*/
+.slds .multi-object-form-edit-card {
+box-shadow: none;
+}
+
+/*input and select hover, active, and placeholder*/
+.slds .slds-input:hover,
+.slds .slds-input:focus,
+.slds .slds-select:hover,
+.slds .slds-select:focus,
+.portal-input-group:hover .portal-input-group-addon,
+.portal-input-group:focus .portal-input-group-addon {
+    border-bottom-color: #1589EE !important;
+}
+
+.portal-input-group .portal-input-group-addon {
+    transition: .3s;
+}
+
+.slds .slds-input.ng-not-empty,
+.slds .slds-select.ng-not-empty,
+.slds nds-input-datepicker.ng-not-empty .slds-input,
+.slds nds-input-number.ng-not-empty .slds-input,
+.slds nds-input-number.ng-not-empty .portal-input-group .portal-input-group-addon,
+nds-input-long-text.ng-not-empty .slds-textarea,
+nds-input-long-text .slds-textarea:hover,
+nds-input-long-text .slds-textarea:active {
+    border-bottom-color: #1589EE !important;
+}
+
+.slds .slds-input::-webkit-input-placeholder { 
+     color: #706E6B;
+}
+
+/*Lined Input*/
+.slds .slds-form-element__control {}
+
+/*left padding for portal section subheaders*/
+.slds .h4.slds-form-element__label[ng-bind=""section.portalSubheaderText""] {
+padding-left: 12px;
+}
+
+/*make button groups smaller width to provide button affordance*/
+.portal-button-group [n-style=""pso-button-secondary""] {
+    background-color: rgba(216, 237, 255, 0.14) !important;
+    border-bottom: 2px solid #d8dde6 !important;
+    border-radius: 8px 8px 0 0;
+}
+
+.slds .slds-wizard {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+div.portal-wrapper {
+    background: #fff;
+    border-bottom: 1px solid #d8dde6;
+}
+
+.slds .slds-datepicker__filter .slds-select_container:after,
+.slds .slds-datepicker__filter .slds-select_container:before {
+    height: inherit;
+}
+
+
+/*fixing padding on buttons made with a tags*/
+.slds a.slds-button {
+    padding-top: 8px;
+}
+
+/*fixing review and submit spacing*/
+div.portal-review-section .slds-grid .slds-form-element__static {
+    font-size: 18px;
+    line-height: 20px;
+    margin-bottom: 16px;
+    font-weight: 300;
+}
+
+/*submit button*/
+#submitOnlineForm {
+    margin-top: 64px;
+    height: 64px !important;
+}
+
+/*align collateral icon on review and submit to the top*/
+.slds .portal-collateral-review-item {
+    align-items: flex-start;
+}
+
+/*fix dashboard header height*/
+.slds .portal-dashboard-hero-content {
+    min-height: inherit;
+}
+
+/*hide your product icons to reduce visual noise*/
+.slds .portal-your-products-header .slds-p-right--x-small {
+    display: none;
+    transparency: 1;
+}
+
+/*keeping selected offers card from jumping*/
+.slds .offers-card {
+    border-top: 8px solid #fff;
+}
+
+/*making product cards full width after hiding icons*/
+.slds-grid.portal-your-products-header .slds-col.slds-size--7-of-8 {
+    width: 100%;
+}
+
+/*separating to-do list from additional products and cards*/
+.todo-list-wrapper {
+    margin-bottom: 128px;
+}
+
+/*Make Checkmark Large*/
+.slds .slds-checkbox [type=checkbox]:checked + .slds-checkbox--faux:after,
+.slds .slds-checkbox [type=checkbox]:checked ~ .slds-checkbox--faux:after {
+    height: 7px;
+    width: 14px
+}
+
+/*Left align to-do list headers*/
+.slds .todo-list-wrapper h2.slds-text-heading--small {
+    text-align: left;
+}
+
+/*fix modal not scrolling on mobile, mainly for review and accept functionality*/
+.slds .slds-modal__content {
+    overflow: scroll;
+}
+
+/*tile header background color*/
+.slds .portal-tile-header {
+    background-color: transparent;
+    padding: 12px 0 12px 0;
+}
+
+/*center tile when in bottom center position*/
+.slds .portal-center-bottom-tile {
+    max-width: 664px;
+    margin: 0 auto;
+}
+
+/*Fixing your products card width on mobile*/
+.your-products-card-wrapper {
+    min-width: auto;
+}
+
+/*Questionnaire questions single column*/
+.portal-questionnaire-container .slds-scope .slds-size_12-of-12{
+width: 100% !important;
+}
+
+/*----------REVIEW AND SUBMIT STYLING BELOW------------*/
+
+/*review and submit section headers and spacing*/
+[n-style=""pso-review-section""] [n-style=""pso-smallheader""] {
+    margin-top: 16px !important;
+    padding-left: 0 !important;
+}
+
+[n-style=""pso-review-section""] .h4.slds-form-element__label[ng-bind=""section.portalSubheaderText""] {
+    padding-left: 0 !important;
+}
+
+[n-style=""pso-review-section""] .slds-m-top--small {
+margin-top: 0;
+}
+
+/*----------BUSINESS OWNER CARDS BELOW------------*/
+
+/*bold business name*/
+.slds .portal-owner-card .slds-media__body p:first-of-type {
+font-weight: bold
+}
+
+/*transparent card background*/
+.slds .portal-owner-card .slds-card {
+    background-color: transparent;
+    border: none;
+}
+
+/*sizing*/
+.slds .portal-owner-card .slds-media {
+display: block
+}
+
+/*remove box shadow and fix border*/
+.slds .portal-owner-card div.portal-selected-grid-cell {
+box-shadow: none;    
+border-left: 4px #0176D3 solid;
+}
+
+.slds .portal-owner-card .card-bottom-active-button {
+    box-shadow: none;
+}
+
+.slds .portal-owner-card .card-bottom-button {
+    border: none !important;
+    text-align: left;
+}
+
+/*hide edit buttons*/
+.portal-owner-card .slds-media__body button.slds-button.slds-button--neutral.slds-float--right {
+    display: none;
+}
+
+/*----------ACCOUNT OPTIONS STYLING BELOW------------*/
+.slds div.portal-detail-row:hover {
+box-shadow: none;
+}
+
+.slds div.portal-detail-row {
+box-shadow: none;
+}
+
+/*----------MOBILE STYLING BELOW------------*/
+
+@media only screen and (max-width: 1024px) {
+    .slds [n-style=""pso-dashboard-topbar""] {
+        max-width: 100% !important;
+        margin: 0px auto !important;
+        padding: 32px 24px !important;
+    }
+
+/*mobile header text sizing*/
+.slds [n-style=""pso-application-body-header""], .slds [n-style=""pso-dashboard-topbar-header""] {
+    font-size: 28px !important;
+}
+.slds [n-style=""pso-smallheader""], .slds [n-style=""pso-form-label""] {
+margin-left: 0;
+padding-left: 0;
+}
+
+/*mobile suggested product card buttons*/
+[n-style=""pso-detail-card""] .slds-size--1-of-1.slds-large-size--3-of-12.slds-align-middle.slds-text-align--center {
+padding: 0 32px 16px 32px
+}
+
+/*left align h1 on mobile*/
+[n-style=""pso-oa-topbar""]{
+padding-left: 0 !important;
+}
+
+/*shrinking subheader text size on mobile*/
+[n-style=""pso-application-body-subheader""] {
+font-size: 16px !important;
+}
+}","{
+    ""pso-button-primary"": {
+        ""height"": ""48px"",
+        ""font-size"": ""16px"",
+        ""border-radius"": ""64px"",
+        ""min-width"": ""100px""
+    },
+    ""pso-button-secondary"": {
+        ""height"": ""44px"",
+        ""font-size"": ""16px"",
+        ""border"": ""1px solid #d8dde6"",
+        ""border-radius"": ""64px""
+    },
+    ""pso-view-and-accept-button"": {
+        ""height"": ""48px"",
+        ""border"": ""1px solid #d8dde6"",
+        ""border-radius"": ""24px""
+    },
+    ""pso-accepted-button"": {
+        ""height"": ""48px"",
+        ""border"": ""1px solid #d8dde6"",
+        ""border-radius"": ""24px""
+    },
+    ""pso-wizard-container"": {
+        ""margin-top"": ""-30px""
+    },
+    ""pso-wizard-item-text-active"": {
+        ""font-size"": ""13px""
+    },
+    ""pso-wizard-item-text-inactive"": {
+        ""font-size"": ""13px""
+    },
+    ""pso-checkbox"": {
+        ""width"": ""24px"",
+        ""height"": ""24px"",
+        ""cursor"": ""pointer""
+    },
+    ""pso-input"": {
+        ""background-color"": ""transparent"",
+        ""font-size"": ""18px"",
+        ""padding-left"": ""0px"",
+        ""border-bottom"": ""2px solid #d8dde6"",
+        ""border-top"": ""none"",
+        ""border-left"": ""none"",
+        ""border-right"": ""none"",
+        ""border-radius"": ""8px 8px 0 0"",
+        ""height"": ""32px"",
+        ""transition"": ""0.3s""
+    },
+    ""pso-select"": {
+        ""background-color"": ""transparent"",
+        ""font-size"": ""18px"",
+        ""padding-left"": ""0"",
+        ""border-bottom"": ""2px solid #d8dde6"",
+        ""border-top"": ""none"",
+        ""border-left"": ""none"",
+        ""border-right"": ""none"",
+        ""border-radius"": ""8px 8px 0 0"",
+        ""cursor"": ""pointer""
+    },
+    ""pso-select-currency"": {
+        ""border"": ""none"",
+        ""background-color"": ""rgba(216, 237, 255, 0.14)"",
+        ""border-bottom"": ""2px solid #d8dde6"",
+        ""border-radius"": ""8px 0 0 0""
+    },
+    ""pso-date-subtext"": {
+        ""color"": ""#706E6B""
+    },
+    ""pso-section"": {
+        ""max-width"": ""664px"",
+        ""margin"": ""0 auto"",
+        ""border"": ""none""
+    },
+    ""pso-section-inner"": {
+        ""padding-left"": ""0""
+    },
+    ""pso-topbar"": {
+        ""max-width"": ""1200px"",
+        ""margin"": ""0 auto"",
+        ""border"": ""none"",
+        ""box-shadow"": ""none""
+    },
+    ""pso-topbar-img"": {
+        ""height"": ""50px""
+    },
+    ""pso-application-body-header"": {
+        ""font-size"": ""46px"",
+        ""font-weight"": ""600"",
+        ""text-align"": ""left"",
+        ""padding-left"": ""12px"",
+        ""margin-top"": ""0""
+    },
+    ""pso-application-body-subheader"": {
+        ""font-size"": ""18px"",
+        ""font-weight"": ""normal"",
+        ""text-align"": ""left"",
+        ""display"": ""block"",
+        ""margin-bottom"": ""0"",
+        ""padding-left"": ""12px""
+    },
+    ""pso-smallheader"": {
+        ""font-size"": ""18px"",
+        ""font-weight"": ""600"",
+        ""margin-top"": ""64px"",
+        ""padding-left"": ""12px""
+    },
+    ""pso-dashboard-topbar-header"": {
+        ""font-size"": ""46px"",
+        ""font-weight"": ""600"",
+        ""text-align"": ""left""
+    },
+    ""pso-dashboard-topbar-smallheader"": {
+        ""font-size"": ""18px"",
+        ""font-weight"": ""400"",
+        ""text-align"": ""left""
+    },
+    ""pso-your-products"": {
+        ""box-shadow"": ""none"",
+        ""border-bottom"": ""1px solid #d8dde6""
+    },
+    ""pso-dashboard-hero"": {
+        ""height"": ""20vh""
+    },
+    ""pso-todo"": {
+        ""bottom-border"": ""1px solid #D8DDE6"",
+        ""border-top"": ""none"",
+        ""border-left"": ""none"",
+        ""border-right"": ""none""
+    },
+    ""pso-todo-list-task-background"": {
+        ""background-color"": ""rgba(216, 237, 255, 0.32)"",
+        ""border-radius"": ""8px"",
+        ""margin-top"": ""16px"",
+        ""border-bottom"": ""none""
+    },
+    ""pso-todo-task-incomplete-background"": {
+        ""background-color"": ""#fff""
+    },
+    ""pso-todo-list-collapse-container"": {
+        ""background-color"": ""transparent"",
+        ""border"": ""none"",
+        ""color"": ""#0176D3"",
+        ""font-weight"": ""400""
+    },
+    ""pso-todo-list-section-icon"": {
+        ""fill"": ""#62b7ed""
+    },
+    ""pso-oa-topbar"": {
+        ""max-width"": ""664px"",
+        ""margin"": ""0 auto"",
+        ""padding-left"": ""32px"",
+        ""padding-right"": ""32px"",
+        ""tex-align"": """",
+        ""font-size"": """"
+    },
+    ""pso-oa-topbar-header"": {
+        ""text-align"": ""left"",
+        ""font-size"": ""16px"",
+        ""font-weight"": ""400""
+    },
+    ""pso-application-hero"": {
+        ""min-height"": ""fit-content""
+    },
+    ""pso-form-label"": {
+        ""font-size"": ""16px"",
+        ""margin-top"": ""4px""
+    },
+    ""pso-tile"": {
+        ""box-shadow"": ""none"",
+        ""padding-right"": ""32px"",
+        ""padding-left"": ""32px"",
+        ""border"": ""none"",
+        ""max-width"": ""664px""
+    },
+    ""pso-tile-header"": {
+        ""text-align"": ""left"",
+        ""font-size"": ""18px""
+    },
+    ""pso-tile-body"": {
+        ""padding"": ""8px 0 8px 0"",
+        ""font-weight"": ""300""
+    },
+    ""pso-tile-header-background"": {
+        ""background-color"": ""transparent"",
+        ""padding-bottom"": ""16px""
+    },
+    ""pso-dashboard-topbar"": {
+        ""max-width"": ""50%"",
+        ""margin"": ""0px auto"",
+        ""padding"": ""64px 0px""
+    },
+    ""pso-todo-list-collapse-container"": {
+        ""display"": ""none""
+    },
+    ""pso-review-card-header"": {
+        ""font-size"": ""18px"",
+        ""font-weight"": ""400""
+    },
+    ""pso-review-value"": {
+        ""margin-bottom"": ""0"",
+        ""word-break"": ""break-all"",
+        ""font-weight"": ""400""
+    },
+    ""pso-loader-icon"": {
+        ""background-image"": ""url('https://c.na52.content.force.com/servlet/servlet.ImageServer?id=0150W00000F7wwW&oid=00Dd0000000hi2e&lastMod=1560888558000')""
+    },
+    ""pso-offers-available-card-subheader"": {
+        ""color"": ""#fff""
+    }
+}","","true","42997639831289401",""
+"a1ubn000001YxxxAAC","005bn000003k2JdAAI","","PSO Master",":root {
+  --primary-color: #0070d2;
+}
+/*Questionnaire questions single column*/
+.portal-questionnaire-container .slds-scope .slds-size_12-of-12{
+width: 100% !important;
+}
+
+/*base font size*/
+.slds body,
+.slds:not(html) {
+  font-size: 16px;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+/*loading background color*/
+.portal-loader-overlay {
+  background-color: rgba(255, 255, 255, 0.64);
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+.portal-loader-overlay .portal-loader-message {
+  top: 40%;
+}
+/*remove oa section background*/
+.portal-form-container[n-style=""pso-section""] {
+  background-color: #fff;
+  box-shadow: none;
+  margin-top: 0;
+}
+/*removing additional space below header text*/
+[n-style=""pso-oa-topbar""]
+  .slds-grid.slds-wrap.slds-m-top--medium.slds-p-bottom--large {
+  display: none;
+}
+/*show subheader text in mobile*/
+.slds [n-style=""pso-application-body-subheader""] {
+  display: block !important;
+}
+/*removing shadow from multi-object cards*/
+.slds .multi-object-form-edit-card {
+  box-shadow: none;
+}
+.slds .multi-object-form-edit-card div.portal-button-group {
+  padding-right: 12px;
+  padding-left: 12px;
+}
+.slds .multi-object-form-edit-card button[n-style=""pso-action-link""] {
+  min-height: 44px;
+}
+.slds .slds-input,
+.slds .slds-textarea {
+  border-radius: 8px 8px 0 0;
+}
+.slds .slds-has-error .slds-input,
+.slds .slds-has-error.slds-input {
+  border: 2px solid #ea001e !important;
+  box-shadow: initial;
+}
+.slds .slds-textarea {
+  padding: 0 16px 0 12px;
+}
+.slds div[n-style=""pso-select-currency""] + nds-input-number .slds-input {
+  border-radius: 0 8px 0 0;
+}
+/*input and select hover, active, and placeholder*/
+.slds .slds-input:hover,
+.slds .slds-input:focus,
+.slds .slds-select:hover,
+.slds .slds-select:focus,
+.slds .slds-textarea:hover,
+.slds .slds-textarea:focus,
+.portal-input-group:hover .portal-input-group-addon,
+.portal-input-group:focus .portal-input-group-addon {
+  border-bottom-color: var(--primary-color) !important;
+}
+.slds .slds-checkbox--faux:hover,
+.slds .slds-checkbox--faux:focus {
+  border-color: var(--primary-color) !important;
+}
+.portal-input-group .portal-input-group-addon {
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+.slds .slds-input::-webkit-input-placeholder {
+  color: #706e6b;
+}
+/*left padding for portal section subheaders*/
+.slds .h4.slds-form-element__label[ng-bind=""section.portalSubheaderText""] {
+  padding-left: 12px;
+}
+/*make button groups smaller width to provide button affordance*/
+.portal-button-group [n-style=""pso-button-secondary""] {
+  background-color: rgba(216, 237, 255, 0.14) !important;
+  border-bottom: 2px solid #d8dde6 !important;
+}
+.slds .portal-button-group {
+  display: flex;
+  flex-wrap: wrap;
+}
+.slds .portal-button-group button> svg.portal-selected-icon {
+  fill: var(--primary-color);
+}
+.slds .slds-wizard {
+  max-width: 600px;
+  margin: 0 auto;
+}
+div.portal-wrapper {
+  background: #fff;
+  border-bottom: 1px solid #d8dde6;
+}
+.slds .slds-datepicker__filter .slds-select_container:after,
+.slds .slds-datepicker__filter .slds-select_container:before {
+  height: inherit;
+}
+/*fixing review and submit spacing*/
+div.portal-review-section .slds-grid .slds-form-element__static {
+  font-size: 18px;
+  line-height: 20px;
+  margin-bottom: 16px;
+  font-weight: 300;
+}
+/*submit button*/
+#submitOnlineForm {
+  margin-top: 64px;
+  height: 64px !important;
+}
+/*align collateral icon on review and submit to the top*/
+.slds .portal-collateral-review-item {
+  -webkit-box-align: start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+}
+/* fix dashboard header height */
+.slds .dashboard-nav-horizontal a.slds-button {
+  padding-top: 0;
+}
+/*hide your product icons to reduce visual noise*/
+.slds .portal-your-products-header .slds-p-right--x-small {
+  display: none;
+}
+/*keeping selected offers card from jumping*/
+.slds .offers-card {
+  border-top: 8px solid #fff;
+}
+/*making product cards full width after hiding icons*/
+.slds-grid.portal-your-products-header .slds-col.slds-size--7-of-8 {
+  width: 100%;
+}
+/*separating to-do list from additional products and cards*/
+.todo-list-wrapper {
+  margin-bottom: 128px;
+}
+/*Make Checkmark Large*/
+.slds .slds-checkbox [type=""checkbox""]:checked + .slds-checkbox--faux:after,
+.slds .slds-checkbox [type=""checkbox""]:checked ~ .slds-checkbox--faux:after {
+  height: 7px;
+  width: 14px;
+}
+/*Left align to-do list headers*/
+.slds .todo-list-wrapper h2.slds-text-heading--small {
+  text-align: left;
+}
+/*fix modal not scrolling on mobile, mainly for review and accept functionality*/
+.slds .slds-modal__content {
+  overflow: scroll;
+}
+/*tile header background color*/
+.slds .portal-tile-header {
+  background-color: transparent;
+  padding: 12px 0 12px 0;
+}
+/*center tile when in bottom center position*/
+.slds .portal-center-bottom-tile {
+  max-width: 664px;
+  margin: 0 auto;
+}
+/*Fixing your products card width on mobile*/
+.your-products-card-wrapper {
+  min-width: auto;
+}
+portal-questionnaire .slds-scope nds-input-checkbox input.slds-has-error + label.slds-checkbox__label > .slds-checkbox_faux {
+  border: 2px solid #ea001e;
+}
+/*----------REVIEW AND SUBMIT STYLING BELOW------------*/
+/*review and submit section headers and spacing*/
+[n-style=""pso-review-section""] [n-style=""pso-smallheader""] {
+  margin-top: 16px !important;
+  padding-left: 0 !important;
+}
+[n-style=""pso-review-section""]
+  .h4.slds-form-element__label[ng-bind=""section.portalSubheaderText""] {
+  padding-left: 0 !important;
+}
+[n-style=""pso-review-section""] .slds-m-top--small {
+  margin-top: 0;
+}
+/*----------BUSINESS OWNER CARDS BELOW------------*/
+/*bold business name*/
+.slds .portal-owner-card .slds-media__body p:first-of-type {
+  font-weight: bold;
+}
+/*transparent card background*/
+.slds .portal-owner-card .slds-card {
+  background-color: transparent;
+  border: none;
+}
+/*remove box shadow and fix border*/
+.slds .portal-owner-card div.portal-selected-grid-cell {
+  box-shadow: none;
+  border-left: 4px var(--primary-color) solid;
+}
+.slds .portal-owner-card .card-bottom-active-button {
+  box-shadow: none;
+}
+.slds .portal-owner-card .card-bottom-button {
+  border: none !important;
+  text-align: left;
+}
+/*----------ACCOUNT OPTIONS STYLING BELOW------------*/
+.slds div.portal-detail-row:hover {
+  box-shadow: none;
+}
+.slds div.portal-detail-row {
+  box-shadow: none;
+}
+/*----------MOBILE STYLING BELOW------------*/
+@media only screen and (max-width: 1024px) {
+  .slds [n-style=""pso-dashboard-topbar""] {
+    max-width: 100% !important;
+    margin: 0px auto !important;
+    padding: 32px 24px !important;
+  }
+  /*mobile header text sizing*/
+  .slds [n-style=""pso-application-body-header""],
+  .slds [n-style=""pso-dashboard-topbar-header""] {
+    font-size: 28px !important;
+  }
+  .slds [n-style=""pso-smallheader""],
+  .slds [n-style=""pso-form-label""] {
+    margin-left: 0;
+    padding-left: 0;
+  }
+  /*mobile suggested product card buttons*/
+  [n-style=""pso-detail-card""]
+    .slds-size--1-of-1.slds-large-size--3-of-12.slds-align-middle.slds-text-align--center {
+    padding: 0 32px 16px 32px;
+  }
+  /*left align h1 on mobile*/
+  [n-style=""pso-oa-topbar""] {
+    padding-left: 0 !important;
+  }
+  /*shrinking subheader text size on mobile*/
+  [n-style=""pso-application-body-subheader""] {
+    font-size: 16px !important;
+  }
+}","{
+	""pso-wizard-container"": {
+		""margin-top"": ""-30px""
+	},
+	""pso-wizard-item-text-active"": {
+		""font-size"": ""13px""
+	},
+	""pso-wizard-item-text-inactive"": {
+		""font-size"": ""13px""
+	},
+	""pso-checkbox"": {
+		""width"": ""24px"",
+		""height"": ""24px"",
+		""cursor"": ""pointer"",
+		""border-width"": ""2px""
+	},
+	""pso-input"": {
+		""background-color"": ""transparent"",
+		""font-size"": ""18px"",
+		""border-bottom"": ""2px solid #d8dde6"",
+		""border-top"": ""none"",
+		""border-left"": ""none"",
+		""border-right"": ""none"",
+		""height"": ""32px"",
+		""transition"": ""0.3s""
+	},
+	""pso-select"": {
+		""background-color"": ""transparent"",
+		""font-size"": ""18px"",
+		""border-bottom"": ""2px solid #d8dde6"",
+		""border-top"": ""none"",
+		""border-left"": ""none"",
+		""border-right"": ""none"",
+		""border-radius"": ""8px 8px 0 0"",
+		""cursor"": ""pointer""
+	},
+	""pso-select-currency"": {
+		""border"": ""none"",
+		""background-color"": ""rgba(216, 237, 255, 0.14)"",
+		""border-bottom"": ""2px solid #d8dde6"",
+		""border-radius"": ""8px 0 0 0""
+	},
+	""pso-date-subtext"": {
+		""color"": ""#706E6B""
+	},
+	""pso-button-primary"": {
+		""min-height"": ""44px"",
+		""font-size"": ""16px"",
+		""display"": ""flex"",
+		""justify-content"": ""center"",
+		""align-items"": ""center"",
+		""border-radius"": ""64px"",
+		""min-width"": ""100px""
+	},
+	""pso-button-secondary"": {
+		""min-height"": ""44px"",
+		""display"": ""flex"",
+		""justify-content"": ""center"",
+		""align-items"": ""center"",
+		""font-size"": ""16px"",
+		""border"": ""1px solid #d8dde6"",
+		""border-radius"": ""64px""
+	},
+	""pso-view-and-accept-button"": {
+		""height"": ""48px"",
+		""border"": ""1px solid #d8dde6""
+	},
+	""pso-modal-footer"": {
+		""float"": ""none"",
+		""display"": ""flex"",
+		""flex-direction"": ""row"",
+		""justify-content"": ""flex-end"",
+		""padding"": ""1rem""
+	},
+	""pso-section"": {
+		""max-width"": ""664px"",
+		""margin"": ""0 auto"",
+		""border"": ""none"",
+		""padding-top"": ""50px""
+	},
+	""pso-section-icon"": {
+		""background-color"": ""#0070d2"",
+		""top"": ""25px""
+	},
+	""pso-section-inner"": {
+		""padding-left"": ""0"",
+		""padding-right"": ""0""
+	},
+	""pso-topbar"": {
+		""max-width"": ""1200px"",
+		""margin"": ""0 auto"",
+		""border"": ""none"",
+		""box-shadow"": ""none""
+	},
+	""pso-topbar-img"": {
+		""height"": ""50px""
+	},
+	""pso-application-card-progress-fill"": {
+		""fill"": ""#0070d2""
+	},
+	""portal-incomplete-app-progress-fill"": {
+		""fill"": ""#0070d2""
+	},
+	""pso-application-body-header"": {
+		""font-size"": ""46px"",
+		""font-weight"": ""600"",
+		""text-align"": ""left"",
+		""padding-left"": ""12px"",
+		""margin-top"": ""0""
+	},
+	""pso-application-body-subheader"": {
+		""font-size"": ""18px"",
+		""font-weight"": ""normal"",
+		""text-align"": ""left"",
+		""display"": ""block"",
+		""margin-bottom"": ""0"",
+		""padding-left"": ""12px""
+	},
+	""pso-smallheader"": {
+		""font-size"": ""18px"",
+		""font-weight"": ""600"",
+		""margin-top"": ""64px"",
+		""padding-left"": ""12px""
+	},
+	""pso-smallheader-password"":{
+		""margin-top"":""24px""
+	},
+	""pso-dashboard-hero"": {
+		""background-image"": ""linear-gradient(rgb(0 112 210), rgba(0, 0, 0, 0.5)), url(https://nfinancial--c.documentforce.com/servlet/servlet.ImageServer?id=0156g000001hFJC&oid=00D6g000002dxUq&lastMod=1605538682000)"",
+		""background-size"": ""cover"",
+		""background-position"": ""center"",
+		""background-repeat"": ""no-repeat"",
+		""position"": ""relative"",
+""height"":""40vh""
+	},
+	""pso-dashboard-topbar-header"": {
+		""font-size"": ""46px"",
+		""font-weight"": ""600"",
+		""text-align"": ""left"",
+""color"":""#ffffff"",
+""padding-top"":""30px""
+	},
+	""pso-dashboard-topbar-smallheader"": {
+		""font-size"": ""18px"",
+		""font-weight"": ""400"",
+		""text-align"": ""left"",
+""color"":""#ffffff""
+	},
+	""pso-your-products"": {
+		""box-shadow"": ""none"",
+		""border-bottom"": ""1px solid #d8dde6""
+	},
+	""pso-todo"": {
+		""bottom-border"": ""1px solid #D8DDE6"",
+		""border-top"": ""none"",
+		""border-left"": ""none"",
+		""border-right"": ""none""
+	},
+	""pso-todo-list-task-background"": {
+		""background-color"": ""rgba(216, 237, 255, 0.32)"",
+		""border-radius"": ""8px"",
+		""margin-top"": ""16px"",
+		""border-bottom"": ""none""
+	},
+	""pso-todo-task-incomplete-background"": {
+		""background-color"": ""#fff""
+	},
+	""pso-todo-list-collapse-container"": {
+		""background-color"": ""transparent"",
+		""border"": ""none"",
+		""color"": ""#0070d2"",
+		""font-weight"": ""400"",
+		""display"": ""none""
+	},
+	""pso-todo-list-section-icon"": {
+		""fill"": ""#62b7ed""
+	},
+	""pso-oa-topbar"": {
+		""max-width"": ""664px"",
+		""margin"": ""0 auto"",
+		""padding-left"": ""32px"",
+		""padding-right"": ""32px"",
+		""tex-align"": """",
+		""font-size"": """"
+	},
+	""pso-oa-topbar-header"": {
+		""text-align"": ""left"",
+		""font-size"": ""16px"",
+		""font-weight"": ""400""
+	},
+	""pso-application-hero"": {
+		""min-height"": ""fit-content""
+	},
+	""pso-form-label"": {
+		""font-size"": ""16px"",
+		""margin-top"": ""4px""
+	},
+	""pso-tile"": {
+		""box-shadow"": ""none"",
+		""padding-right"": ""32px"",
+		""padding-left"": ""32px"",
+		""border"": ""none"",
+		""max-width"": ""664px""
+	},
+	""pso-tile-header"": {
+		""text-align"": ""left"",
+		""font-size"": ""18px""
+	},
+	""pso-tile-body"": {
+		""padding"": ""8px 0 8px 0"",
+		""font-weight"": ""300""
+	},
+	""pso-tile-header-background"": {
+		""background-color"": ""transparent"",
+		""padding-bottom"": ""16px""
+	},
+	""pso-dashboard-topbar"": {
+		""max-width"": ""100%"",
+		""margin"": ""0px auto"",
+		""padding"": ""64px"",
+                 ""background-image"": ""linear-gradient(rgb(0 112 210), rgba(0, 0, 0, 0.5)), url(https://nfinancial--c.documentforce.com/servlet/servlet.ImageServer?id=0156g000001hFJC&oid=00D6g000002dxUq&lastMod=1605538682000)"",
+""background-size"": ""cover"",
+""background-position"": ""center"",
+""background-repeat"": ""no-repeat"",
+""position"": ""relative""
+	},
+	""pso-dashboard-nav-horizontal-li"": {
+		""display"": ""flex"",
+		""align-items"": ""center""
+	},
+	""pso-nav-dot-active"": {
+		""fill"": ""#0070d2""
+	},
+	""pso-review-card-header"": {
+		""font-size"": ""18px"",
+		""font-weight"": ""400""
+	},
+	""pso-review-value"": {
+		""margin-bottom"": ""0"",
+		""font-weight"": ""400"",
+		""word-break"": ""break-word""
+	},
+	""pso-loader-icon"": {
+		""background-image"": ""url('https://c.na52.content.force.com/servlet/servlet.ImageServer?id=0150W00000F7wwW&oid=00Dd0000000hi2e&lastMod=1560888558000';)""
+	},
+	""pso-offers-available-card-subheader"": {
+		""color"": ""#fff""
+	}
+}","PSO Master Sample Branding.","true","i8rfgy79iu7ty765gu88u7","098750fh43h76n4f038506y"

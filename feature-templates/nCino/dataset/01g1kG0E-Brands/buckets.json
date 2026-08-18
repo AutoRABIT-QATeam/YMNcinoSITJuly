@@ -1,0 +1,16 @@
+{
+  "buckets": [
+    {
+      "objects": [
+        "nFORCE__Brand__c",
+        "LLC_BI__Institution__c",
+        "LLC_BI__EmailTemplate_Institution__c"
+      ],
+      "bucketNum": 1,
+      "clauseField": "nFORCE_lookupKey_c",
+      "entryObject": "nFORCE__Brand__c",
+      "mandatoryObject": [],
+      "exclusionObject": []
+    }
+  ]
+}

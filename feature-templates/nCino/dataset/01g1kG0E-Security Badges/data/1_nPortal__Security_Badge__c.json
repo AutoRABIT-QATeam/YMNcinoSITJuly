@@ -1,0 +1,27 @@
+{
+  "name": "1_nPortal__Security_Badge__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "nPortal__Alt_Text__c",
+    "nPortal__Document_ID__c",
+    "nPortal__Is_Decorative__c",
+    "nPortal__Is_Portal_Enabled__c",
+    "nPortal__lookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a5zbn000003naVFAAY",
+      "IsDeleted": "",
+      "Name": "TEST BADGE",
+      "OwnerId": "005bn000003k2JdAAI",
+      "nPortal__Alt_Text__c": "TEST ALT TEXT",
+      "nPortal__Document_ID__c": "TESTDOCID",
+      "nPortal__Is_Decorative__c": "true",
+      "nPortal__Is_Portal_Enabled__c": "true",
+      "nPortal__lookupKey__c": "00000146_467B_4327_8B71_1D1B92DEADA9"
+    }
+  }
+}

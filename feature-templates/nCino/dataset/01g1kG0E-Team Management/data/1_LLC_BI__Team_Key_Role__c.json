@@ -1,0 +1,82 @@
+{
+  "name": "1_LLC_BI__Team_Key_Role__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "ConnectionReceivedId",
+    "ConnectionSentId",
+    "LLC_BI__Role__c",
+    "LLC_BI__Team_Key__c",
+    "LLC_BI__lookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "ConnectionReceivedId": "",
+      "ConnectionSentId": "",
+      "Id": "a1oHo000003CTYyIAO",
+      "IsDeleted": "",
+      "LLC_BI__Role__c": "",
+      "LLC_BI__Team_Key__c": "a1EHo000004VOZ6MAO",
+      "LLC_BI__lookupKey__c": "a1o5f000001XIb8AAG",
+      "Name": "TKR-20",
+      "OwnerId": "005Ho00000AXM6UIAX"
+    },
+    "2": {
+      "ConnectionReceivedId": "",
+      "ConnectionSentId": "",
+      "Id": "a1oHo000003CTYzIAO",
+      "IsDeleted": "",
+      "LLC_BI__Role__c": "",
+      "LLC_BI__Team_Key__c": "a1EHo000004VOZ7MAO",
+      "LLC_BI__lookupKey__c": "a1o5f000001XIb9AAG",
+      "Name": "TKR-21",
+      "OwnerId": "005Ho00000AXM6UIAX"
+    },
+    "3": {
+      "ConnectionReceivedId": "",
+      "ConnectionSentId": "",
+      "Id": "a1oHo000003CTZ0IAO",
+      "IsDeleted": "",
+      "LLC_BI__Role__c": "",
+      "LLC_BI__Team_Key__c": "a1EHo000004VOZ8MAO",
+      "LLC_BI__lookupKey__c": "a1o5f000001XIbAAAW",
+      "Name": "TKR-22",
+      "OwnerId": "005Ho00000AXM6UIAX"
+    },
+    "4": {
+      "ConnectionReceivedId": "",
+      "ConnectionSentId": "",
+      "Id": "a1oHo000003CS0tIAG",
+      "IsDeleted": "",
+      "LLC_BI__Role__c": "",
+      "LLC_BI__Team_Key__c": "a1EHo000004VOZ6MAO",
+      "LLC_BI__lookupKey__c": "a1oHo000003CS0tIAG",
+      "Name": "TKR-0",
+      "OwnerId": "005Ho00000AXM6UIAX"
+    },
+    "5": {
+      "ConnectionReceivedId": "",
+      "ConnectionSentId": "",
+      "Id": "a1oHo000003CS0uIAG",
+      "IsDeleted": "",
+      "LLC_BI__Role__c": "",
+      "LLC_BI__Team_Key__c": "a1EHo000004VOZ7MAO",
+      "LLC_BI__lookupKey__c": "a1oHo000003CS0uIAG",
+      "Name": "TKR-1",
+      "OwnerId": "005Ho00000AXM6UIAX"
+    },
+    "6": {
+      "ConnectionReceivedId": "",
+      "ConnectionSentId": "",
+      "Id": "a1oHo000003CS0vIAG",
+      "IsDeleted": "",
+      "LLC_BI__Role__c": "",
+      "LLC_BI__Team_Key__c": "a1EHo000004VOZ8MAO",
+      "LLC_BI__lookupKey__c": "a1oHo000003CS0vIAG",
+      "Name": "TKR-2",
+      "OwnerId": "005Ho00000AXM6UIAX"
+    }
+  }
+}

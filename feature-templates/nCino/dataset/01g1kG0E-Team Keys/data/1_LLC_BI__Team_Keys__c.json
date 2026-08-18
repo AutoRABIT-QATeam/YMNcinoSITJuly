@@ -1,0 +1,49 @@
+{
+  "name": "1_LLC_BI__Team_Keys__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "LLC_BI__KeyName__c",
+    "LLC_BI__RoleName__c",
+    "LLC_BI__TeamObjectName__c",
+    "LLC_BI__TemplateName__c",
+    "LLC_BI__lookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a1Ebn000000is4lEAA",
+      "IsDeleted": "",
+      "LLC_BI__KeyName__c": "LoanTeamPortfolioManagerAssigned",
+      "LLC_BI__RoleName__c": "Portfolio Manager",
+      "LLC_BI__TeamObjectName__c": "LLC_BI__LoanTeam__c",
+      "LLC_BI__TemplateName__c": "LoanTeamPortfolioManagerAssigned",
+      "LLC_BI__lookupKey__c": "34655342114231",
+      "Name": "LoanTeamPortfolioManagerAssigned",
+      "OwnerId": "005bn000003k2JdAAI"
+    },
+    "2": {
+      "Id": "a1Ebn000000is4kEAA",
+      "IsDeleted": "",
+      "LLC_BI__KeyName__c": "LoanTeamCloserAssigned",
+      "LLC_BI__RoleName__c": "Closer",
+      "LLC_BI__TeamObjectName__c": "LLC_BI__LoanTeam__c",
+      "LLC_BI__TemplateName__c": "LoanTeamCloserAssigned",
+      "LLC_BI__lookupKey__c": "45634253254",
+      "Name": "LoanTeamCloserAssigned",
+      "OwnerId": "005bn000003k2JdAAI"
+    },
+    "3": {
+      "Id": "a1Ebn000000is4jEAA",
+      "IsDeleted": "",
+      "LLC_BI__KeyName__c": "LoanTeamUnderwriterAssigned",
+      "LLC_BI__RoleName__c": "Credit Analyst / Underwriter",
+      "LLC_BI__TeamObjectName__c": "LLC_BI__LoanTeam__c",
+      "LLC_BI__TemplateName__c": "LoanTeamUnderwriterAssigned",
+      "LLC_BI__lookupKey__c": "7960829876",
+      "Name": "LoanTeamUnderwriterAssigned",
+      "OwnerId": "005bn000003k2JdAAI"
+    }
+  }
+}

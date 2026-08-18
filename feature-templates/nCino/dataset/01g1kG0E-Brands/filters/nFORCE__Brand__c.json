@@ -1,0 +1,4 @@
+{
+  "name": "nFORCE__Brand__c",
+  "query": "Select Id From nFORCE__Brand__c Where ( nFORCE__Look_Up_Key__c!\u003d  null )"
+}

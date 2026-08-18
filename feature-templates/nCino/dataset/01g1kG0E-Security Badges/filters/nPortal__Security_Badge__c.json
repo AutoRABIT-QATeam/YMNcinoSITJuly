@@ -1,0 +1,4 @@
+{
+  "name": "nPortal__Security_Badge__c",
+  "query": "Select Id From nPortal__Security_Badge__c Where ( nPortal__lookupKey__c !\u003d  null )"
+}

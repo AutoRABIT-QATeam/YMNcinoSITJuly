@@ -1,0 +1,14 @@
+{
+  "buckets": [
+    {
+      "objects": [
+        "nPortal__Security_Badge__c"
+      ],
+      "bucketNum": 1,
+      "clauseField": "nFORCE_lookupKey_c",
+      "entryObject": "nPortal__Security_Badge__c",
+      "mandatoryObject": [],
+      "exclusionObject": []
+    }
+  ]
+}

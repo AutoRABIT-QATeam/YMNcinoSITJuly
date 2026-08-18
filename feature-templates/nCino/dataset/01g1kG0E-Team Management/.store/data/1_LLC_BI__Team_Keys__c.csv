@@ -1,0 +1,4 @@
+"Id","OwnerId","IsDeleted","Name","ConnectionReceivedId","ConnectionSentId","LLC_BI__KeyName__c","LLC_BI__RoleName__c","LLC_BI__TeamObjectName__c","LLC_BI__TemplateName__c","LLC_BI__Role__c","LLC_BI__lookupKey__c"
+"a1EHo000004VOZ8MAO","005Ho00000AXM6UIAX","","LoanTeamPortfolioManagerAssigned","","","LoanTeamPortfolioManagerAssigned","Portfolio Manager","LLC_BI__LoanTeam__c","LoanTeamPortfolioManagerAssigned","","34655342114231"
+"a1EHo000004VOZ7MAO","005Ho00000AXM6UIAX","","LoanTeamCloserAssigned","","","LoanTeamCloserAssigned","Closer","LLC_BI__LoanTeam__c","LoanTeamCloserAssigned","","45634253254"
+"a1EHo000004VOZ6MAO","005Ho00000AXM6UIAX","","LoanTeamUnderwriterAssigned","","","LoanTeamUnderwriterAssigned","Credit Analyst / Underwriter","LLC_BI__LoanTeam__c","LoanTeamUnderwriterAssigned","","7960829876"

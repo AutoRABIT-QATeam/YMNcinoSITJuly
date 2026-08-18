@@ -1,0 +1,235 @@
+{
+  "name": "1_LLC_BI__CFG_ConfigKey__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "LLC_BI__lookupKey__c",
+    "LLC_BI__Action_Name__c",
+    "LLC_BI__Action_Type__c",
+    "LLC_BI__Action_Display_Name__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a0Dbn00000QolocEAB",
+      "IsDeleted": "",
+      "LLC_BI__Action_Display_Name__c": "Collateral Adjustment",
+      "LLC_BI__Action_Name__c": "Modify",
+      "LLC_BI__Action_Type__c": "Material Modification",
+      "LLC_BI__lookupKey__c": "42069006513967105",
+      "Name": "Collateral Adjustment",
+      "OwnerId": "005bn000003k2JdAAI"
+    },
+    "2": {
+      "Id": "a0Dbn00000QolobEAB",
+      "IsDeleted": "",
+      "LLC_BI__Action_Display_Name__c": "Borrowing Structure Adjustment",
+      "LLC_BI__Action_Name__c": "Modify",
+      "LLC_BI__Action_Type__c": "Material Modification",
+      "LLC_BI__lookupKey__c": "42087581767096825",
+      "Name": "Borrowing Structure Adjustment",
+      "OwnerId": "005bn000003k2JdAAI"
+    },
+    "3": {
+      "Id": "a0Dbn00000QolodEAB",
+      "IsDeleted": "",
+      "LLC_BI__Action_Display_Name__c": "Rate Change",
+      "LLC_BI__Action_Name__c": "Modify",
+      "LLC_BI__Action_Type__c": "Material Modification",
+      "LLC_BI__lookupKey__c": "42180530733978430",
+      "Name": "Rate Change",
+      "OwnerId": "005bn000003k2JdAAI"
+    },
+    "4": {
+      "Id": "a0Dbn00000QoloZEAR",
+      "IsDeleted": "",
+      "LLC_BI__Action_Display_Name__c": "Modification",
+      "LLC_BI__Action_Name__c": "Modify",
+      "LLC_BI__Action_Type__c": "Material Modification",
+      "LLC_BI__lookupKey__c": "42440627222022945",
+      "Name": "Modification",
+      "OwnerId": "005bn000003k2JdAAI"
+    },
+    "5": {
+      "Id": "a0Dbn00000QoloaEAB",
+      "IsDeleted": "",
+      "LLC_BI__Action_Display_Name__c": "Renewal",
+      "LLC_BI__Action_Name__c": "Renew",
+      "LLC_BI__Action_Type__c": "Material Modification",
+      "LLC_BI__lookupKey__c": "42713401968631377",
+      "Name": "Renewal",
+      "OwnerId": "005bn000003k2JdAAI"
+    },
+    "6": {
+      "Id": "a0Dbn00000QoloSEAR",
+      "IsDeleted": "",
+      "LLC_BI__Action_Display_Name__c": "",
+      "LLC_BI__Action_Name__c": "",
+      "LLC_BI__Action_Type__c": "",
+      "LLC_BI__lookupKey__c": "KY_DM_AWSBucket",
+      "Name": "KY_DM_AWSBucket",
+      "OwnerId": "005bn000003k2JdAAI"
+    },
+    "7": {
+      "Id": "a0Dbn00000QoloTEAR",
+      "IsDeleted": "",
+      "LLC_BI__Action_Display_Name__c": "",
+      "LLC_BI__Action_Name__c": "",
+      "LLC_BI__Action_Type__c": "",
+      "LLC_BI__lookupKey__c": "KY_DM_ReviewRoles",
+      "Name": "KY_DM_ReviewerRoles",
+      "OwnerId": "005bn000003k2JdAAI"
+    },
+    "8": {
+      "Id": "a0Dbn00000QoloVEAR",
+      "IsDeleted": "",
+      "LLC_BI__Action_Display_Name__c": "",
+      "LLC_BI__Action_Name__c": "",
+      "LLC_BI__Action_Type__c": "",
+      "LLC_BI__lookupKey__c": "KY_GBL_ChangeMemo",
+      "Name": "KY_GBL_ChangeMemo",
+      "OwnerId": "005bn000003k2JdAAI"
+    },
+    "9": {
+      "Id": "a0Dbn00000QoloWEAR",
+      "IsDeleted": "",
+      "LLC_BI__Action_Display_Name__c": "",
+      "LLC_BI__Action_Name__c": "",
+      "LLC_BI__Action_Type__c": "",
+      "LLC_BI__lookupKey__c": "KY_GBL_CreditRole",
+      "Name": "KY_GBL_CreditRole",
+      "OwnerId": "005bn000003k2JdAAI"
+    },
+    "10": {
+      "Id": "a0Dbn00000QoloUEAR",
+      "IsDeleted": "",
+      "LLC_BI__Action_Display_Name__c": "",
+      "LLC_BI__Action_Name__c": "",
+      "LLC_BI__Action_Type__c": "",
+      "LLC_BI__lookupKey__c": "KY_GBL_NS_PrefixBI",
+      "Name": "KY_GBL_NamespacePrefixBI",
+      "OwnerId": "005bn000003k2JdAAI"
+    },
+    "11": {
+      "Id": "a0Dbn00000QoloXEAR",
+      "IsDeleted": "",
+      "LLC_BI__Action_Display_Name__c": "",
+      "LLC_BI__Action_Name__c": "",
+      "LLC_BI__Action_Type__c": "",
+      "LLC_BI__lookupKey__c": "KY_VER_Config",
+      "Name": "KY_VER_Configuration",
+      "OwnerId": "005bn000003k2JdAAI"
+    },
+    "12": {
+      "Id": "a0Dbn00000QoloYEAR",
+      "IsDeleted": "",
+      "LLC_BI__Action_Display_Name__c": "",
+      "LLC_BI__Action_Name__c": "",
+      "LLC_BI__Action_Type__c": "",
+      "LLC_BI__lookupKey__c": "PT-Com-RE",
+      "Name": "PT-Com-RE",
+      "OwnerId": "005bn000003k2JdAAI"
+    },
+    "13": {
+      "Id": "a0Dbn00000T8YYjEAN",
+      "IsDeleted": "",
+      "LLC_BI__Action_Display_Name__c": "",
+      "LLC_BI__Action_Name__c": "",
+      "LLC_BI__Action_Type__c": "",
+      "LLC_BI__lookupKey__c": "PT-Consume0047616",
+      "Name": "PT-Consume0047616",
+      "OwnerId": "005bn000003k2JdAAI"
+    },
+    "14": {
+      "Id": "a0Dbn00000T8YYhEAN",
+      "IsDeleted": "",
+      "LLC_BI__Action_Display_Name__c": "",
+      "LLC_BI__Action_Name__c": "",
+      "LLC_BI__Action_Type__c": "",
+      "LLC_BI__lookupKey__c": "PT-Consume0396854",
+      "Name": "PT-Consume0396854",
+      "OwnerId": "005bn000003k2JdAAI"
+    },
+    "15": {
+      "Id": "a0Dbn00000QoloREAR",
+      "IsDeleted": "",
+      "LLC_BI__Action_Display_Name__c": "",
+      "LLC_BI__Action_Name__c": "",
+      "LLC_BI__Action_Type__c": "",
+      "LLC_BI__lookupKey__c": "PT-Consume0541007",
+      "Name": "PT-Consume0541007",
+      "OwnerId": "005bn000003k2JdAAI"
+    },
+    "16": {
+      "Id": "a0Dbn00000QoloPEAR",
+      "IsDeleted": "",
+      "LLC_BI__Action_Display_Name__c": "",
+      "LLC_BI__Action_Name__c": "",
+      "LLC_BI__Action_Type__c": "",
+      "LLC_BI__lookupKey__c": "PT-Consume0771309",
+      "Name": "PT-Consume0771309",
+      "OwnerId": "005bn000003k2JdAAI"
+    },
+    "17": {
+      "Id": "a0Dbn00000T8YYfEAN",
+      "IsDeleted": "",
+      "LLC_BI__Action_Display_Name__c": "",
+      "LLC_BI__Action_Name__c": "",
+      "LLC_BI__Action_Type__c": "",
+      "LLC_BI__lookupKey__c": "PT-Consume0839948",
+      "Name": "PT-Consume0839948",
+      "OwnerId": "005bn000003k2JdAAI"
+    },
+    "18": {
+      "Id": "a0Dbn00000T8YYiEAN",
+      "IsDeleted": "",
+      "LLC_BI__Action_Display_Name__c": "",
+      "LLC_BI__Action_Name__c": "",
+      "LLC_BI__Action_Type__c": "",
+      "LLC_BI__lookupKey__c": "PT-Consume0843751",
+      "Name": "PT-Consume0843751",
+      "OwnerId": "005bn000003k2JdAAI"
+    },
+    "19": {
+      "Id": "a0Dbn00000T8YYgEAN",
+      "IsDeleted": "",
+      "LLC_BI__Action_Display_Name__c": "",
+      "LLC_BI__Action_Name__c": "",
+      "LLC_BI__Action_Type__c": "",
+      "LLC_BI__lookupKey__c": "PT-Consume0923009",
+      "Name": "PT-Consume0923009",
+      "OwnerId": "005bn000003k2JdAAI"
+    },
+    "20": {
+      "Id": "a0Dbn00000QoloQEAR",
+      "IsDeleted": "",
+      "LLC_BI__Action_Display_Name__c": "",
+      "LLC_BI__Action_Name__c": "",
+      "LLC_BI__Action_Type__c": "",
+      "LLC_BI__lookupKey__c": "PT-NonReal0808040",
+      "Name": "PT-NonReal0808040",
+      "OwnerId": "005bn000003k2JdAAI"
+    },
+    "21": {
+      "Id": "a0Dbn00000QolofEAB",
+      "IsDeleted": "",
+      "LLC_BI__Action_Display_Name__c": "",
+      "LLC_BI__Action_Name__c": "",
+      "LLC_BI__Action_Type__c": "",
+      "LLC_BI__lookupKey__c": "clck123456789",
+      "Name": "Copy_Loan",
+      "OwnerId": "005bn000003k2JdAAI"
+    },
+    "22": {
+      "Id": "a0Dbn00000QoloeEAB",
+      "IsDeleted": "",
+      "LLC_BI__Action_Display_Name__c": "",
+      "LLC_BI__Action_Name__c": "",
+      "LLC_BI__Action_Type__c": "",
+      "LLC_BI__lookupKey__c": "cnsl123456789",
+      "Name": "Create_New_Sub_Loan",
+      "OwnerId": "005bn000003k2JdAAI"
+    }
+  }
+}

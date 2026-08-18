@@ -1,0 +1,37 @@
+{
+  "name": "1_LLC_BI__Team_Key_Role__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "LLC_BI__Team_Key__c",
+    "LLC_BI__lookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a1obn000002k9o1AAA",
+      "IsDeleted": "",
+      "LLC_BI__Team_Key__c": "a1Ebn000000is4jEAA",
+      "LLC_BI__lookupKey__c": "a1obn000002k9o1AAA",
+      "Name": "TKR-0",
+      "OwnerId": "005bn000003k2JdAAI"
+    },
+    "2": {
+      "Id": "a1obn000002k9o2AAA",
+      "IsDeleted": "",
+      "LLC_BI__Team_Key__c": "a1Ebn000000is4kEAA",
+      "LLC_BI__lookupKey__c": "a1obn000002k9o2AAA",
+      "Name": "TKR-1",
+      "OwnerId": "005bn000003k2JdAAI"
+    },
+    "3": {
+      "Id": "a1obn000002k9o3AAA",
+      "IsDeleted": "",
+      "LLC_BI__Team_Key__c": "a1Ebn000000is4lEAA",
+      "LLC_BI__lookupKey__c": "a1obn000002k9o3AAA",
+      "Name": "TKR-2",
+      "OwnerId": "005bn000003k2JdAAI"
+    }
+  }
+}
