@@ -9,11 +9,11 @@ packageDirectories:
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-08-18 13:30:25'
+              modifiedDate: '2026-08-18 14:30:19'
         01xBkN1P-Rules Engine:
           path: dataset/01xBkN1P-Rules Engine
           prefix: ncino
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-08-18 13:30:25'
+              modifiedDate: '2026-08-18 14:30:19'
