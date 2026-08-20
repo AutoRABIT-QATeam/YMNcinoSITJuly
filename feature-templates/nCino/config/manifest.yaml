@@ -1,0 +1,40 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        01qNkK0Y-Branches:
+          path: dataset/01qNkK0Y-Branches
+          prefix: Regre
+          standardFeature: false
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-20 13:56:23'
+        01qNkK0Y-Budgets:
+          path: dataset/01qNkK0Y-Budgets
+          prefix: Regre
+          standardFeature: false
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-20 13:56:24'
+        01qNkK0Y-Forms:
+          path: dataset/01qNkK0Y-Forms
+          prefix: Regre
+          standardFeature: false
+          versions:
+            Rel 2024_07 v2:
+              modifiedDate: '2026-08-20 13:56:24'
+        01qNkK0Y-Rates:
+          path: dataset/01qNkK0Y-Rates
+          prefix: Regre
+          standardFeature: false
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-20 13:56:24'
+        01673U0X-Rules Engine:
+          path: dataset/01673U0X-Rules Engine
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-20 13:56:24'
