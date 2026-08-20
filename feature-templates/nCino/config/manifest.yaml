@@ -1,0 +1,82 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        01vO1V1S-Branches:
+          path: dataset/01vO1V1S-Branches
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-20 10:44:48'
+        01vO1V1S-Budgets:
+          path: dataset/01vO1V1S-Budgets
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-20 10:44:49'
+        01vO1V1S-Forms:
+          path: dataset/01vO1V1S-Forms
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v2:
+              modifiedDate: '2026-08-20 10:44:49'
+        01vO1V1S-Product Hierarchy:
+          path: dataset/01vO1V1S-Product Hierarchy
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-20 10:44:49'
+        01vO1V1S-Product Hierarchy with Group:
+          path: dataset/01vO1V1S-Product Hierarchy with Group
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-20 10:44:49'
+        01vO1V1S-Rates:
+          path: dataset/01vO1V1S-Rates
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-20 10:44:49'
+        01vO1V1S-Roles:
+          path: dataset/01vO1V1S-Roles
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-20 10:44:49'
+        01vO1V1S-Rules Engine:
+          path: dataset/01vO1V1S-Rules Engine
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-20 10:44:49'
+        01vO1V1S-Screens:
+          path: dataset/01vO1V1S-Screens
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-20 10:44:49'
+        01vO1V1S-Spread Templates:
+          path: dataset/01vO1V1S-Spread Templates
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-20 10:44:49'
+        01vO1V1S-User Interface:
+          path: dataset/01vO1V1S-User Interface
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-20 10:44:49'
