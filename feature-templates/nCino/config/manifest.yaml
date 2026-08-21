@@ -10,3 +10,10 @@ packageDirectories:
           versions:
             Rel 2024_07 v1:
               modifiedDate: '2026-08-21 12:44:26'
+        01jPrV0N-Rules Engine:
+          path: dataset/01jPrV0N-Rules Engine
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-21 13:21:13'
