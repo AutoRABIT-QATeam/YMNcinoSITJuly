@@ -1,0 +1,85 @@
+{
+  "name": "1_nFORCE__Rule_Engine_Context_Rule__c",
+  "attributes": [
+    "Id",
+    "IsDeleted",
+    "Name",
+    "nFORCE__Description__c",
+    "nFORCE__Rule_Engine_Context__c",
+    "nFORCE__lookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a31bn000000i1ADAAY",
+      "IsDeleted": "",
+      "Name": "Retrieve Pricing Options Retail Pricing",
+      "nFORCE__Description__c": "Create the pricing option(s) based on information in the Loan specific to Retail Pricing.",
+      "nFORCE__Rule_Engine_Context__c": "a32bn000000i7qkAAA",
+      "nFORCE__lookupKey__c": "42124860362386702"
+    },
+    "2": {
+      "Id": "a31bn000000i1A6AAI",
+      "IsDeleted": "",
+      "Name": "Retrieve Pricing Options",
+      "nFORCE__Description__c": "Create the pricing option(s) based on information in the Loan.",
+      "nFORCE__Rule_Engine_Context__c": "a32bn000000i7qcAAA",
+      "nFORCE__lookupKey__c": "Asdc6498yn"
+    },
+    "3": {
+      "Id": "a31bn000000i1A5AAI",
+      "IsDeleted": "",
+      "Name": "DuplicateContentVersion",
+      "nFORCE__Description__c": "",
+      "nFORCE__Rule_Engine_Context__c": "a32bn000000i7qbAAA",
+      "nFORCE__lookupKey__c": "asdadsfdfsfdsfds1"
+    },
+    "4": {
+      "Id": "a31bn000000i1ACAAY",
+      "IsDeleted": "",
+      "Name": "CLA Inspection PlaceHolder Creation",
+      "nFORCE__Description__c": "The CLA Inspection PlaceHolder Creation rule runs when a new Valuation object is created in order to create one or more Document Manager placeholders.",
+      "nFORCE__Rule_Engine_Context__c": "a32bn000000i7qiAAA",
+      "nFORCE__lookupKey__c": "asdtr134"
+    },
+    "5": {
+      "Id": "a31bn000000i1AAAAY",
+      "IsDeleted": "",
+      "Name": "Loan Auto-Decision",
+      "nFORCE__Description__c": "The Loan Auto-Decision Rule context runs when the Auto-Decision Action item is selected from a loan",
+      "nFORCE__Rule_Engine_Context__c": "a32bn000000i7qgAAA",
+      "nFORCE__lookupKey__c": "ashg5y5432"
+    },
+    "6": {
+      "Id": "a31bn000000i1A8AAI",
+      "IsDeleted": "",
+      "Name": "Credit Request Preprocessing",
+      "nFORCE__Description__c": "This is run before creating a credit request to determine the parameters for the request",
+      "nFORCE__Rule_Engine_Context__c": "a32bn000000i7qeAAA",
+      "nFORCE__lookupKey__c": "cfvasdf1435234"
+    },
+    "7": {
+      "Id": "a31bn000000i1A7AAI",
+      "IsDeleted": "",
+      "Name": "Filter Pricing Options by DTI",
+      "nFORCE__Description__c": "Filters the pricing options based on the current max DTI",
+      "nFORCE__Rule_Engine_Context__c": "a32bn000000i7qdAAA",
+      "nFORCE__lookupKey__c": "fffffff3341"
+    },
+    "8": {
+      "Id": "a31bn000000i1A9AAI",
+      "IsDeleted": "",
+      "Name": "Proposed Pricing Option",
+      "nFORCE__Description__c": "Create the proposed pricing option based on information in the loan.",
+      "nFORCE__Rule_Engine_Context__c": "a32bn000000i7qfAAA",
+      "nFORCE__lookupKey__c": "jj76u67j"
+    },
+    "9": {
+      "Id": "a31bn000000i1ABAAY",
+      "IsDeleted": "",
+      "Name": "Loan Auto-Policy Exception",
+      "nFORCE__Description__c": "The Loan Auto-Policy Exception context runs when the Auto-Policy Exception Action item is selected from a loan",
+      "nFORCE__Rule_Engine_Context__c": "a32bn000000i7qhAAA",
+      "nFORCE__lookupKey__c": "vhdchd635"
+    }
+  }
+}
