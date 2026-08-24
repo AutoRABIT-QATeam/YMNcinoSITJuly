@@ -33,7 +33,7 @@
   "records": {
     "1": {
       "AutorabitExtId__c": "",
-      "Id": "a47WE000001ltbfYAA",
+      "Id": "a47WD000000QQuzYAG",
       "IsDeleted": "false",
       "LLC_BI__Category__c": "",
       "LLC_BI__Collapsed_Offer_Card_Field_Set__c": "SBL_Collapsed_Offer_Card_Summary",
@@ -63,7 +63,7 @@
     },
     "2": {
       "AutorabitExtId__c": "",
-      "Id": "a47WE000001ltbgYAA",
+      "Id": "a47WD000000QQv0YAG",
       "IsDeleted": "false",
       "LLC_BI__Category__c": "",
       "LLC_BI__Collapsed_Offer_Card_Field_Set__c": "SBL_Collapsed_Offer_Card_Summary",

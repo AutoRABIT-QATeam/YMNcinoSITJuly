@@ -45,7 +45,7 @@
       "LLC_BI__Auto_Update_Collateral_Value__c": "false",
       "LLC_BI__Category__c": "",
       "LLC_BI__Collateral_Code__c": "",
-      "LLC_BI__Collateral_Configuration__c": "{/\"prodPkgEditScreen/\":/\"723454364762362365/\",/\"ownershipAssignmentFieldSetName/\":/\"LLC_BI__Bulk_Ownership_Assignment/\",/\"editCollateralScreen/\":/\"42363993400862416/\",/\"copyCollateralScreen/\":/\"42363993400862416/\",/\"collateralScreenName/\":/\"Collateral Creation Screen/\",/\"collateralCopyFieldSetName/\":/\"LLC_BI__Collateral_Creation_Screen_Configuration/\",/\"collateralCloneFieldSetName/\":/\"LLC_BI__Collateral_Creation_Screen_Configuration/\",/\"addCollateralScreen/\":/\"42363993400862416/\",/\"addChildCollateralScreen/\":/\"42363993400862416/\"}",
+      "LLC_BI__Collateral_Configuration__c": "{\"prodPkgEditScreen\":\"723454364762362365\",\"ownershipAssignmentFieldSetName\":\"LLC_BI__Bulk_Ownership_Assignment\",\"editCollateralScreen\":\"42363993400862416\",\"copyCollateralScreen\":\"42363993400862416\",\"collateralScreenName\":\"Collateral Creation Screen\",\"collateralCopyFieldSetName\":\"LLC_BI__Collateral_Creation_Screen_Configuration\",\"collateralCloneFieldSetName\":\"LLC_BI__Collateral_Creation_Screen_Configuration\",\"addCollateralScreen\":\"42363993400862416\",\"addChildCollateralScreen\":\"42363993400862416\"}",
       "LLC_BI__Collateral_Display_Name__c": "",
       "LLC_BI__Condo_PUD__c": "false",
       "LLC_BI__Expire_Date__c": "",
@@ -68,7 +68,7 @@
       "LLC_BI__Valuation_Type__c": "",
       "LLC_BI__lookupKey__c": "a1x5f000000mHAIAA2",
       "Name": "Real Estate-Construction",
-      "OwnerId": "005al00000RVcKvAAL",
+      "OwnerId": "005al00000RVvFOAA1",
       "nCinoCB__Classification__c": ""
     },
     "2": {
@@ -80,7 +80,7 @@
       "LLC_BI__Auto_Update_Collateral_Value__c": "false",
       "LLC_BI__Category__c": "",
       "LLC_BI__Collateral_Code__c": "",
-      "LLC_BI__Collateral_Configuration__c": "{/\"prodPkgEditScreen/\":/\"723454364762362365/\",/\"ownershipAssignmentFieldSetName/\":/\"LLC_BI__Bulk_Ownership_Assignment/\",/\"editCollateralScreen/\":/\"42363993400862416/\",/\"copyCollateralScreen/\":/\"42363993400862416/\",/\"collateralScreenName/\":/\"Collateral Creation Screen/\",/\"collateralCopyFieldSetName/\":/\"LLC_BI__Collateral_Creation_Screen_Configuration/\",/\"collateralCloneFieldSetName/\":/\"LLC_BI__Collateral_Creation_Screen_Configuration/\",/\"addCollateralScreen/\":/\"42363993400862416/\",/\"addChildCollateralScreen/\":/\"42363993400862416/\"}",
+      "LLC_BI__Collateral_Configuration__c": "{\"prodPkgEditScreen\":\"723454364762362365\",\"ownershipAssignmentFieldSetName\":\"LLC_BI__Bulk_Ownership_Assignment\",\"editCollateralScreen\":\"42363993400862416\",\"copyCollateralScreen\":\"42363993400862416\",\"collateralScreenName\":\"Collateral Creation Screen\",\"collateralCopyFieldSetName\":\"LLC_BI__Collateral_Creation_Screen_Configuration\",\"collateralCloneFieldSetName\":\"LLC_BI__Collateral_Creation_Screen_Configuration\",\"addCollateralScreen\":\"42363993400862416\",\"addChildCollateralScreen\":\"42363993400862416\"}",
       "LLC_BI__Collateral_Display_Name__c": "",
       "LLC_BI__Condo_PUD__c": "false",
       "LLC_BI__Expire_Date__c": "",
@@ -103,7 +103,7 @@
       "LLC_BI__Valuation_Type__c": "",
       "LLC_BI__lookupKey__c": "a1x5f000000mHAJAA2",
       "Name": "Titled-Motor Vehicle",
-      "OwnerId": "005al00000RVcKvAAL",
+      "OwnerId": "005al00000RVvFOAA1",
       "nCinoCB__Classification__c": ""
     },
     "3": {
@@ -115,7 +115,7 @@
       "LLC_BI__Auto_Update_Collateral_Value__c": "false",
       "LLC_BI__Category__c": "",
       "LLC_BI__Collateral_Code__c": "",
-      "LLC_BI__Collateral_Configuration__c": "{/\"prodPkgEditScreen/\":/\"723454364762362365/\",/\"ownershipAssignmentFieldSetName/\":/\"LLC_BI__Bulk_Ownership_Assignment/\",/\"editCollateralScreen/\":/\"42363993400862416/\",/\"copyCollateralScreen/\":/\"42363993400862416/\",/\"collateralScreenName/\":/\"Collateral Creation Screen/\",/\"collateralCopyFieldSetName/\":/\"LLC_BI__Collateral_Creation_Screen_Configuration/\",/\"collateralCloneFieldSetName/\":/\"LLC_BI__Collateral_Creation_Screen_Configuration/\",/\"addCollateralScreen/\":/\"42363993400862416/\",/\"addChildCollateralScreen/\":/\"42363993400862416/\"}",
+      "LLC_BI__Collateral_Configuration__c": "{\"prodPkgEditScreen\":\"723454364762362365\",\"ownershipAssignmentFieldSetName\":\"LLC_BI__Bulk_Ownership_Assignment\",\"editCollateralScreen\":\"42363993400862416\",\"copyCollateralScreen\":\"42363993400862416\",\"collateralScreenName\":\"Collateral Creation Screen\",\"collateralCopyFieldSetName\":\"LLC_BI__Collateral_Creation_Screen_Configuration\",\"collateralCloneFieldSetName\":\"LLC_BI__Collateral_Creation_Screen_Configuration\",\"addCollateralScreen\":\"42363993400862416\",\"addChildCollateralScreen\":\"42363993400862416\"}",
       "LLC_BI__Collateral_Display_Name__c": "",
       "LLC_BI__Condo_PUD__c": "false",
       "LLC_BI__Expire_Date__c": "",
@@ -138,7 +138,7 @@
       "LLC_BI__Valuation_Type__c": "",
       "LLC_BI__lookupKey__c": "a1x5f000000mHANAA2",
       "Name": "Titled-Other Titled",
-      "OwnerId": "005al00000RVcKvAAL",
+      "OwnerId": "005al00000RVvFOAA1",
       "nCinoCB__Classification__c": ""
     },
     "4": {
@@ -150,7 +150,7 @@
       "LLC_BI__Auto_Update_Collateral_Value__c": "false",
       "LLC_BI__Category__c": "",
       "LLC_BI__Collateral_Code__c": "",
-      "LLC_BI__Collateral_Configuration__c": "{/\"prodPkgEditScreen/\":/\"723454364762362365/\",/\"ownershipAssignmentFieldSetName/\":/\"LLC_BI__Bulk_Ownership_Assignment/\",/\"editCollateralScreen/\":/\"42363993400862416/\",/\"copyCollateralScreen/\":/\"42363993400862416/\",/\"collateralScreenName/\":/\"Collateral Creation Screen/\",/\"collateralCopyFieldSetName/\":/\"LLC_BI__Collateral_Creation_Screen_Configuration/\",/\"collateralCloneFieldSetName/\":/\"LLC_BI__Collateral_Creation_Screen_Configuration/\",/\"addCollateralScreen/\":/\"42363993400862416/\",/\"addChildCollateralScreen/\":/\"42363993400862416/\"}",
+      "LLC_BI__Collateral_Configuration__c": "{\"prodPkgEditScreen\":\"723454364762362365\",\"ownershipAssignmentFieldSetName\":\"LLC_BI__Bulk_Ownership_Assignment\",\"editCollateralScreen\":\"42363993400862416\",\"copyCollateralScreen\":\"42363993400862416\",\"collateralScreenName\":\"Collateral Creation Screen\",\"collateralCopyFieldSetName\":\"LLC_BI__Collateral_Creation_Screen_Configuration\",\"collateralCloneFieldSetName\":\"LLC_BI__Collateral_Creation_Screen_Configuration\",\"addCollateralScreen\":\"42363993400862416\",\"addChildCollateralScreen\":\"42363993400862416\"}",
       "LLC_BI__Collateral_Display_Name__c": "",
       "LLC_BI__Condo_PUD__c": "false",
       "LLC_BI__Expire_Date__c": "",
@@ -173,7 +173,7 @@
       "LLC_BI__Valuation_Type__c": "",
       "LLC_BI__lookupKey__c": "a1x5f000000mHAOAA2",
       "Name": "UCC-Inventory",
-      "OwnerId": "005al00000RVcKvAAL",
+      "OwnerId": "005al00000RVvFOAA1",
       "nCinoCB__Classification__c": ""
     },
     "5": {
@@ -185,7 +185,7 @@
       "LLC_BI__Auto_Update_Collateral_Value__c": "false",
       "LLC_BI__Category__c": "",
       "LLC_BI__Collateral_Code__c": "",
-      "LLC_BI__Collateral_Configuration__c": "{/\"prodPkgEditScreen/\":/\"723454364762362365/\",/\"ownershipAssignmentFieldSetName/\":/\"LLC_BI__Bulk_Ownership_Assignment/\",/\"editCollateralScreen/\":/\"42363993400862416/\",/\"copyCollateralScreen/\":/\"42363993400862416/\",/\"collateralScreenName/\":/\"Collateral Creation Screen/\",/\"collateralCopyFieldSetName/\":/\"LLC_BI__Collateral_Creation_Screen_Configuration/\",/\"collateralCloneFieldSetName/\":/\"LLC_BI__Collateral_Creation_Screen_Configuration/\",/\"addCollateralScreen/\":/\"42363993400862416/\",/\"addChildCollateralScreen/\":/\"42363993400862416/\"}",
+      "LLC_BI__Collateral_Configuration__c": "{\"prodPkgEditScreen\":\"723454364762362365\",\"ownershipAssignmentFieldSetName\":\"LLC_BI__Bulk_Ownership_Assignment\",\"editCollateralScreen\":\"42363993400862416\",\"copyCollateralScreen\":\"42363993400862416\",\"collateralScreenName\":\"Collateral Creation Screen\",\"collateralCopyFieldSetName\":\"LLC_BI__Collateral_Creation_Screen_Configuration\",\"collateralCloneFieldSetName\":\"LLC_BI__Collateral_Creation_Screen_Configuration\",\"addCollateralScreen\":\"42363993400862416\",\"addChildCollateralScreen\":\"42363993400862416\"}",
       "LLC_BI__Collateral_Display_Name__c": "",
       "LLC_BI__Condo_PUD__c": "false",
       "LLC_BI__Expire_Date__c": "",
@@ -208,7 +208,7 @@
       "LLC_BI__Valuation_Type__c": "",
       "LLC_BI__lookupKey__c": "a1x5f000000mHAQAA2",
       "Name": "UCC-Equipment",
-      "OwnerId": "005al00000RVcKvAAL",
+      "OwnerId": "005al00000RVvFOAA1",
       "nCinoCB__Classification__c": ""
     },
     "6": {
@@ -220,7 +220,7 @@
       "LLC_BI__Auto_Update_Collateral_Value__c": "false",
       "LLC_BI__Category__c": "",
       "LLC_BI__Collateral_Code__c": "",
-      "LLC_BI__Collateral_Configuration__c": "{/\"prodPkgEditScreen/\":/\"723454364762362365/\",/\"ownershipAssignmentFieldSetName/\":/\"LLC_BI__Bulk_Ownership_Assignment/\",/\"editCollateralScreen/\":/\"42363993400862416/\",/\"copyCollateralScreen/\":/\"42363993400862416/\",/\"collateralScreenName/\":/\"Collateral Creation Screen/\",/\"collateralCopyFieldSetName/\":/\"LLC_BI__Collateral_Creation_Screen_Configuration/\",/\"collateralCloneFieldSetName/\":/\"LLC_BI__Collateral_Creation_Screen_Configuration/\",/\"addCollateralScreen/\":/\"42363993400862416/\",/\"addChildCollateralScreen/\":/\"42363993400862416/\"}",
+      "LLC_BI__Collateral_Configuration__c": "{\"prodPkgEditScreen\":\"723454364762362365\",\"ownershipAssignmentFieldSetName\":\"LLC_BI__Bulk_Ownership_Assignment\",\"editCollateralScreen\":\"42363993400862416\",\"copyCollateralScreen\":\"42363993400862416\",\"collateralScreenName\":\"Collateral Creation Screen\",\"collateralCopyFieldSetName\":\"LLC_BI__Collateral_Creation_Screen_Configuration\",\"collateralCloneFieldSetName\":\"LLC_BI__Collateral_Creation_Screen_Configuration\",\"addCollateralScreen\":\"42363993400862416\",\"addChildCollateralScreen\":\"42363993400862416\"}",
       "LLC_BI__Collateral_Display_Name__c": "",
       "LLC_BI__Condo_PUD__c": "false",
       "LLC_BI__Expire_Date__c": "",
@@ -243,7 +243,7 @@
       "LLC_BI__Valuation_Type__c": "",
       "LLC_BI__lookupKey__c": "a1x5f000000mHASAA2",
       "Name": "UCC-Fixtures",
-      "OwnerId": "005al00000RVcKvAAL",
+      "OwnerId": "005al00000RVvFOAA1",
       "nCinoCB__Classification__c": ""
     },
     "7": {
@@ -255,7 +255,7 @@
       "LLC_BI__Auto_Update_Collateral_Value__c": "false",
       "LLC_BI__Category__c": "",
       "LLC_BI__Collateral_Code__c": "",
-      "LLC_BI__Collateral_Configuration__c": "{/\"prodPkgEditScreen/\":/\"723454364762362365/\",/\"ownershipAssignmentFieldSetName/\":/\"LLC_BI__Bulk_Ownership_Assignment/\",/\"editCollateralScreen/\":/\"42363993400862416/\",/\"copyCollateralScreen/\":/\"42363993400862416/\",/\"collateralScreenName/\":/\"Collateral Creation Screen/\",/\"collateralCopyFieldSetName/\":/\"LLC_BI__Collateral_Creation_Screen_Configuration/\",/\"collateralCloneFieldSetName/\":/\"LLC_BI__Collateral_Creation_Screen_Configuration/\",/\"addCollateralScreen/\":/\"42363993400862416/\",/\"addChildCollateralScreen/\":/\"42363993400862416/\"}",
+      "LLC_BI__Collateral_Configuration__c": "{\"prodPkgEditScreen\":\"723454364762362365\",\"ownershipAssignmentFieldSetName\":\"LLC_BI__Bulk_Ownership_Assignment\",\"editCollateralScreen\":\"42363993400862416\",\"copyCollateralScreen\":\"42363993400862416\",\"collateralScreenName\":\"Collateral Creation Screen\",\"collateralCopyFieldSetName\":\"LLC_BI__Collateral_Creation_Screen_Configuration\",\"collateralCloneFieldSetName\":\"LLC_BI__Collateral_Creation_Screen_Configuration\",\"addCollateralScreen\":\"42363993400862416\",\"addChildCollateralScreen\":\"42363993400862416\"}",
       "LLC_BI__Collateral_Display_Name__c": "",
       "LLC_BI__Condo_PUD__c": "false",
       "LLC_BI__Expire_Date__c": "",
@@ -278,7 +278,7 @@
       "LLC_BI__Valuation_Type__c": "",
       "LLC_BI__lookupKey__c": "a1x5f000000mHBBAA2",
       "Name": "Real Estate-1-4 Family",
-      "OwnerId": "005al00000RVcKvAAL",
+      "OwnerId": "005al00000RVvFOAA1",
       "nCinoCB__Classification__c": ""
     },
     "8": {
@@ -290,7 +290,7 @@
       "LLC_BI__Auto_Update_Collateral_Value__c": "false",
       "LLC_BI__Category__c": "",
       "LLC_BI__Collateral_Code__c": "",
-      "LLC_BI__Collateral_Configuration__c": "{/\"prodPkgEditScreen/\":/\"723454364762362365/\",/\"ownershipAssignmentFieldSetName/\":/\"LLC_BI__Bulk_Ownership_Assignment/\",/\"editCollateralScreen/\":/\"42363993400862416/\",/\"copyCollateralScreen/\":/\"42363993400862416/\",/\"collateralScreenName/\":/\"Collateral Creation Screen/\",/\"collateralCopyFieldSetName/\":/\"LLC_BI__Collateral_Creation_Screen_Configuration/\",/\"collateralCloneFieldSetName/\":/\"LLC_BI__Collateral_Creation_Screen_Configuration/\",/\"addCollateralScreen/\":/\"42363993400862416/\",/\"addChildCollateralScreen/\":/\"42363993400862416/\"}",
+      "LLC_BI__Collateral_Configuration__c": "{\"prodPkgEditScreen\":\"723454364762362365\",\"ownershipAssignmentFieldSetName\":\"LLC_BI__Bulk_Ownership_Assignment\",\"editCollateralScreen\":\"42363993400862416\",\"copyCollateralScreen\":\"42363993400862416\",\"collateralScreenName\":\"Collateral Creation Screen\",\"collateralCopyFieldSetName\":\"LLC_BI__Collateral_Creation_Screen_Configuration\",\"collateralCloneFieldSetName\":\"LLC_BI__Collateral_Creation_Screen_Configuration\",\"addCollateralScreen\":\"42363993400862416\",\"addChildCollateralScreen\":\"42363993400862416\"}",
       "LLC_BI__Collateral_Display_Name__c": "",
       "LLC_BI__Condo_PUD__c": "false",
       "LLC_BI__Expire_Date__c": "",
@@ -313,7 +313,7 @@
       "LLC_BI__Valuation_Type__c": "",
       "LLC_BI__lookupKey__c": "a1x5f000000mHBRAA2",
       "Name": "UCC-Accounts",
-      "OwnerId": "005al00000RVcKvAAL",
+      "OwnerId": "005al00000RVvFOAA1",
       "nCinoCB__Classification__c": ""
     },
     "9": {
@@ -325,7 +325,7 @@
       "LLC_BI__Auto_Update_Collateral_Value__c": "false",
       "LLC_BI__Category__c": "",
       "LLC_BI__Collateral_Code__c": "",
-      "LLC_BI__Collateral_Configuration__c": "{/\"prodPkgEditScreen/\":/\"723454364762362365/\",/\"ownershipAssignmentFieldSetName/\":/\"LLC_BI__Bulk_Ownership_Assignment/\",/\"editCollateralScreen/\":/\"42363993400862416/\",/\"copyCollateralScreen/\":/\"42363993400862416/\",/\"collateralScreenName/\":/\"Collateral Creation Screen/\",/\"collateralCopyFieldSetName/\":/\"LLC_BI__Collateral_Creation_Screen_Configuration/\",/\"collateralCloneFieldSetName/\":/\"LLC_BI__Collateral_Creation_Screen_Configuration/\",/\"addCollateralScreen/\":/\"42363993400862416/\",/\"addChildCollateralScreen/\":/\"42363993400862416/\"}",
+      "LLC_BI__Collateral_Configuration__c": "{\"prodPkgEditScreen\":\"723454364762362365\",\"ownershipAssignmentFieldSetName\":\"LLC_BI__Bulk_Ownership_Assignment\",\"editCollateralScreen\":\"42363993400862416\",\"copyCollateralScreen\":\"42363993400862416\",\"collateralScreenName\":\"Collateral Creation Screen\",\"collateralCopyFieldSetName\":\"LLC_BI__Collateral_Creation_Screen_Configuration\",\"collateralCloneFieldSetName\":\"LLC_BI__Collateral_Creation_Screen_Configuration\",\"addCollateralScreen\":\"42363993400862416\",\"addChildCollateralScreen\":\"42363993400862416\"}",
       "LLC_BI__Collateral_Display_Name__c": "",
       "LLC_BI__Condo_PUD__c": "false",
       "LLC_BI__Expire_Date__c": "",
@@ -348,7 +348,7 @@
       "LLC_BI__Valuation_Type__c": "",
       "LLC_BI__lookupKey__c": "a1x5f000000mHBTAA2",
       "Name": "UCC-General Intangibles",
-      "OwnerId": "005al00000RVcKvAAL",
+      "OwnerId": "005al00000RVvFOAA1",
       "nCinoCB__Classification__c": ""
     },
     "10": {
@@ -360,7 +360,7 @@
       "LLC_BI__Auto_Update_Collateral_Value__c": "false",
       "LLC_BI__Category__c": "",
       "LLC_BI__Collateral_Code__c": "",
-      "LLC_BI__Collateral_Configuration__c": "{/\"prodPkgEditScreen/\":/\"723454364762362365/\",/\"ownershipAssignmentFieldSetName/\":/\"LLC_BI__Bulk_Ownership_Assignment/\",/\"editCollateralScreen/\":/\"42363993400862416/\",/\"copyCollateralScreen/\":/\"42363993400862416/\",/\"collateralScreenName/\":/\"Collateral Creation Screen/\",/\"collateralCopyFieldSetName/\":/\"LLC_BI__Collateral_Creation_Screen_Configuration/\",/\"collateralCloneFieldSetName/\":/\"LLC_BI__Collateral_Creation_Screen_Configuration/\",/\"addCollateralScreen/\":/\"42363993400862416/\",/\"addChildCollateralScreen/\":/\"42363993400862416/\"}",
+      "LLC_BI__Collateral_Configuration__c": "{\"prodPkgEditScreen\":\"723454364762362365\",\"ownershipAssignmentFieldSetName\":\"LLC_BI__Bulk_Ownership_Assignment\",\"editCollateralScreen\":\"42363993400862416\",\"copyCollateralScreen\":\"42363993400862416\",\"collateralScreenName\":\"Collateral Creation Screen\",\"collateralCopyFieldSetName\":\"LLC_BI__Collateral_Creation_Screen_Configuration\",\"collateralCloneFieldSetName\":\"LLC_BI__Collateral_Creation_Screen_Configuration\",\"addCollateralScreen\":\"42363993400862416\",\"addChildCollateralScreen\":\"42363993400862416\"}",
       "LLC_BI__Collateral_Display_Name__c": "",
       "LLC_BI__Condo_PUD__c": "false",
       "LLC_BI__Expire_Date__c": "",
@@ -383,7 +383,7 @@
       "LLC_BI__Valuation_Type__c": "",
       "LLC_BI__lookupKey__c": "a1x5f000000mHBdAAM",
       "Name": "Real Estate-Multi-Family",
-      "OwnerId": "005al00000RVcKvAAL",
+      "OwnerId": "005al00000RVvFOAA1",
       "nCinoCB__Classification__c": ""
     },
     "11": {
@@ -395,7 +395,7 @@
       "LLC_BI__Auto_Update_Collateral_Value__c": "false",
       "LLC_BI__Category__c": "",
       "LLC_BI__Collateral_Code__c": "",
-      "LLC_BI__Collateral_Configuration__c": "{/\"prodPkgEditScreen/\":/\"723454364762362365/\",/\"ownershipAssignmentFieldSetName/\":/\"LLC_BI__Bulk_Ownership_Assignment/\",/\"editCollateralScreen/\":/\"42363993400862416/\",/\"copyCollateralScreen/\":/\"42363993400862416/\",/\"collateralScreenName/\":/\"Collateral Creation Screen/\",/\"collateralCopyFieldSetName/\":/\"LLC_BI__Collateral_Creation_Screen_Configuration/\",/\"collateralCloneFieldSetName/\":/\"LLC_BI__Collateral_Creation_Screen_Configuration/\",/\"addCollateralScreen/\":/\"42363993400862416/\",/\"addChildCollateralScreen/\":/\"42363993400862416/\"}",
+      "LLC_BI__Collateral_Configuration__c": "{\"prodPkgEditScreen\":\"723454364762362365\",\"ownershipAssignmentFieldSetName\":\"LLC_BI__Bulk_Ownership_Assignment\",\"editCollateralScreen\":\"42363993400862416\",\"copyCollateralScreen\":\"42363993400862416\",\"collateralScreenName\":\"Collateral Creation Screen\",\"collateralCopyFieldSetName\":\"LLC_BI__Collateral_Creation_Screen_Configuration\",\"collateralCloneFieldSetName\":\"LLC_BI__Collateral_Creation_Screen_Configuration\",\"addCollateralScreen\":\"42363993400862416\",\"addChildCollateralScreen\":\"42363993400862416\"}",
       "LLC_BI__Collateral_Display_Name__c": "",
       "LLC_BI__Condo_PUD__c": "false",
       "LLC_BI__Expire_Date__c": "",
@@ -418,7 +418,7 @@
       "LLC_BI__Valuation_Type__c": "",
       "LLC_BI__lookupKey__c": "a1x5f000000mHBiAAM",
       "Name": "Real Estate-Office",
-      "OwnerId": "005al00000RVcKvAAL",
+      "OwnerId": "005al00000RVvFOAA1",
       "nCinoCB__Classification__c": ""
     },
     "12": {
@@ -430,7 +430,7 @@
       "LLC_BI__Auto_Update_Collateral_Value__c": "false",
       "LLC_BI__Category__c": "",
       "LLC_BI__Collateral_Code__c": "",
-      "LLC_BI__Collateral_Configuration__c": "{/\"prodPkgEditScreen/\":/\"723454364762362365/\",/\"ownershipAssignmentFieldSetName/\":/\"LLC_BI__Bulk_Ownership_Assignment/\",/\"editCollateralScreen/\":/\"42363993400862416/\",/\"copyCollateralScreen/\":/\"42363993400862416/\",/\"collateralScreenName/\":/\"Collateral Creation Screen/\",/\"collateralCopyFieldSetName/\":/\"LLC_BI__Collateral_Creation_Screen_Configuration/\",/\"collateralCloneFieldSetName/\":/\"LLC_BI__Collateral_Creation_Screen_Configuration/\",/\"addCollateralScreen/\":/\"42363993400862416/\",/\"addChildCollateralScreen/\":/\"42363993400862416/\"}",
+      "LLC_BI__Collateral_Configuration__c": "{\"prodPkgEditScreen\":\"723454364762362365\",\"ownershipAssignmentFieldSetName\":\"LLC_BI__Bulk_Ownership_Assignment\",\"editCollateralScreen\":\"42363993400862416\",\"copyCollateralScreen\":\"42363993400862416\",\"collateralScreenName\":\"Collateral Creation Screen\",\"collateralCopyFieldSetName\":\"LLC_BI__Collateral_Creation_Screen_Configuration\",\"collateralCloneFieldSetName\":\"LLC_BI__Collateral_Creation_Screen_Configuration\",\"addCollateralScreen\":\"42363993400862416\",\"addChildCollateralScreen\":\"42363993400862416\"}",
       "LLC_BI__Collateral_Display_Name__c": "",
       "LLC_BI__Condo_PUD__c": "false",
       "LLC_BI__Expire_Date__c": "",
@@ -453,7 +453,7 @@
       "LLC_BI__Valuation_Type__c": "",
       "LLC_BI__lookupKey__c": "a1x5f000000mHBkAAM",
       "Name": "Real Estate-Retail",
-      "OwnerId": "005al00000RVcKvAAL",
+      "OwnerId": "005al00000RVvFOAA1",
       "nCinoCB__Classification__c": ""
     }
   }
