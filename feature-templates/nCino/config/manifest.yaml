@@ -31,3 +31,10 @@ packageDirectories:
           versions:
             2026 v1:
               modifiedDate: '2026-08-24 08:39:05'
+        10p3eA1P-Branches:
+          path: dataset/10p3eA1P-Branches
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-24 08:40:36'
