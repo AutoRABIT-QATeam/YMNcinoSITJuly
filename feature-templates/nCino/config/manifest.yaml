@@ -17,3 +17,10 @@ packageDirectories:
           versions:
             Rel 2024_07 v1:
               modifiedDate: '2026-08-24 15:47:26'
+        01nE8A0D-Forms:
+          path: dataset/01nE8A0D-Forms
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v2:
+              modifiedDate: '2026-08-24 18:11:30'
