@@ -31,3 +31,17 @@ packageDirectories:
           versions:
             '2':
               modifiedDate: '2026-07-30 12:18:06'
+        015XhG0C-Forms:
+          path: dataset/015XhG0C-Forms
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v2:
+              modifiedDate: '2026-08-24 11:10:49'
+        015XhG0C-Screens:
+          path: dataset/015XhG0C-Screens
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-24 11:10:49'
