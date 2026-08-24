@@ -9,14 +9,14 @@ packageDirectories:
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-08-21 13:27:59'
+              modifiedDate: '2026-08-24 10:43:50'
         012SrW19-Collateral Types:
           path: dataset/012SrW19-Collateral Types
           prefix: ncino
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-08-21 13:34:34'
+              modifiedDate: '2026-08-24 10:43:50'
         012SrW19-Product Collateral Types:
           path: dataset/012SrW19-Product Collateral Types
           prefix: ncino
