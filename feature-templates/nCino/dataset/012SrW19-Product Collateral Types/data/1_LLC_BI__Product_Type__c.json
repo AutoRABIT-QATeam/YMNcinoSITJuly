@@ -1,6 +1,7 @@
 {
   "name": "1_LLC_BI__Product_Type__c",
   "attributes": [
+    "AutorabitExtId__c",
     "Id",
     "IsDeleted",
     "LLC_BI__Category__c",
@@ -31,6 +32,7 @@
   ],
   "records": {
     "1": {
+      "AutorabitExtId__c": "",
       "Id": "a47WD000000QQuzYAG",
       "IsDeleted": "false",
       "LLC_BI__Category__c": "",
@@ -60,6 +62,7 @@
       "Name": "Small Business Non-Real Estate"
     },
     "2": {
+      "AutorabitExtId__c": "",
       "Id": "a47WD000000QQv0YAG",
       "IsDeleted": "false",
       "LLC_BI__Category__c": "",
