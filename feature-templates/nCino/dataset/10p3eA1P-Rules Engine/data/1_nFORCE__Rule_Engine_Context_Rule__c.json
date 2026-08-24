@@ -1,0 +1,101 @@
+{
+  "name": "1_nFORCE__Rule_Engine_Context_Rule__c",
+  "attributes": [
+    "Id",
+    "IsDeleted",
+    "Name",
+    "nFORCE__Rule_Engine_Context__c",
+    "nFORCE__Description__c",
+    "nFORCE__lookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a0Vam00000Q5Rl0EAF",
+      "IsDeleted": "false",
+      "Name": "WK Esign",
+      "nFORCE__Description__c": "Used to Generate WK Docs under the context of another user",
+      "nFORCE__Rule_Engine_Context__c": "a0Wam000003bbtPEAQ",
+      "nFORCE__lookupKey__c": "42053228319029560"
+    },
+    "2": {
+      "Id": "a0Vam00000Q5RkzEAF",
+      "IsDeleted": "false",
+      "Name": "Retrieve Pricing Options Retail Pricing",
+      "nFORCE__Description__c": "Create the pricing option(s) based on information in the Loan specific to Retail Pricing.",
+      "nFORCE__Rule_Engine_Context__c": "a0Wam000003bbtKEAQ",
+      "nFORCE__lookupKey__c": "42141213278332970"
+    },
+    "3": {
+      "Id": "a0Vam00000Q5Rl1EAF",
+      "IsDeleted": "false",
+      "Name": "Application Eligibility",
+      "nFORCE__Description__c": "",
+      "nFORCE__Rule_Engine_Context__c": "a0Wam000003bbtQEAQ",
+      "nFORCE__lookupKey__c": "42707121808597513"
+    },
+    "4": {
+      "Id": "a0Vam00000Q5RkrEAF",
+      "IsDeleted": "false",
+      "Name": "Credit Card Online Application",
+      "nFORCE__Description__c": "",
+      "nFORCE__Rule_Engine_Context__c": "a0Wam000003bbtJEAQ",
+      "nFORCE__lookupKey__c": "a0Vam00000Q5RkrEAF"
+    },
+    "5": {
+      "Id": "a0Vam00000Q5RksEAF",
+      "IsDeleted": "false",
+      "Name": "Retrieve Pricing Options",
+      "nFORCE__Description__c": "Create the pricing option(s) based on information in the Loan.",
+      "nFORCE__Rule_Engine_Context__c": "a0Wam000003bbtKEAQ",
+      "nFORCE__lookupKey__c": "a0Vam00000Q5RksEAF"
+    },
+    "6": {
+      "Id": "a0Vam00000Q5RktEAF",
+      "IsDeleted": "false",
+      "Name": "Loan Auto-Decision",
+      "nFORCE__Description__c": "The Loan Auto-Decision Rule context runs when the Auto-Decision Action item is selected from a loan",
+      "nFORCE__Rule_Engine_Context__c": "a0Wam000003bbtLEAQ",
+      "nFORCE__lookupKey__c": "a0Vam00000Q5RktEAF"
+    },
+    "7": {
+      "Id": "a0Vam00000Q5RkuEAF",
+      "IsDeleted": "false",
+      "Name": "Loan Auto-Policy Exception",
+      "nFORCE__Description__c": "The Loan Auto-Policy Exception context runs when the Auto-Policy Exception Action item is selected from a loan",
+      "nFORCE__Rule_Engine_Context__c": "a0Wam000003bbtMEAQ",
+      "nFORCE__lookupKey__c": "a0Vam00000Q5RkuEAF"
+    },
+    "8": {
+      "Id": "a0Vam00000Q5RkvEAF",
+      "IsDeleted": "false",
+      "Name": "CLA Inspection PlaceHolder Creation",
+      "nFORCE__Description__c": "The CLA Inspection PlaceHolder Creation rule runs when a new Valuation object is created in order to create one or more Document Manager placeholders.",
+      "nFORCE__Rule_Engine_Context__c": "a0Wam000003bbtNEAQ",
+      "nFORCE__lookupKey__c": "a0Vam00000Q5RkvEAF"
+    },
+    "9": {
+      "Id": "a0Vam00000Q5RkwEAF",
+      "IsDeleted": "false",
+      "Name": "Filter Pricing Options by DTI",
+      "nFORCE__Description__c": "Filters the pricing options based on the current max DTI",
+      "nFORCE__Rule_Engine_Context__c": "a0Wam000003bbtKEAQ",
+      "nFORCE__lookupKey__c": "a0Vam00000Q5RkwEAF"
+    },
+    "10": {
+      "Id": "a0Vam00000Q5RkxEAF",
+      "IsDeleted": "false",
+      "Name": "Proposed Pricing Option",
+      "nFORCE__Description__c": "Create the proposed pricing option based on information in the loan.",
+      "nFORCE__Rule_Engine_Context__c": "a0Wam000003bbtKEAQ",
+      "nFORCE__lookupKey__c": "a0Vam00000Q5RkxEAF"
+    },
+    "11": {
+      "Id": "a0Vam00000Q5RkyEAF",
+      "IsDeleted": "false",
+      "Name": "Credit Request Preprocessing",
+      "nFORCE__Description__c": "This is run before creating a credit request to determine the parameters for the request",
+      "nFORCE__Rule_Engine_Context__c": "a0Wam000003bbtOEAQ",
+      "nFORCE__lookupKey__c": "a0Vam00000Q5RkyEAF"
+    }
+  }
+}

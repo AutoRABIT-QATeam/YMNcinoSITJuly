@@ -1,0 +1,77 @@
+{
+  "name": "1_nFORCE__Rule_Engine_Context__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "nFORCE__Description__c",
+    "nFORCE__lookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a0Wam000003bbtNEAQ",
+      "IsDeleted": "false",
+      "Name": "Construction Loan Administration",
+      "OwnerId": "005am00000rGSmeAAG",
+      "nFORCE__Description__c": "The Contruction Loan Administration context is used to group flows related to CLA activities",
+      "nFORCE__lookupKey__c": "42106976230413220"
+    },
+    "2": {
+      "Id": "a0Wam000003bbtKEAQ",
+      "IsDeleted": "false",
+      "Name": "Pricing Options",
+      "OwnerId": "005am00000rGSmeAAG",
+      "nFORCE__Description__c": "The Pricing Options context contains flows related to creating and managing pricing options during the loan origination process.",
+      "nFORCE__lookupKey__c": "42260555746068736"
+    },
+    "3": {
+      "Id": "a0Wam000003bbtQEAQ",
+      "IsDeleted": "false",
+      "Name": "Omnichannel",
+      "OwnerId": "005am00000rGSmrAAG",
+      "nFORCE__Description__c": "",
+      "nFORCE__lookupKey__c": "42378505971424353"
+    },
+    "4": {
+      "Id": "a0Wam000003bbtPEAQ",
+      "IsDeleted": "false",
+      "Name": "WK Esign",
+      "OwnerId": "005am00000rGSmfAAG",
+      "nFORCE__Description__c": "Used to Generate Wk Docs under the context of another user",
+      "nFORCE__lookupKey__c": "42394018476471176"
+    },
+    "5": {
+      "Id": "a0Wam000003bbtMEAQ",
+      "IsDeleted": "false",
+      "Name": "Loan Policy Exception",
+      "OwnerId": "005am00000rGSmeAAG",
+      "nFORCE__Description__c": "The Loan Policy Exception context is used to group flows that pertain to policy exceptions being made on a loan",
+      "nFORCE__lookupKey__c": "42656621866521845"
+    },
+    "6": {
+      "Id": "a0Wam000003bbtLEAQ",
+      "IsDeleted": "false",
+      "Name": "Loan Decisioning",
+      "OwnerId": "005am00000rGSmeAAG",
+      "nFORCE__Description__c": "The Loan Decisioning context is used to group flows that pertain to decisions being made on a loan",
+      "nFORCE__lookupKey__c": "42681825916088200"
+    },
+    "7": {
+      "Id": "a0Wam000003bbtOEAQ",
+      "IsDeleted": "false",
+      "Name": "Credit Request",
+      "OwnerId": "005am00000rGSmeAAG",
+      "nFORCE__Description__c": "The Context for Credit Request Rules",
+      "nFORCE__lookupKey__c": "42926573904268813"
+    },
+    "8": {
+      "Id": "a0Wam000003bbtJEAQ",
+      "IsDeleted": "false",
+      "Name": "Credit Card Online Application",
+      "OwnerId": "005am00000rGSmbAAG",
+      "nFORCE__Description__c": "",
+      "nFORCE__lookupKey__c": "a0Wam000003bbtJEAQ"
+    }
+  }
+}
