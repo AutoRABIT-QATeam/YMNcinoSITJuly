@@ -10,3 +10,17 @@ packageDirectories:
           versions:
             Rel 2024_07 v1:
               modifiedDate: '2026-08-21 13:39:25'
+        107AnG0I-Rules Engine:
+          path: dataset/107AnG0I-Rules Engine
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-24 06:52:56'
+        107AnG0I-Screens:
+          path: dataset/107AnG0I-Screens
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-24 06:53:10'
