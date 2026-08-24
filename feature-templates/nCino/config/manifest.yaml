@@ -23,11 +23,11 @@ packageDirectories:
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-08-24 12:30:20'
+              modifiedDate: '2026-08-24 12:33:46'
         01tNtJ1W-Rules Engine:
           path: dataset/01tNtJ1W-Rules Engine
           prefix: ncino
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-08-24 12:30:20'
+              modifiedDate: '2026-08-24 12:33:46'
