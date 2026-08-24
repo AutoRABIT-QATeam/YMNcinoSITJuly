@@ -1,0 +1,19 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        01c7yN09-Branches-test:
+          path: dataset/01c7yN09-Branches-test
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '2':
+              modifiedDate: '2026-08-24 15:13:49'
+        01c7yN09-Questionnaire-OauthtoOauthECA:
+          path: dataset/01c7yN09-Questionnaire-OauthtoOauthECA
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '2.0':
+              modifiedDate: '2026-08-24 15:13:51'

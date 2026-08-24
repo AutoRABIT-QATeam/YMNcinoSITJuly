@@ -1,0 +1,173 @@
+"Id","OwnerId","IsDeleted","Name","LLC_BI__Branch_Id__c","LLC_BI__City__c","LLC_BI__County__c","LLC_BI__Enabled_Experiences__c","LLC_BI__Institution__c","LLC_BI__Location__Latitude__s","LLC_BI__Location__Longitude__s","LLC_BI__Location__c","LLC_BI__Mortgage_License_State__c","LLC_BI__Mortgage_License__c","LLC_BI__NMLS__c","LLC_BI__State__c","LLC_BI__Street__c","LLC_BI__Zip_Code__c","LLC_BI__lookupKey__c"
+"a1TWD0000021XiN2AU","005al00000RVcKvAAL","false","Porters Neck","765","Chicago","","","a31WD000001k07hYAA","41.830047","87.602809","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='41.830047'
+ longitude='87.602809'
+]
+}","","","","IL","3155 S Lake Shore Drive","60616","42637738016507082"
+"a1TWD0000021XiM2AU","005al00000RVcKvAAL","false","9969JPD894656593","765","Chicago","","","a31WD000001k07hYAA","41.830047","87.602809","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='41.830047'
+ longitude='87.602809'
+]
+}","","","","IL","3155 S Lake Shore Drive","60616","42738426310997125"
+"a1TWD0000021BRh2AM","005al00000RVcKvAAL","false","Porters Neck","765","Chicago","","","a31WD000001k07hYAA","41.830047","87.602809","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='41.830047'
+ longitude='87.602809'
+]
+}","","","","IL","3155 S Lake Shore Drive","60616","9969JPD894656593"
+"a1TWD00000232k82AA","005al00000RVcKvAAL","false","a1TWD000001z3Gz","BR-10003","Aurora","Arapahoe","","a31WD000001xaewYAA","39.7294","-104.8319","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='39.7294'
+ longitude='-104.8319'
+]
+}","","MLO-512984","345678","","2200 South Havana Street","80014","Aurora East Branch"
+"a1TWD00000232kA2AQ","005al00000RVcKvAAL","false","Westside Community Branch","BR-7893","Atlanta","Fulton","","a31WD000002C6tKYAS","33.749","-84.388","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='33.749'
+ longitude='-84.388'
+]
+}","","ML-GA-55219","2037891","","2850 Peachtree Road NW","30305","B9F3H6N1D4Y7V2J5A"
+"a1TWD000001vDss2AE","005al00000RVcKvAAL","false","Downtown Main Branch","BR-101","Austin","Travis","","a31WD000001xaesYAA","30.2672","-97.7431","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='30.2672'
+ longitude='-97.7431'
+]
+}","","ML-TX-2024-0451","789456","TX","1200 Congress Ave","78701","BR0001"
+"a1TWD000001vDst2AE","005al00000RVcKvAAL","false","Lakewood Heights Branch","BR-205","Denver","Denver","","a31WD000001xaetYAA","39.7392","-104.9903","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='39.7392'
+ longitude='-104.9903'
+]
+}","","ML-CO-2024-0833","654321","CO","4500 E Colfax Ave","80220","BR0002"
+"a1TWD000001vDsv2AE","005al00000RVcKvAAL","false","Greenville Trust Center","BR-002317","Greenville","Greenville","","a31WD000001xaezYAA","34.8526","-82.394","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='34.8526'
+ longitude='-82.394'
+]
+}","","ML-SC-33741","2317654","SC","200 East Broad Street","29601","BR002317"
+"a1TWD000001vDt82AE","005al00000RVcKvAAL","false","Lakewood Heights Branch","BR-10003","Portland","Multnomah","","a31WD000001xaewYAA","45.5152","-122.6784","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='45.5152'
+ longitude='-122.6784'
+]
+}","","MLO-OR-2024-1127","923847","","820 NW Burnside Road","97209","BRK_00003"
+"a1TWD000001vDt92AE","005al00000RVcKvAAL","false","Riverdale Community Branch","BR-10004","Charlotte","Mecklenburg","","a31WD000001xaexYAA","35.2271","-80.8431","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='35.2271'
+ longitude='-80.8431'
+]
+}","","MLO-NC-2024-0562","471596","","3100 South Tryon Street","28217","BRK_00004"
+"a1TWD000001vDtA2AU","005al00000RVcKvAAL","false","Northgate Financial Center","BR-10005","Minneapolis","Hennepin","","a31WD000001xaeyYAA","44.9778","-93.265","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='44.9778'
+ longitude='-93.265'
+]
+}","","MLO-MN-2024-0734","318762","","7600 France Avenue South","55435","BRK_00005"
+"a1TWD000001vDtB2AU","005al00000RVcKvAAL","false","Downtown Main Branch","BR-001","Austin","Travis","","a31WD000001xaenYAA","30.2672","-97.7431","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='30.2672'
+ longitude='-97.7431'
+]
+}","","ML-TX-98234","123456","","401 Congress Avenue","78701","BRN0001"
+"a1TWD000001vDtC2AU","005al00000RVcKvAAL","false","Westlake Hills Branch","BR-002","Denver","Denver","","a31WD000001xaeoYAA","39.7392","-104.9903","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='39.7392'
+ longitude='-104.9903'
+]
+}","","ML-CO-44521","789012","","1600 California Street","80202","BRN0002"
+"a1TWD000001vDtD2AU","005al00000RVcKvAAL","false","Northside Community Branch","BR-003","Portland","Multnomah","","a31WD000001xaepYAA","45.5152","-122.6784","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='45.5152'
+ longitude='-122.6784'
+]
+}","","ML-OR-67890","345678","","520 SW Yamhill Street","97204","BRN0003"
+"a1TWD000001vDtE2AU","005al00000RVcKvAAL","false","Riverside Plaza Branch","BR-004","Charlotte","Mecklenburg","","a31WD000001xaeqYAA","35.2271","-80.8431","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='35.2271'
+ longitude='-80.8431'
+]
+}","","ML-NC-11234","901234","","200 South Tryon Street","28202","BRN0004"
+"a1TWD000001vDtF2AU","005al00000RVcKvAAL","false","Lakewood Square Branch","BR-005","Minneapolis","Hennepin","","a31WD000001xaerYAA","44.9778","-93.265","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='44.9778'
+ longitude='-93.265'
+]
+}","","ML-MN-55678","567890","","80 South 8th Street","55402","BRN0005"
+"a1TWD000001vDtG2AU","005al00000RVcKvAAL","false","Downtown Main Branch","BR-10001","Austin","Travis","","a31WD000001xaeuYAA","30.2672","-97.7431","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='30.2672'
+ longitude='-97.7431'
+]
+}","","TX-ML-98234","123456","","401 Congress Avenue","78701","BRN_00001"
+"a1TWD000001vDtH2AU","005al00000RVcKvAAL","false","Lakewood Heights Branch","BR-10002","Denver","Denver","","a31WD000001xaevYAA","39.7392","-104.9903","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='39.7392'
+ longitude='-104.9903'
+]
+}","","CO-ML-44521","789012","","1600 California Street","80202","BRN_00002"
+"a1TWD000001vDtI2AU","005al00000RVcKvAAL","false","Riverside Square Branch","BR-10003","Charlotte","Mecklenburg","","a31WD000001xaewYAA","35.2271","-80.8431","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='35.2271'
+ longitude='-80.8431'
+]
+}","","NC-ML-67382","345678","","525 North Tryon Street","28202","BRN_00003"
+"a1TWD000001vDtJ2AU","005al00000RVcKvAAL","false","Midtown Financial Center","BR-10004","Atlanta","Fulton","","a31WD000001xaexYAA","33.749","-84.388","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='33.749'
+ longitude='-84.388'
+]
+}","","GA-ML-29104","901234","","200 Peachtree Street NW","30303","BRN_00004"
+"a1TWD000001vDtK2AU","005al00000RVcKvAAL","false","Northgate Community Branch","BR-10005","Seattle","King","","a31WD000001xaeyYAA","47.6062","-122.3321","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='47.6062'
+ longitude='-122.3321'
+]
+}","","WA-ML-55810","567890","","701 Fifth Avenue","98104","BRN_00005"
+"a1TWD000001vDtN2AU","005al00000RVcKvAAL","false","Downtown Main Branch","BR-10001","Denver","Denver","","a31WD000001xaeuYAA","39.7392","-104.9903","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='39.7392'
+ longitude='-104.9903'
+]
+}","","MLO-284571","123456","","1600 California Street","80202","BRN_001"
+"a1TWD000001vDtO2AU","005al00000RVcKvAAL","false","Lakewood West Branch","BR-10002","Lakewood","Jefferson","","a31WD000001xaevYAA","39.7047","-105.0814","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='39.7047'
+ longitude='-105.0814'
+]
+}","","MLO-398412","234567","","455 Union Boulevard","80228","BRN_002"
+"a1TWD000001vDtP2AU","005al00000RVcKvAAL","false","Aurora East Branch","BR-10003","Aurora","Arapahoe","","a31WD000001xaewYAA","39.7294","-104.8319","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='39.7294'
+ longitude='-104.8319'
+]
+}","","MLO-512984","345678","","2200 South Havana Street","80014","BRN_003"
+"a1TWD000001vDtQ2AU","005al00000RVcKvAAL","false","Boulder North Branch","BR-10004","Boulder","Boulder","","a31WD000001xaexYAA","40.015","-105.2705","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='40.015'
+ longitude='-105.2705'
+]
+}","","MLO-671023","456789","","1800 Pearl Street","80302","BRN_004"
+"a1TWD000001vDtR2AU","005al00000RVcKvAAL","false","Fort Collins South Branch","BR-10005","Fort Collins","Larimer","","a31WD000001xaeyYAA","40.5853","-105.0844","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='40.5853'
+ longitude='-105.0844'
+]
+}","","MLO-789456","567890","","3500 South College Avenue","80525","BRN_005"
+"a1TWD00000232kB2AQ","005al00000RVcKvAAL","false","a1TWD000001z3Gy","BR-10004","Boulder","Boulder","","a31WD000001xaexYAA","40.015","-105.2705","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='40.015'
+ longitude='-105.2705'
+]
+}","","MLO-671023","456789","","1800 Pearl Street","80302","Boulder North Branch"
+"a1TWD00000232ke2AA","005al00000RVcKvAAL","false","a1TWD000001z3Gw","BR-10005","Fort Collins","Larimer","","a31WD000001xaeyYAA","40.5853","-105.0844","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='40.5853'
+ longitude='-105.0844'
+]
+}","","MLO-789456","567890","","3500 South College Avenue","80525","Fort Collins South Branch"
+"a1TWD00000232kg2AA","005al00000RVcKvAAL","false","Lakewood Plaza Office","BR-3156","Nashville","Davidson","","a31WD000002C6tLYAS","36.1627","-86.7816","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='36.1627'
+ longitude='-86.7816'
+]
+}","","ML-TN-34021","3419876","","1100 Broadway Suite 200","37203","G2K8T5R3P7M1X9L4C"
+"a1TWD00000232ki2AA","005al00000RVcKvAAL","false","a1TWD000001z3Gt","BR-002317","Greenville","Greenville","","a31WD000001xaezYAA","34.8526","-82.394","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='34.8526'
+ longitude='-82.394'
+]
+}","","ML-SC-33741","2317654","SC","200 East Broad Street","29601","Greenville Trust Center"
+"a1TWD00000232kr2AA","005al00000RVcKvAAL","false","a1TWD000001z3Gp","BR-005","Minneapolis","Hennepin","","a31WD000001xaerYAA","44.9778","-93.265","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='44.9778'
+ longitude='-93.265'
+]
+}","","ML-MN-55678","567890","","80 South 8th Street","55402","Lakewood Square Branch"
+"a1TWD00000232ks2AA","005al00000RVcKvAAL","false","a1TWD000001z3Gx","BR-10002","Lakewood","Jefferson","","a31WD000001xaevYAA","39.7047","-105.0814","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='39.7047'
+ longitude='-105.0814'
+]
+}","","MLO-398412","234567","","455 Union Boulevard","80228","Lakewood West Branch"
+"a1TWD00000232kv2AA","005al00000RVcKvAAL","false","a1TWD000001z3Gr","BR-10004","Atlanta","Fulton","","a31WD000001xaexYAA","33.749","-84.388","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='33.749'
+ longitude='-84.388'
+]
+}","","GA-ML-29104","901234","","200 Peachtree Street NW","30303","Midtown Financial Center"
+"a1TWD00000232lB2AQ","005al00000RVcKvAAL","false","a1TWD000001z3Gq","BR-10005","Seattle","King","","a31WD000001xaeyYAA","47.6062","-122.3321","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='47.6062'
+ longitude='-122.3321'
+]
+}","","WA-ML-55810","567890","","701 Fifth Avenue","98104","Northgate Community Branch"
+"a1TWD00000232lC2AQ","005al00000RVcKvAAL","false","a1TWD000001z3HB","BR-10005","Minneapolis","Hennepin","","a31WD000001xaeyYAA","44.9778","-93.265","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='44.9778'
+ longitude='-93.265'
+]
+}","","MLO-MN-2024-0734","318762","","7600 France Avenue South","55435","Northgate Financial Center"
+"a1TWD00000232lD2AQ","005al00000RVcKvAAL","false","a1TWD000001z3Gm","BR-003","Portland","Multnomah","","a31WD000001xaepYAA","45.5152","-122.6784","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='45.5152'
+ longitude='-122.6784'
+]
+}","","ML-OR-67890","345678","","520 SW Yamhill Street","97204","Northside Community Branch"
+"a1TWD00000232lG2AQ","005al00000RVcKvAAL","false","Harbor View Branch","BR-6042","Jacksonville","Duval","","a31WD000002C6tMYAS","30.3322","-81.6557","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='30.3322'
+ longitude='-81.6557'
+]
+}","","ML-FL-91287","4562310","","7200 Southside Boulevard","32256","Q6W1Z8D4F9H2J5N7V"
+"a1TWD00000232lN2AQ","005al00000RVcKvAAL","false","a1TWD000001z3Gu","BR-10004","Charlotte","Mecklenburg","","a31WD000001xaexYAA","35.2271","-80.8431","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='35.2271'
+ longitude='-80.8431'
+]
+}","","MLO-NC-2024-0562","471596","","3100 South Tryon Street","28217","Riverdale Community Branch"
+"a1TWD00000232lP2AQ","005al00000RVcKvAAL","false","a1TWD000001z3Gn","BR-004","Charlotte","Mecklenburg","","a31WD000001xaeqYAA","35.2271","-80.8431","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='35.2271'
+ longitude='-80.8431'
+]
+}","","ML-NC-11234","901234","","200 South Tryon Street","28202","Riverside Plaza Branch"
+"a1TWD00000232lQ2AQ","005al00000RVcKvAAL","false","a1TWD000001z3Gs","BR-10003","Charlotte","Mecklenburg","","a31WD000001xaewYAA","35.2271","-80.8431","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='35.2271'
+ longitude='-80.8431'
+]
+}","","NC-ML-67382","345678","","525 North Tryon Street","28202","Riverside Square Branch"
+"a1TWD00000232lX2AQ","005al00000RVcKvAAL","false","a1TWD000001z3Go","BR-002","Denver","Denver","","a31WD000001xaeoYAA","39.7392","-104.9903","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='39.7392'
+ longitude='-104.9903'
+]
+}","","ML-CO-44521","789012","","1600 California Street","80202","Westlake Hills Branch"
+"a1TWD00000232lb2AA","005al00000RVcKvAAL","false","Downtown Financial Center","BR-4521","Charlotte","Mecklenburg","","a31WD000002C6tJYAS","35.2271","-80.8431","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='35.2271'
+ longitude='-80.8431'
+]
+}","","ML-NC-78432","1284567","","401 South Tryon Street","28202","X4R7P2M9K1L6Q8W3T"
+"a1TWD00000232lc2AA","005al00000RVcKvAAL","false","Midtown Corporate Center","BR-9278","Raleigh","Wake","","a31WD000002C6tNYAS","35.7796","-78.6382","XmlObjectWrapper{name={urn:sobject.partner.soap.sforce.com}LLC_BI__Location__c, xmlizable=[Location  latitude='35.7796'
+ longitude='-78.6382'
+]
+}","","ML-NC-62748","5893214","","3000 Glenwood Avenue","27612","Y5A9C3E7L1S4U8W2R"
