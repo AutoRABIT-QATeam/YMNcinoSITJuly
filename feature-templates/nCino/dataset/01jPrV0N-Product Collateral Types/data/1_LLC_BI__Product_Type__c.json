@@ -27,11 +27,13 @@
     "LLC_BI__Product_State_Excluded_Config_Count__c",
     "LLC_BI__Product_State_Rdy_To_Trans_Confg_Cnt__c",
     "LLC_BI__Is_Deposit__c",
-    "LLC_BI__Is_Loan__c"
+    "LLC_BI__Is_Loan__c",
+    "AutorabitExtId__c"
   ],
   "records": {
     "1": {
-      "Id": "a47WD000000QQuzYAG",
+      "AutorabitExtId__c": "",
+      "Id": "a47WE000001ltbfYAA",
       "IsDeleted": "false",
       "LLC_BI__Category__c": "",
       "LLC_BI__Collapsed_Offer_Card_Field_Set__c": "SBL_Collapsed_Offer_Card_Summary",
@@ -60,7 +62,8 @@
       "Name": "Small Business Non-Real Estate"
     },
     "2": {
-      "Id": "a47WD000000QQv0YAG",
+      "AutorabitExtId__c": "",
+      "Id": "a47WE000001ltbgYAA",
       "IsDeleted": "false",
       "LLC_BI__Category__c": "",
       "LLC_BI__Collapsed_Offer_Card_Field_Set__c": "SBL_Collapsed_Offer_Card_Summary",
