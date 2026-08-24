@@ -23,14 +23,14 @@ packageDirectories:
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-08-24 10:56:34'
+              modifiedDate: '2026-08-24 12:30:36'
         012SrW19-Rates:
           path: dataset/012SrW19-Rates
           prefix: ncino
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-08-24 10:56:34'
+              modifiedDate: '2026-08-24 12:30:36'
         012SrW19-Rules Engine:
           path: dataset/012SrW19-Rules Engine
           prefix: ncino
