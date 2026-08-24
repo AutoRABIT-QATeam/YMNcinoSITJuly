@@ -1,0 +1,19 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        012Gk91M-Branches-12:
+          path: dataset/012Gk91M-Branches-12
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1':
+              modifiedDate: '2026-08-24 15:41:06'
+        01vPwO1L-Screens:
+          path: dataset/01vPwO1L-Screens
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-24 15:41:32'
