@@ -14,6 +14,20 @@
           ]
         }
       }
+    },
+    "2026 v1": {
+      "metadata": {
+        "exclude": {
+          "CustomObject": []
+        }
+      },
+      "data": {
+        "exclude": {
+          "CustomObject": [
+            "nFORCE__Route__c"
+          ]
+        }
+      }
     }
   }
 }
