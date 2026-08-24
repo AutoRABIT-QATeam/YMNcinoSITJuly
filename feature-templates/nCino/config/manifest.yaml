@@ -23,7 +23,7 @@ packageDirectories:
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-08-24 17:37:34'
+              modifiedDate: '2026-08-24 18:03:56'
         01jPrV0N-Rates:
           path: dataset/01jPrV0N-Rates
           prefix: ncino
