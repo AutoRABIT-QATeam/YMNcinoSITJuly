@@ -1,0 +1,38 @@
+{
+  "name": "1_nFORCE__Screen_Segment__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "nFORCE__Order__c",
+    "nFORCE__Screen_Section__c",
+    "nFORCE__Screen__c",
+    "nFORCE__Type__c",
+    "nFORCE__lookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a3vbn000002ESNJAA4",
+      "IsDeleted": "",
+      "Name": "a3vbn000002ESNJ",
+      "OwnerId": "005bn000003k2JdAAI",
+      "nFORCE__Order__c": "0.0",
+      "nFORCE__Screen_Section__c": "a2Fbn000000C3YMEA0",
+      "nFORCE__Screen__c": "a2Gbn000000hcdcEAA",
+      "nFORCE__Type__c": "",
+      "nFORCE__lookupKey__c": "a3vbn000002ESNJAA4"
+    },
+    "2": {
+      "Id": "a3vbn000002ESNKAA4",
+      "IsDeleted": "",
+      "Name": "a3vbn000002ESNK",
+      "OwnerId": "005bn000003k2JdAAI",
+      "nFORCE__Order__c": "1.0",
+      "nFORCE__Screen_Section__c": "a2Fbn000000C3YLEA0",
+      "nFORCE__Screen__c": "a2Gbn000000hcdcEAA",
+      "nFORCE__Type__c": "",
+      "nFORCE__lookupKey__c": "a3vbn000002ESNKAA4"
+    }
+  }
+}
