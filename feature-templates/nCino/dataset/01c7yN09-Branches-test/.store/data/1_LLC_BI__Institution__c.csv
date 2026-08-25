@@ -1,6 +1,6 @@
 "Id","OwnerId","IsDeleted","Name","LLC_BI__Brand__c","LLC_BI__Community_Extension__c","LLC_BI__Community_Name__c","LLC_BI__Community_Network_ID__c","LLC_BI__Look_Up_Key__c","LLC_BI__LookupKey__c","LLC_BI__Permission_Set__c","AutorabitExtId__c"
-"a31WD000002HkOfYAK","005al00000RVcKvAAL","false","First National Bank","","","","","","a0CWD00006oUITL2A4","/fnb-portal","FNB Customer Community","0DB5f000000XYZAB","INST_FNB01","INST_FNB01","FNB_Institution_Access",""
-"a31WD000002HkOgYAK","005al00000RVcKvAAL","false","Meridian Savings & Loan","","","","","","a0CWD00006oUITS2A4","/meridian-portal","Meridian Partner Community","0DB5f000000QRSTU","INST_MSL02","INST_MSL02","Meridian_Institution_Access",""
+"a31WD000002HkOfYAK","005al00000RVcKvAAL","false","First National Bank","","","","","","","","","","","a0CWD00006oUITL2A4","/fnb-portal","FNB Customer Community"
+"a31WD000002HkOgYAK","005al00000RVcKvAAL","false","Meridian Savings & Loan","","","","","","","","","","","a0CWD00006oUITS2A4","/meridian-portal","Meridian Partner Community"
 "a31WD000001k07hYAA","005al00000RVcKvAAL","false","nSight Financial","a0CWD00005vM0qn2AC","CustomerPortal","Customer Portal","null","34652546354g5","null","nSightFinancial_Community",""
 "a31WE000001g6FYYAY","005al00000RVcKvAAL","false","Summit Financial Group","a0CWE00007Ifg7G2AR","/summitfinancial","Summit Financial Client Hub","0DB5f000000KLMNO","D5G8J2L4Q7V1Z9X6F","D5G8J2L4Q7V1Z9X6F","LLC_BI__Institution_Manager","a31WD000002C6tJYAS"
 "a31WE000001g6FZYAY","005al00000RVcKvAAL","false","First National Bank","a0CWE00007Ifg7D2AR","/firstnational","First National Community Portal","0DB5f000000XYZAB","H7K2M9R4P1N8V3Q6X","H7K2M9R4P1N8V3Q6X","LLC_BI__Institution_Admin","a31WD000002C6tKYAS"

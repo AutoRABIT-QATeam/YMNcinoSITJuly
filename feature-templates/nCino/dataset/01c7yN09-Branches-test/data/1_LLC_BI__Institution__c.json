@@ -16,7 +16,7 @@
   ],
   "records": {
     "1": {
-      "AutorabitExtId__c": "FNB Customer Community",
+      "AutorabitExtId__c": "",
       "Id": "a31WD000002HkOfYAK",
       "IsDeleted": "false",
       "LLC_BI__Brand__c": "",
@@ -24,13 +24,13 @@
       "LLC_BI__Community_Name__c": "",
       "LLC_BI__Community_Network_ID__c": "",
       "LLC_BI__Look_Up_Key__c": "",
-      "LLC_BI__LookupKey__c": "a0CWD00006oUITL2A4",
-      "LLC_BI__Permission_Set__c": "/fnb-portal",
+      "LLC_BI__LookupKey__c": "",
+      "LLC_BI__Permission_Set__c": "",
       "Name": "First National Bank",
       "OwnerId": "005al00000RVcKvAAL"
     },
     "2": {
-      "AutorabitExtId__c": "Meridian Partner Community",
+      "AutorabitExtId__c": "",
       "Id": "a31WD000002HkOgYAK",
       "IsDeleted": "false",
       "LLC_BI__Brand__c": "",
@@ -38,8 +38,8 @@
       "LLC_BI__Community_Name__c": "",
       "LLC_BI__Community_Network_ID__c": "",
       "LLC_BI__Look_Up_Key__c": "",
-      "LLC_BI__LookupKey__c": "a0CWD00006oUITS2A4",
-      "LLC_BI__Permission_Set__c": "/meridian-portal",
+      "LLC_BI__LookupKey__c": "",
+      "LLC_BI__Permission_Set__c": "",
       "Name": "Meridian Savings \u0026 Loan",
       "OwnerId": "005al00000RVcKvAAL"
     },
