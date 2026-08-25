@@ -17,3 +17,10 @@ packageDirectories:
           versions:
             '2.0':
               modifiedDate: '2026-08-25 07:21:09'
+        10t3fN1G-Roles:
+          path: dataset/10t3fN1G-Roles
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-25 09:38:14'
