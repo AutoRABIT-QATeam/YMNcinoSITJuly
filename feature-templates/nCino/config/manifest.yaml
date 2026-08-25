@@ -24,3 +24,10 @@ packageDirectories:
           versions:
             Rel 2024_07 v1:
               modifiedDate: '2026-08-24 18:07:17'
+        01bPoO03-Rules Engine:
+          path: dataset/01bPoO03-Rules Engine
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-25 09:40:51'
