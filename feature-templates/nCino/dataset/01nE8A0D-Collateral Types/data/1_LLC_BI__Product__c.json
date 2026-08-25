@@ -27,11 +27,13 @@
     "LLC_BI__Product_Line_Name__c",
     "LLC_BI__Product_Type_Name__c",
     "LLC_BI__RealEstate__c",
-    "nCinoCB__Onboarding_Product_Id__c"
+    "nCinoCB__Onboarding_Product_Id__c",
+    "AutorabitExtId__c"
   ],
   "records": {
     "1": {
-      "Id": "a48WD000001PAlTYAW",
+      "AutorabitExtId__c": "",
+      "Id": "a48WE000000eyDyYAI",
       "IsDeleted": "false",
       "LLC_BI__Classification__c": "",
       "LLC_BI__Credit_Underwriting_Enabled_Online__c": "false",
@@ -51,7 +53,7 @@
       "LLC_BI__Product_Feature__c": "a3uWD000002003kYAA",
       "LLC_BI__Product_Line_Name__c": "Small Business",
       "LLC_BI__Product_Type_Name__c": "Small Business Non-Real Estate",
-      "LLC_BI__Product_Type__c": "a47WD000000QQuzYAG",
+      "LLC_BI__Product_Type__c": "a47WE000001ltbfYAA",
       "LLC_BI__RealEstate_Type__c": "",
       "LLC_BI__RealEstate__c": "false",
       "LLC_BI__Screen_Section__c": "",
@@ -60,7 +62,8 @@
       "nCinoCB__Onboarding_Product_Id__c": ""
     },
     "2": {
-      "Id": "a48WD000001PAlRYAW",
+      "AutorabitExtId__c": "",
+      "Id": "a48WE000000eyDwYAI",
       "IsDeleted": "false",
       "LLC_BI__Classification__c": "",
       "LLC_BI__Credit_Underwriting_Enabled_Online__c": "false",
@@ -80,7 +83,7 @@
       "LLC_BI__Product_Feature__c": "a3uWD000002003jYAA",
       "LLC_BI__Product_Line_Name__c": "Small Business",
       "LLC_BI__Product_Type_Name__c": "Small Business Real Estate",
-      "LLC_BI__Product_Type__c": "a47WD000000QQv0YAG",
+      "LLC_BI__Product_Type__c": "a47WE000001ltbgYAA",
       "LLC_BI__RealEstate_Type__c": "",
       "LLC_BI__RealEstate__c": "false",
       "LLC_BI__Screen_Section__c": "",
@@ -89,7 +92,8 @@
       "nCinoCB__Onboarding_Product_Id__c": ""
     },
     "3": {
-      "Id": "a48WD000001PAlSYAW",
+      "AutorabitExtId__c": "",
+      "Id": "a48WE000000eyDxYAI",
       "IsDeleted": "false",
       "LLC_BI__Classification__c": "",
       "LLC_BI__Credit_Underwriting_Enabled_Online__c": "false",
@@ -109,7 +113,7 @@
       "LLC_BI__Product_Feature__c": "a3uWD000002003iYAA",
       "LLC_BI__Product_Line_Name__c": "Small Business",
       "LLC_BI__Product_Type_Name__c": "Small Business Non-Real Estate",
-      "LLC_BI__Product_Type__c": "a47WD000000QQuzYAG",
+      "LLC_BI__Product_Type__c": "a47WE000001ltbfYAA",
       "LLC_BI__RealEstate_Type__c": "",
       "LLC_BI__RealEstate__c": "false",
       "LLC_BI__Screen_Section__c": "",
@@ -118,7 +122,8 @@
       "nCinoCB__Onboarding_Product_Id__c": ""
     },
     "4": {
-      "Id": "a48WD000001PAlNYAW",
+      "AutorabitExtId__c": "",
+      "Id": "a48WE000000eyDsYAI",
       "IsDeleted": "false",
       "LLC_BI__Classification__c": "",
       "LLC_BI__Credit_Underwriting_Enabled_Online__c": "false",
@@ -138,7 +143,7 @@
       "LLC_BI__Product_Feature__c": "a3uWD000002003hYAA",
       "LLC_BI__Product_Line_Name__c": "Small Business",
       "LLC_BI__Product_Type_Name__c": "Small Business Real Estate",
-      "LLC_BI__Product_Type__c": "a47WD000000QQv0YAG",
+      "LLC_BI__Product_Type__c": "a47WE000001ltbgYAA",
       "LLC_BI__RealEstate_Type__c": "",
       "LLC_BI__RealEstate__c": "false",
       "LLC_BI__Screen_Section__c": "",

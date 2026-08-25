@@ -168,10 +168,12 @@
     "Is_Consumer__c",
     "Is_SBA__c",
     "LLC_BI__Maximum_Age_For_Applying__c",
-    "LLC_BI__Minimum_Age_For_Applying__c"
+    "LLC_BI__Minimum_Age_For_Applying__c",
+    "AutorabitExtId__c"
   ],
   "records": {
     "1": {
+      "AutorabitExtId__c": "",
       "Id": "a3uWD000002003hYAA",
       "IsDeleted": "false",
       "Is_Consumer__c": "false",
@@ -342,6 +344,7 @@
       "SCALC__Calculation_Method__c": "LOAN_BUILDER"
     },
     "2": {
+      "AutorabitExtId__c": "",
       "Id": "a3uWD000002003iYAA",
       "IsDeleted": "false",
       "Is_Consumer__c": "false",
@@ -512,6 +515,7 @@
       "SCALC__Calculation_Method__c": "LOAN_BUILDER"
     },
     "3": {
+      "AutorabitExtId__c": "",
       "Id": "a3uWD000002003jYAA",
       "IsDeleted": "false",
       "Is_Consumer__c": "false",
@@ -682,6 +686,7 @@
       "SCALC__Calculation_Method__c": "LOAN_BUILDER"
     },
     "4": {
+      "AutorabitExtId__c": "",
       "Id": "a3uWD000002003kYAA",
       "IsDeleted": "false",
       "Is_Consumer__c": "false",
