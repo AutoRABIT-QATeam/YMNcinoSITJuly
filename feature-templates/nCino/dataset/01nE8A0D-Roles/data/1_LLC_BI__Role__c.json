@@ -17,7 +17,7 @@
       "LLC_BI__Type__c": "TEAM_ROLES",
       "LLC_BI__lookupKey__c": "42146639854510830",
       "Name": "Loan Assistant",
-      "OwnerId": "005al00000Q6IbCAAV"
+      "OwnerId": "005al00000RVcKvAAL"
     },
     "2": {
       "Id": "a4eWD000000f5AGYAY",
@@ -134,7 +134,7 @@
       "LLC_BI__Type__c": "TEAM_ROLES",
       "LLC_BI__lookupKey__c": "a1nbn000001OLhLAAW",
       "Name": "Credit Analyst / Underwriter",
-      "OwnerId": "005al00000RVvFOAA1"
+      "OwnerId": "005al00000RVcKvAAL"
     },
     "15": {
       "Id": "a4eWE000001CwNqYAK",
@@ -143,7 +143,7 @@
       "LLC_BI__Type__c": "TEAM_ROLES",
       "LLC_BI__lookupKey__c": "a1nbn000001OLhMAAW",
       "Name": "Closer",
-      "OwnerId": "005al00000RVvFOAA1"
+      "OwnerId": "005al00000RVcKvAAL"
     },
     "16": {
       "Id": "a4eWE000001CwNrYAK",
@@ -152,7 +152,7 @@
       "LLC_BI__Type__c": "TEAM_ROLES",
       "LLC_BI__lookupKey__c": "a1nbn000001OLhNAAW",
       "Name": "Portfolio Manager",
-      "OwnerId": "005al00000RVvFOAA1"
+      "OwnerId": "005al00000RVcKvAAL"
     },
     "17": {
       "Id": "a4eWE000001CwNsYAK",
@@ -161,7 +161,7 @@
       "LLC_BI__Type__c": "",
       "LLC_BI__lookupKey__c": "a1nbn000001OLhOAAW",
       "Name": "Loan Approver",
-      "OwnerId": "005al00000RVvFOAA1"
+      "OwnerId": "005al00000RVcKvAAL"
     },
     "18": {
       "Id": "a4eWE000001CwNtYAK",
@@ -170,7 +170,7 @@
       "LLC_BI__Type__c": "",
       "LLC_BI__lookupKey__c": "a1nbn000001OLhPAAW",
       "Name": "Loan Approver Queue",
-      "OwnerId": "005al00000RVvFOAA1"
+      "OwnerId": "005al00000RVcKvAAL"
     },
     "19": {
       "Id": "a4eWE000001CwNuYAK",
@@ -179,7 +179,7 @@
       "LLC_BI__Type__c": "TEAM_ROLES",
       "LLC_BI__lookupKey__c": "a1nbn000001OLhQAAW",
       "Name": "Loan Ops",
-      "OwnerId": "005al00000RVvFOAA1"
+      "OwnerId": "005al00000RVcKvAAL"
     },
     "20": {
       "Id": "a4eWE000001CwNvYAK",
@@ -188,7 +188,7 @@
       "LLC_BI__Type__c": "TEAM_ROLES",
       "LLC_BI__lookupKey__c": "a1nbn000001OLhRAAW",
       "Name": "Loan Officer",
-      "OwnerId": "005al00000RVvFOAA1"
+      "OwnerId": "005al00000RVcKvAAL"
     },
     "21": {
       "Id": "a4eWE000001CwNwYAK",
@@ -197,7 +197,7 @@
       "LLC_BI__Type__c": "TEAM_ROLES",
       "LLC_BI__lookupKey__c": "a1nbn000001OLhSAAW",
       "Name": "Special Assets",
-      "OwnerId": "005al00000RVvFOAA1"
+      "OwnerId": "005al00000RVcKvAAL"
     },
     "22": {
       "Id": "a4eWE0000019kr3YAA",
