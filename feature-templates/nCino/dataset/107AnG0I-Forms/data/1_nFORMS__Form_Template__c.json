@@ -1,0 +1,45 @@
+{
+  "name": "1_nFORMS__Form_Template__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "nFORMS__Description__c",
+    "nFORMS__Enable_FLS__c",
+    "nFORMS__Enforce_Masking__c",
+    "nFORMS__Filter__c",
+    "nFORMS__Form_Purpose__c",
+    "nFORMS__Is_Active__c",
+    "nFORMS__Output_Type__c",
+    "nFORMS__Page_Dimension_Unit__c",
+    "nFORMS__Page_Width__c",
+    "nFORMS__Primary_Object__c",
+    "nFORMS__Save_To_Docman__c",
+    "nFORMS__Template_Input_Type__c",
+    "nFORMS__lookupKey__c",
+    "nFORMS__Document_Output_Type__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a5rWD000000C7guYAC",
+      "IsDeleted": "false",
+      "Name": "Standard Commercial Form",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORMS__Description__c": "Standard Commercial Form",
+      "nFORMS__Document_Output_Type__c": "HTML",
+      "nFORMS__Enable_FLS__c": "true",
+      "nFORMS__Enforce_Masking__c": "true",
+      "nFORMS__Filter__c": "",
+      "nFORMS__Form_Purpose__c": "Credit Memo",
+      "nFORMS__Is_Active__c": "true",
+      "nFORMS__Output_Type__c": "HTML",
+      "nFORMS__Page_Dimension_Unit__c": "Inches",
+      "nFORMS__Page_Width__c": "",
+      "nFORMS__Primary_Object__c": "LLC_BI__Product_Package__c",
+      "nFORMS__Save_To_Docman__c": "false",
+      "nFORMS__Template_Input_Type__c": "HTML",
+      "nFORMS__lookupKey__c": "4.2081E+16"
+    }
+  }
+}
