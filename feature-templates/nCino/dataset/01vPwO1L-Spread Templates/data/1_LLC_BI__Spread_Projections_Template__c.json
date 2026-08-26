@@ -1,0 +1,35 @@
+{
+  "name": "1_LLC_BI__Spread_Projections_Template__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "LLC_BI__Description__c",
+    "LLC_BI__Is_Active__c",
+    "LLC_BI__lookupKey__c",
+    "LLC_BI__Purpose__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a4Tbn000000PduDEAS",
+      "IsDeleted": "",
+      "LLC_BI__Description__c": "Neutral Projection Template with no Pre-configured Changes.",
+      "LLC_BI__Is_Active__c": "true",
+      "LLC_BI__Purpose__c": "Projection",
+      "LLC_BI__lookupKey__c": "4ef5eeab-a29e-4319-b798-47cea52e950c",
+      "Name": "No Change",
+      "OwnerId": "005bn000003k2JdAAI"
+    },
+    "2": {
+      "Id": "a4Tbn000000PduEEAS",
+      "IsDeleted": "",
+      "LLC_BI__Description__c": "",
+      "LLC_BI__Is_Active__c": "true",
+      "LLC_BI__Purpose__c": "Average",
+      "LLC_BI__lookupKey__c": "81357ffb-e67c-40f1-8a08-2448e4c3d7f3",
+      "Name": "Average Period AG",
+      "OwnerId": "005bn000003k2JdAAI"
+    }
+  }
+}
