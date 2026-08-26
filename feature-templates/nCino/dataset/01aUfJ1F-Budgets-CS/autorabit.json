@@ -10,6 +10,16 @@
       "data": {
         "exclude": {}
       }
+    },
+    "2.0": {
+      "metadata": {
+        "exclude": {
+          "CustomObject": []
+        }
+      },
+      "data": {
+        "exclude": {}
+      }
     }
   }
 }
