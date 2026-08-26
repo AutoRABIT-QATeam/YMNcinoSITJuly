@@ -24,3 +24,10 @@ packageDirectories:
           versions:
             Rel 2024_07 v1:
               modifiedDate: '2026-08-25 09:38:14'
+        10t3fN1G-Forms:
+          path: dataset/10t3fN1G-Forms
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v2:
+              modifiedDate: '2026-08-26 11:50:26'
