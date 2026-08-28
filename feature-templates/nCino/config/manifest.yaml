@@ -38,3 +38,17 @@ packageDirectories:
           versions:
             Rel 2024_07 v1:
               modifiedDate: '2026-08-26 11:57:30'
+        012Gk91M-Budgets-PT-21:
+          path: dataset/012Gk91M-Budgets-PT-21
+          prefix: Regre
+          standardFeature: true
+          versions:
+            '1.0':
+              modifiedDate: '2026-08-28 15:01:05'
+        01vPwO1L-Rules Engine:
+          path: dataset/01vPwO1L-Rules Engine
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-28 15:01:05'
