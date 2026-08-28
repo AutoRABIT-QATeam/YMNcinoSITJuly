@@ -17,3 +17,17 @@ packageDirectories:
           versions:
             '1.0':
               modifiedDate: '2026-08-26 05:57:04'
+        101TqC0O-User Interface-YMNCino001:
+          path: dataset/101TqC0O-User Interface-YMNCino001
+          prefix: Admin
+          standardFeature: true
+          versions:
+            '1.0':
+              modifiedDate: '2026-08-28 08:59:17'
+        01qYoW0J-Spreads Schedules:
+          path: dataset/01qYoW0J-Spreads Schedules
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-28 08:59:18'

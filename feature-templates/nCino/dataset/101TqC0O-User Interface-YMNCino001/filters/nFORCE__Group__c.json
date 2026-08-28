@@ -1,0 +1,4 @@
+{
+  "name": "nFORCE__Group__c",
+  "query": "Select Id From nFORCE__Group__c where nFORCE__lookupKey__c !\u003d \u0027NULL\u0027"
+}
