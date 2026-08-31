@@ -1,0 +1,25 @@
+{
+  "prefix": "Regre",
+  "packageDirectories": {
+    "2.0": {
+      "metadata": {
+        "exclude": {
+          "CustomObject": []
+        }
+      },
+      "data": {
+        "exclude": {}
+      }
+    },
+    "3.0": {
+      "metadata": {
+        "exclude": {
+          "CustomObject": []
+        }
+      },
+      "data": {
+        "exclude": {}
+      }
+    }
+  }
+}
