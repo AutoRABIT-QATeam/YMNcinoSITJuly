@@ -44,4 +44,88 @@ packageDirectories:
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-08-31 06:22:32'
+              modifiedDate: '2026-08-31 06:46:46'
+        01d41A0S-Branches-brachnes:
+          path: dataset/01d41A0S-Branches-brachnes
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1':
+              modifiedDate: '2026-08-31 06:46:46'
+        01d41A0S-Budgets:
+          path: dataset/01d41A0S-Budgets
+          prefix: Regre
+          standardFeature: false
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-31 06:46:46'
+        01d41A0S-Budgets-YM:
+          path: dataset/01d41A0S-Budgets-YM
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1':
+              modifiedDate: '2026-08-31 06:46:46'
+        01d41A0S-Budgets-YMCommunity:
+          path: dataset/01d41A0S-Budgets-YMCommunity
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1.0':
+              modifiedDate: '2026-08-31 06:46:46'
+        01d41A0S-Collateral Types-DT1:
+          path: dataset/01d41A0S-Collateral Types-DT1
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '2':
+              modifiedDate: '2026-08-31 06:46:46'
+        01d41A0S-User Interface-ui:
+          path: dataset/01d41A0S-User Interface-ui
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1':
+              modifiedDate: '2026-08-31 06:46:46'
+        01uKnX1X-Branches:
+          path: dataset/01uKnX1X-Branches
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-31 06:46:46'
+        01uKnX1X-Budgets:
+          path: dataset/01uKnX1X-Budgets
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-31 06:46:46'
+        01uKnX1X-Collateral Types:
+          path: dataset/01uKnX1X-Collateral Types
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-31 06:46:46'
+        01uKnX1X-Config Keys:
+          path: dataset/01uKnX1X-Config Keys
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-31 06:46:46'
+        01uKnX1X-Covenant Types:
+          path: dataset/01uKnX1X-Covenant Types
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Fall 2023 Rel - v1:
+              modifiedDate: '2026-08-31 06:46:46'
+        01uKnX1X-Screens:
+          path: dataset/01uKnX1X-Screens
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-08-31 06:46:47'
