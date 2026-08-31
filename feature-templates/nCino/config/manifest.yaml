@@ -1,0 +1,12 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        01cKjY0A-Budgets-PT-21:
+          path: dataset/01cKjY0A-Budgets-PT-21
+          prefix: Regre
+          standardFeature: true
+          versions:
+            '1.0':
+              modifiedDate: '2026-08-31 07:35:26'
