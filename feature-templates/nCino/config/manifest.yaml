@@ -44,11 +44,11 @@ packageDirectories:
           standardFeature: true
           versions:
             '1.0':
-              modifiedDate: '2026-08-31 16:28:08'
+              modifiedDate: '2026-08-31 18:33:35'
         01vPwO1L-Rules Engine:
           path: dataset/01vPwO1L-Rules Engine
           prefix: ncino
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-08-31 16:28:08'
+              modifiedDate: '2026-08-31 18:33:35'
