@@ -1,0 +1,293 @@
+{
+  "name": "1_LLC_BI__Spread_Record_Total_Classification__c",
+  "attributes": [
+    "Id",
+    "IsDeleted",
+    "Name",
+    "LLC_BI__Classification__c",
+    "LLC_BI__Spread_Statement_Total_Group__c",
+    "LLC_BI__lookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a4wWD0000011YRtYAM",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111oyYAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000i45nUYAQ",
+      "LLC_BI__lookupKey__c": "42054249331488447",
+      "Name": "a5ybn000000LSMs"
+    },
+    "2": {
+      "Id": "a4wWD0000011YMeYAM",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111p0YAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000i45gHYAQ",
+      "LLC_BI__lookupKey__c": "42063360465787223",
+      "Name": "a5ybn000000LSMz"
+    },
+    "3": {
+      "Id": "a4wWD0000011YPUYA2",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111oyYAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000i45lBYAQ",
+      "LLC_BI__lookupKey__c": "42101570617713476",
+      "Name": "a5ybn000000LSOk"
+    },
+    "4": {
+      "Id": "a4wWD0000011YQAYA2",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111p0YAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000i45lyYAA",
+      "LLC_BI__lookupKey__c": "42156343681450188",
+      "Name": "a5ybn000000LSMz"
+    },
+    "5": {
+      "Id": "a4wWD0000011YThYAM",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111p0YAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000i45pIYAQ",
+      "LLC_BI__lookupKey__c": "42188174937398631",
+      "Name": "a5ybn000000LSPK"
+    },
+    "6": {
+      "Id": "a4wWD0000011YMXYA2",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111oyYAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000i45g2YAA",
+      "LLC_BI__lookupKey__c": "42211072080005517",
+      "Name": "a5ybn000000LSMs"
+    },
+    "7": {
+      "Id": "a4wWD0000011YS1YAM",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111p0YAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000i45njYAA",
+      "LLC_BI__lookupKey__c": "42252258514286011",
+      "Name": "a5ybn000000LSMz"
+    },
+    "8": {
+      "Id": "a4wWD0000011YRjYAM",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111oyYAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000i45qoYAA",
+      "LLC_BI__lookupKey__c": "42403514941770922",
+      "Name": "a5ybn000000LSPU"
+    },
+    "9": {
+      "Id": "a4wWD0000011YNIYA2",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111ozYAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000i45flYAA",
+      "LLC_BI__lookupKey__c": "42498366073153571",
+      "Name": "a3kbn000000CnQ5"
+    },
+    "10": {
+      "Id": "a4wWD0000011YNrYAM",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111oyYAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000i3weqYAA",
+      "LLC_BI__lookupKey__c": "42601169370435622",
+      "Name": "a5ybn000000LSNN"
+    },
+    "11": {
+      "Id": "a4wWD0000011YM8YAM",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111p2YAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000i3weYYAQ",
+      "LLC_BI__lookupKey__c": "42686664441723919",
+      "Name": "a5ybn000000LSMY"
+    },
+    "12": {
+      "Id": "a4wWD0000011YLzYAM",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111p0YAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000i3weNYAQ",
+      "LLC_BI__lookupKey__c": "42707039794917905",
+      "Name": "a5ybn000000LSMQ"
+    },
+    "13": {
+      "Id": "a4wWD0000011YLpYAM",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111oyYAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000i3weBYAQ",
+      "LLC_BI__lookupKey__c": "42725551126555846",
+      "Name": "a5ybn000000LSMK"
+    },
+    "14": {
+      "Id": "a4wWD0000011YP5YAM",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111p0YAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000i45kmYAA",
+      "LLC_BI__lookupKey__c": "42726839451644150",
+      "Name": "a5ybn000000LSOa"
+    },
+    "15": {
+      "Id": "a4wWD0000011YRKYA2",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111p0YAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000i45qTYAQ",
+      "LLC_BI__lookupKey__c": "42812164929977448",
+      "Name": "a5ybn000000LSPK"
+    },
+    "16": {
+      "Id": "a4wWD0000011YQ3YAM",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111oyYAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000i45leYAA",
+      "LLC_BI__lookupKey__c": "42864005960649409",
+      "Name": "a5ybn000000LSMs"
+    },
+    "17": {
+      "Id": "a4wWD0000011YNyYAM",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111p0YAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000i3wf6YAA",
+      "LLC_BI__lookupKey__c": "42918256480688572",
+      "Name": "a5ybn000000LSNU"
+    },
+    "18": {
+      "Id": "a4wWD0000011YTuYAM",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111oyYAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000i45pVYAQ",
+      "LLC_BI__lookupKey__c": "42932715326669137",
+      "Name": "a5ybn000000LSPU"
+    },
+    "19": {
+      "Id": "a4wWD000000quEWYAY",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111oyYAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000ZIrtUYAT",
+      "LLC_BI__lookupKey__c": "comm-bl-42040938906498423",
+      "Name": "a3gal000001fMCS"
+    },
+    "20": {
+      "Id": "a4wWD000000quEgYAI",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111p0YAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000ZIrujYAD",
+      "LLC_BI__lookupKey__c": "comm-bl-42062966961771370",
+      "Name": "a3gal000001fMCe"
+    },
+    "21": {
+      "Id": "a4wWD000000quEiYAI",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111p1YAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000ZIrvkYAD",
+      "LLC_BI__lookupKey__c": "comm-bl-42099698856621181",
+      "Name": "a3gal000001fMCq"
+    },
+    "22": {
+      "Id": "a4wWD000000quEUYAY",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111oyYAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000ZIrpyYAD",
+      "LLC_BI__lookupKey__c": "comm-bl-42135738197434038",
+      "Name": "a5yal000000avav"
+    },
+    "23": {
+      "Id": "a4wWD000000quEdYAI",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111p0YAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000ZIrrZYAT",
+      "LLC_BI__lookupKey__c": "comm-bl-42254930459075304",
+      "Name": "a5yal000000avc3"
+    },
+    "24": {
+      "Id": "a4wWD000000quEVYAY",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111ozYAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000ZIrqlYAD",
+      "LLC_BI__lookupKey__c": "comm-bl-42282250231659616",
+      "Name": "a3kal000001Hlzd"
+    },
+    "25": {
+      "Id": "a4wWD000000quEZYAY",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111p1YAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000ZIrubYAD",
+      "LLC_BI__lookupKey__c": "comm-bl-42426513913916847",
+      "Name": "a3gal000001fMCq"
+    },
+    "26": {
+      "Id": "a4wWD000000quEkYAI",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111oyYAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000ZIrwlYAD",
+      "LLC_BI__lookupKey__c": "comm-bl-42458591494033883",
+      "Name": "a3gal000001fMCS"
+    },
+    "27": {
+      "Id": "a4wWD000000quEjYAI",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111p0YAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000ZIrwWYAT",
+      "LLC_BI__lookupKey__c": "comm-bl-42540670721547478",
+      "Name": "a3gal000001fMCe"
+    },
+    "28": {
+      "Id": "a4wWD000000quEhYAI",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111oyYAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000ZIrusYAD",
+      "LLC_BI__lookupKey__c": "comm-bl-42594179249566571",
+      "Name": "a3gal000001fMCS"
+    },
+    "29": {
+      "Id": "a4wWD000000quEXYAY",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111p0YAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000ZIrtmYAD",
+      "LLC_BI__lookupKey__c": "comm-bl-42605630125967867",
+      "Name": "a3gal000001fMCe"
+    },
+    "30": {
+      "Id": "a4wWD000000quEeYAI",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111p0YAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000ZIrsJYAT",
+      "LLC_BI__lookupKey__c": "comm-bl-42777430300525512",
+      "Name": "a5yal000000avck"
+    },
+    "31": {
+      "Id": "a4wWD000000quEaYAI",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111p0YAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000ZIrovYAD",
+      "LLC_BI__lookupKey__c": "comm-bl-42796527209894788",
+      "Name": "a5yal000000avbe"
+    },
+    "32": {
+      "Id": "a4wWD000000quEcYAI",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111oyYAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000ZIrpXYAT",
+      "LLC_BI__lookupKey__c": "comm-bl-42867307660864870",
+      "Name": "a5yal000000avbw"
+    },
+    "33": {
+      "Id": "a4wWD000000quEfYAI",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111p2YAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000ZIrsjYAD",
+      "LLC_BI__lookupKey__c": "comm-bl-42927782827556060",
+      "Name": "a5yal000000avcp"
+    },
+    "34": {
+      "Id": "a4wWD000000quEYYAY",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111p1YAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000ZIru5YAD",
+      "LLC_BI__lookupKey__c": "comm-bl-42930603294049738",
+      "Name": "a3gal000001fMCq"
+    },
+    "35": {
+      "Id": "a4wWD000000quEbYAI",
+      "IsDeleted": "false",
+      "LLC_BI__Classification__c": "a1fWD00000111oyYAA",
+      "LLC_BI__Spread_Statement_Total_Group__c": "a51WD00000ZIrpKYAT",
+      "LLC_BI__lookupKey__c": "comm-bl-42976315055521904",
+      "Name": "a5yal000000avbo"
+    }
+  }
+}

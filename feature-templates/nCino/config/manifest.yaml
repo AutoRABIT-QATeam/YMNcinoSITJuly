@@ -1,0 +1,26 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        01zEqK0H-Brands:
+          path: dataset/01zEqK0H-Brands
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-09-01 14:33:38'
+        01zEqK0H-Rules Engine:
+          path: dataset/01zEqK0H-Rules Engine
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-09-01 14:33:38'
+        01zEqK0H-Spread Templates:
+          path: dataset/01zEqK0H-Spread Templates
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-09-01 14:33:39'
