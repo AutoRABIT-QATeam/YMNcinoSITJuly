@@ -52,3 +52,31 @@ packageDirectories:
           versions:
             Rel 2024_07 v1:
               modifiedDate: '2026-09-01 11:13:00'
+        01tWsJ0Q-Branches:
+          path: dataset/01tWsJ0Q-Branches
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-09-01 11:21:11'
+        01tWsJ0Q-Budgets:
+          path: dataset/01tWsJ0Q-Budgets
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-09-01 11:21:22'
+        01tWsJ0Q-Forms:
+          path: dataset/01tWsJ0Q-Forms
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v2:
+              modifiedDate: '2026-09-01 11:21:36'
+        01tWsJ0Q-Screens:
+          path: dataset/01tWsJ0Q-Screens
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-09-01 11:21:57'
