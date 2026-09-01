@@ -9,7 +9,7 @@ packageDirectories:
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-09-01 00:31:45'
+              modifiedDate: '2026-09-01 03:31:41'
         012SrW19-Collateral Types:
           path: dataset/012SrW19-Collateral Types
           prefix: ncino
@@ -44,7 +44,7 @@ packageDirectories:
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-09-01 00:31:45'
+              modifiedDate: '2026-09-01 03:31:41'
         012SrW19-Classic Credit Memo:
           path: dataset/012SrW19-Classic Credit Memo
           prefix: ncino
