@@ -2,13 +2,12 @@
   "buckets": [
     {
       "objects": [
-        "nFORCE__Rule_Engine_Context_Rule__c",
-        "nFORCE__Rule_Engine_Rule__c",
-        "nFORCE__Rule_Engine_Context__c"
+        "LLC_BI__Budget__c",
+        "LLC_BI__Budget_Line_Item__c"
       ],
       "bucketNum": 1,
       "clauseField": "nFORCE_lookupKey_c",
-      "entryObject": "nFORCE__Rule_Engine_Context__c",
+      "entryObject": "LLC_BI__Budget__c",
       "mandatoryObject": [],
       "exclusionObject": []
     }
