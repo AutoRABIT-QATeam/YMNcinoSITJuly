@@ -9,7 +9,7 @@ packageDirectories:
           standardFeature: true
           versions:
             Rel 2024_07 v1:
-              modifiedDate: '2026-09-01 10:58:46'
+              modifiedDate: '2026-09-01 11:13:00'
         01oTzM0I-Budgets-PT-21:
           path: dataset/01oTzM0I-Budgets-PT-21
           prefix: Regre
@@ -24,3 +24,31 @@ packageDirectories:
           versions:
             Rel 2024_07 v1:
               modifiedDate: '2026-09-01 11:05:23'
+        01oTzM0I-Branches:
+          path: dataset/01oTzM0I-Branches
+          prefix: Regre
+          standardFeature: false
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-09-01 11:12:41'
+        01oTzM0I-Budgets:
+          path: dataset/01oTzM0I-Budgets
+          prefix: Regre
+          standardFeature: false
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-09-01 11:12:48'
+        01oTzM0I-Forms:
+          path: dataset/01oTzM0I-Forms
+          prefix: Regre
+          standardFeature: false
+          versions:
+            Rel 2024_07 v2:
+              modifiedDate: '2026-09-01 11:13:00'
+        01oTzM0I-Rates:
+          path: dataset/01oTzM0I-Rates
+          prefix: Regre
+          standardFeature: false
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-09-01 11:13:00'
