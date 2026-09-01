@@ -17,3 +17,10 @@ packageDirectories:
           versions:
             '1.0':
               modifiedDate: '2026-09-01 10:59:12'
+        01tWsJ0Q-Spread Templates:
+          path: dataset/01tWsJ0Q-Spread Templates
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-09-01 11:05:23'
