@@ -1,0 +1,35 @@
+{
+  "name": "1_nFORCE__Screen__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "nFORCE__Disable_Print__c",
+    "nFORCE__Disable_Read_Only_View__c",
+    "nFORCE__Show_Link_To_Context_Object__c",
+    "nFORCE__lookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "Id": "a0sWD00000Xo7jzYAB",
+      "IsDeleted": "false",
+      "Name": "UI Configuration Builder",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Disable_Print__c": "false",
+      "nFORCE__Disable_Read_Only_View__c": "false",
+      "nFORCE__Show_Link_To_Context_Object__c": "true",
+      "nFORCE__lookupKey__c": "42257423463997756"
+    },
+    "2": {
+      "Id": "a0sWD00000Xo7chYAB",
+      "IsDeleted": "false",
+      "Name": "DEP Interest Information (Individual)",
+      "OwnerId": "005al00000RVcKvAAL",
+      "nFORCE__Disable_Print__c": "false",
+      "nFORCE__Disable_Read_Only_View__c": "false",
+      "nFORCE__Show_Link_To_Context_Object__c": "true",
+      "nFORCE__lookupKey__c": "42810462241793916"
+    }
+  }
+}

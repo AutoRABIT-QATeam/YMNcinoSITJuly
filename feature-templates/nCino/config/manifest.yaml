@@ -24,3 +24,17 @@ packageDirectories:
           versions:
             Rel 2024_07 v1:
               modifiedDate: '2026-09-01 14:33:39'
+        01sGrW1X-Budgets:
+          path: dataset/01sGrW1X-Budgets
+          prefix: Regre
+          standardFeature: false
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-09-01 14:49:28'
+        01sGrW1X-User Interface-ui:
+          path: dataset/01sGrW1X-User Interface-ui
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1':
+              modifiedDate: '2026-09-01 14:49:28'
