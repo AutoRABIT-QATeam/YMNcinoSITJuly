@@ -1,0 +1,19 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        01mBf70A-Branches-12:
+          path: dataset/01mBf70A-Branches-12
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '1':
+              modifiedDate: '2026-09-02 07:03:25'
+        10aAbJ18-Brands:
+          path: dataset/10aAbJ18-Brands
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-09-02 07:03:25'
