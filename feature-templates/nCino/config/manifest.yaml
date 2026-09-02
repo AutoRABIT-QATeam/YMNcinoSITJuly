@@ -1,0 +1,19 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        01jXlE0M-Questionnaire-OauthtoOauthECA:
+          path: dataset/01jXlE0M-Questionnaire-OauthtoOauthECA
+          prefix: Regre
+          standardFeature: false
+          versions:
+            '3.0':
+              modifiedDate: '2026-09-02 06:59:47'
+        01iOmR06-Rules Engine:
+          path: dataset/01iOmR06-Rules Engine
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-09-02 06:59:47'
