@@ -26,7 +26,7 @@
   "records": {
     "1": {
       "AutorabitExtId__c": "",
-      "ChexSystems_route__c": "",
+      "ChexSystems_route__c": "The productized route group includes the retail route templates required for a faster configuration and implementation  experience. Users must clone this group as needed for each loan product type as this specific route group is template-only.",
       "Description_Custom__c": "",
       "Id": "a2Bbn000000KMCUEA4",
       "IsDeleted": "",
@@ -34,9 +34,9 @@
       "OwnerId": "005bn000003k2JdAAI",
       "nFORCE__Answer_Context__c": "",
       "nFORCE__App__c": "",
-      "nFORCE__Category__c": "The productized route group includes the retail route templates required for a faster configuration and implementation  experience. Users must clone this group as needed for each loan product type as this specific route group is template-only.",
+      "nFORCE__Category__c": "",
       "nFORCE__Default_Collapse_Parent_Navigation__c": "",
-      "nFORCE__Description__c": "small-business-loan-ui",
+      "nFORCE__Description__c": "",
       "nFORCE__Is_Archived__c": "",
       "nFORCE__Is_Questionnaire__c": "",
       "nFORCE__Layout__c": "",
@@ -45,7 +45,7 @@
       "nFORCE__Taxonomy_Id__c": "",
       "nFORCE__lookupKey__c": "",
       "nPortal__Context_Type__c": "",
-      "nPortal__Is_Portal_Enabled__c": "false"
+      "nPortal__Is_Portal_Enabled__c": ""
     },
     "2": {
       "AutorabitExtId__c": "",
