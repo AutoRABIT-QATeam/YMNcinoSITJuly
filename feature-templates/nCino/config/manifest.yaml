@@ -52,3 +52,10 @@ packageDirectories:
           versions:
             30 August 21:
               modifiedDate: '2026-09-03 13:46:08'
+        01gPqW0Y-Budgets:
+          path: dataset/01gPqW0Y-Budgets
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-09-04 07:47:12'
