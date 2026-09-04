@@ -1,3 +1,3 @@
-"Id","OwnerId","IsDeleted","Name","LLC_BI__Description__c","LLC_BI__Is_Active__c","LLC_BI__lookupKey__c","LLC_BI__Purpose__c"
-"a4Tbn000000PduDEAS","005bn000003k2JdAAI","","No Change","Neutral Projection Template with no Pre-configured Changes.","true","4ef5eeab-a29e-4319-b798-47cea52e950c","Projection"
-"a4Tbn000000PduEEAS","005bn000003k2JdAAI","","Average Period AG","","true","81357ffb-e67c-40f1-8a08-2448e4c3d7f3","Average"
+"Id","OwnerId","IsDeleted","Name","LLC_BI__Description__c","LLC_BI__Is_Active__c","LLC_BI__Purpose__c","LLC_BI__lookupKey__c"
+"a4uWE000003ICyfYAG","005al00000RVvFOAA1","false","No Change","Neutral Projection Template with no Pre-configured Changes.","true","Projection","4ef5eeab-a29e-4319-b798-47cea52e950c"
+"a4uWE000003ICygYAG","005al00000RVvFOAA1","false","Average Period AG","","true","Average","81357ffb-e67c-40f1-8a08-2448e4c3d7f3"

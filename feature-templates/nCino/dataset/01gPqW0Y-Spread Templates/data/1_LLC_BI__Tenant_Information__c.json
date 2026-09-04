@@ -6,7 +6,12 @@
     "IsDeleted",
     "Name",
     "LLC_BI__Annual_Income__c",
+    "LLC_BI__Area_Measurement__c",
+    "LLC_BI__Break_Date__c",
     "LLC_BI__Description__c",
+    "LLC_BI__Entry_Order__c",
+    "LLC_BI__Exclude__c",
+    "LLC_BI__Is_Total__c",
     "LLC_BI__Lease_End__c",
     "LLC_BI__Lease_Origination__c",
     "LLC_BI__Lease_Type__c",
@@ -15,7 +20,9 @@
     "LLC_BI__Occupied_Units__c",
     "LLC_BI__Parent_Tenant_Information__c",
     "LLC_BI__Price_Per_Sq_Ft_Per_Year__c",
+    "LLC_BI__Rent_Roll__c",
     "LLC_BI__Scenario__c",
+    "LLC_BI__Searchable_Tenant__c",
     "LLC_BI__Spread_Statement_Template__c",
     "LLC_BI__Sq_Feet__c",
     "LLC_BI__Tenant_Name__c",
@@ -24,19 +31,12 @@
     "LLC_BI__Type__c",
     "LLC_BI__Unit_Type__c",
     "LLC_BI__Unit__c",
-    "LLC_BI__lookupKey__c",
-    "LLC_BI__Searchable_Tenant__c",
-    "LLC_BI__Area_Measurement__c",
-    "LLC_BI__Break_Date__c",
-    "LLC_BI__Exclude__c",
-    "LLC_BI__Is_Total__c",
-    "LLC_BI__Rent_Roll__c",
-    "LLC_BI__Entry_Order__c"
+    "LLC_BI__lookupKey__c"
   ],
   "records": {
     "1": {
-      "Id": "a3ubn000000Fe0PAAS",
-      "IsDeleted": "",
+      "Id": "a5LWE000000fn1Z2AQ",
+      "IsDeleted": "false",
       "LLC_BI__Annual_Income__c": "",
       "LLC_BI__Area_Measurement__c": "",
       "LLC_BI__Break_Date__c": "",
@@ -55,7 +55,7 @@
       "LLC_BI__Rent_Roll__c": "",
       "LLC_BI__Scenario__c": "",
       "LLC_BI__Searchable_Tenant__c": "false",
-      "LLC_BI__Spread_Statement_Template__c": "a19bn000001uMdnAAE",
+      "LLC_BI__Spread_Statement_Template__c": "a55WE000025VlyvYAC",
       "LLC_BI__Sq_Feet__c": "",
       "LLC_BI__Tenant_Name__c": "",
       "LLC_BI__Tenant_Type__c": "Commercial",
@@ -65,11 +65,11 @@
       "LLC_BI__Unit__c": "",
       "LLC_BI__lookupKey__c": "3fe7bcd9-cb48-4e1a-ae79-a03e19b64bfb",
       "Name": "a3ubn000000Fe0V",
-      "OwnerId": "005bn000003k2JdAAI"
+      "OwnerId": "005al00000RVvFOAA1"
     },
     "2": {
-      "Id": "a3ubn000000Fe0QAAS",
-      "IsDeleted": "",
+      "Id": "a5LWE000000fn1a2AA",
+      "IsDeleted": "false",
       "LLC_BI__Annual_Income__c": "",
       "LLC_BI__Area_Measurement__c": "",
       "LLC_BI__Break_Date__c": "",
@@ -88,7 +88,7 @@
       "LLC_BI__Rent_Roll__c": "",
       "LLC_BI__Scenario__c": "",
       "LLC_BI__Searchable_Tenant__c": "false",
-      "LLC_BI__Spread_Statement_Template__c": "a19bn000001uMdnAAE",
+      "LLC_BI__Spread_Statement_Template__c": "a55WE000025VlyvYAC",
       "LLC_BI__Sq_Feet__c": "",
       "LLC_BI__Tenant_Name__c": "",
       "LLC_BI__Tenant_Type__c": "Residential",
@@ -98,11 +98,11 @@
       "LLC_BI__Unit__c": "",
       "LLC_BI__lookupKey__c": "7f0fc3f1-9a6b-48bb-8bb0-7705a7814a66",
       "Name": "a3ubn000000Fe0W",
-      "OwnerId": "005bn000003k2JdAAI"
+      "OwnerId": "005al00000RVvFOAA1"
     },
     "3": {
-      "Id": "a3ubn000000Fe0LAAS",
-      "IsDeleted": "",
+      "Id": "a5LWE000000bFjH2AU",
+      "IsDeleted": "false",
       "LLC_BI__Annual_Income__c": "",
       "LLC_BI__Area_Measurement__c": "",
       "LLC_BI__Break_Date__c": "",
@@ -121,7 +121,7 @@
       "LLC_BI__Rent_Roll__c": "",
       "LLC_BI__Scenario__c": "",
       "LLC_BI__Searchable_Tenant__c": "false",
-      "LLC_BI__Spread_Statement_Template__c": "a19bn000001uMdmAAE",
+      "LLC_BI__Spread_Statement_Template__c": "a55WE00001vjgfQYAQ",
       "LLC_BI__Sq_Feet__c": "",
       "LLC_BI__Tenant_Name__c": "",
       "LLC_BI__Tenant_Type__c": "Commercial",
@@ -131,11 +131,11 @@
       "LLC_BI__Unit__c": "",
       "LLC_BI__lookupKey__c": "adfkjhsdkjhfsdkj234",
       "Name": "a3ubn000000Fe0R",
-      "OwnerId": "005bn000003k2JdAAI"
+      "OwnerId": "005al00000RVvFOAA1"
     },
     "4": {
-      "Id": "a3ubn000000Fe0NAAS",
-      "IsDeleted": "",
+      "Id": "a5LWE000000bFjI2AU",
+      "IsDeleted": "false",
       "LLC_BI__Annual_Income__c": "",
       "LLC_BI__Area_Measurement__c": "",
       "LLC_BI__Break_Date__c": "",
@@ -154,7 +154,7 @@
       "LLC_BI__Rent_Roll__c": "",
       "LLC_BI__Scenario__c": "",
       "LLC_BI__Searchable_Tenant__c": "false",
-      "LLC_BI__Spread_Statement_Template__c": "a19bn000001uMdkAAE",
+      "LLC_BI__Spread_Statement_Template__c": "a55WE00001vjC23YAE",
       "LLC_BI__Sq_Feet__c": "",
       "LLC_BI__Tenant_Name__c": "",
       "LLC_BI__Tenant_Type__c": "Residential",
@@ -164,11 +164,11 @@
       "LLC_BI__Unit__c": "",
       "LLC_BI__lookupKey__c": "alskjdfhasldkjfha234u2",
       "Name": "a3ubn000000Fe0T",
-      "OwnerId": "005bn000003k2JdAAI"
+      "OwnerId": "005al00000RVvFOAA1"
     },
     "5": {
-      "Id": "a3ubn000000Fe0OAAS",
-      "IsDeleted": "",
+      "Id": "a5LWE000000bFjJ2AU",
+      "IsDeleted": "false",
       "LLC_BI__Annual_Income__c": "",
       "LLC_BI__Area_Measurement__c": "",
       "LLC_BI__Break_Date__c": "",
@@ -187,7 +187,7 @@
       "LLC_BI__Rent_Roll__c": "",
       "LLC_BI__Scenario__c": "",
       "LLC_BI__Searchable_Tenant__c": "false",
-      "LLC_BI__Spread_Statement_Template__c": "a19bn000001uMdlAAE",
+      "LLC_BI__Spread_Statement_Template__c": "a55WE00001vjgeiYAA",
       "LLC_BI__Sq_Feet__c": "",
       "LLC_BI__Tenant_Name__c": "",
       "LLC_BI__Tenant_Type__c": "Commercial",
@@ -197,11 +197,11 @@
       "LLC_BI__Unit__c": "",
       "LLC_BI__lookupKey__c": "asdfadsfsdf11231",
       "Name": "a3ubn000000Fe0U",
-      "OwnerId": "005bn000003k2JdAAI"
+      "OwnerId": "005al00000RVvFOAA1"
     },
     "6": {
-      "Id": "a3ubn000000Fe0MAAS",
-      "IsDeleted": "",
+      "Id": "a5LWE000000bFjK2AU",
+      "IsDeleted": "false",
       "LLC_BI__Annual_Income__c": "",
       "LLC_BI__Area_Measurement__c": "",
       "LLC_BI__Break_Date__c": "",
@@ -220,7 +220,7 @@
       "LLC_BI__Rent_Roll__c": "",
       "LLC_BI__Scenario__c": "",
       "LLC_BI__Searchable_Tenant__c": "false",
-      "LLC_BI__Spread_Statement_Template__c": "a19bn000001uMdmAAE",
+      "LLC_BI__Spread_Statement_Template__c": "a55WE00001vjgfQYAQ",
       "LLC_BI__Sq_Feet__c": "",
       "LLC_BI__Tenant_Name__c": "",
       "LLC_BI__Tenant_Type__c": "Residential",
@@ -230,7 +230,7 @@
       "LLC_BI__Unit__c": "",
       "LLC_BI__lookupKey__c": "uiwernfnjdjehfej234",
       "Name": "a3ubn000000Fe0S",
-      "OwnerId": "005bn000003k2JdAAI"
+      "OwnerId": "005al00000RVvFOAA1"
     }
   }
 }

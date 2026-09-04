@@ -7,24 +7,26 @@
     "Name",
     "LLC_BI__Description__c",
     "LLC_BI__End_Date__c",
-    "LLC_BI__Is_Template__c",
-    "LLC_BI__Start_Date__c",
-    "LLC_BI__lookupKey__c",
-    "LLC_BI__Is_Disabled__c",
-    "LLC_BI__Show_Footnotes__c",
-    "LLC_BI__Selected_Scale__c",
-    "LLC_BI__Object_API_Name__c",
-    "LLC_BI__Source_Template__c",
+    "LLC_BI__Has_Period_Grouping__c",
     "LLC_BI__Is_Consolidation__c",
+    "LLC_BI__Is_Disabled__c",
+    "LLC_BI__Is_Template__c",
+    "LLC_BI__Migration_Target__c",
+    "LLC_BI__Object_API_Name__c",
+    "LLC_BI__Selected_Scale__c",
+    "LLC_BI__Show_Footnotes__c",
+    "LLC_BI__Source_Template__c",
+    "LLC_BI__Start_Date__c",
     "LLC_BI__Version__c",
-    "LLC_BI__Migration_Target__c"
+    "LLC_BI__lookupKey__c"
   ],
   "records": {
     "1": {
-      "Id": "a1Gbn00002PhBaTEAV",
-      "IsDeleted": "",
+      "Id": "a5VWE0000048GDN2A2",
+      "IsDeleted": "false",
       "LLC_BI__Description__c": "Use this Template for Tax Return Spreading only. 1120 S-Corp with 8825 Schedule and Debt Schedule 2023",
       "LLC_BI__End_Date__c": "",
+      "LLC_BI__Has_Period_Grouping__c": "false",
       "LLC_BI__Is_Consolidation__c": "false",
       "LLC_BI__Is_Disabled__c": "false",
       "LLC_BI__Is_Template__c": "true",
@@ -37,13 +39,14 @@
       "LLC_BI__Version__c": "",
       "LLC_BI__lookupKey__c": "00000103_1748_4885",
       "Name": "1120 S Corp Template",
-      "OwnerId": "005bn000003k2JdAAI"
+      "OwnerId": "005al00000RVvFOAA1"
     },
     "2": {
-      "Id": "a1Gbn00002PhBaWEAV",
-      "IsDeleted": "",
+      "Id": "a5VWE0000048GDO2A2",
+      "IsDeleted": "false",
       "LLC_BI__Description__c": "Commercial Template with Complex Balance Sheet Layout (FLEX) w. Debt Schedule. PSO Master 2023",
       "LLC_BI__End_Date__c": "",
+      "LLC_BI__Has_Period_Grouping__c": "false",
       "LLC_BI__Is_Consolidation__c": "false",
       "LLC_BI__Is_Disabled__c": "false",
       "LLC_BI__Is_Template__c": "true",
@@ -56,13 +59,14 @@
       "LLC_BI__Version__c": "",
       "LLC_BI__lookupKey__c": "00000128_A8AC_4419",
       "Name": "Complex Commercial",
-      "OwnerId": "005bn000003k2JdAAI"
+      "OwnerId": "005al00000RVvFOAA1"
     },
     "3": {
-      "Id": "a1Gbn00002PhBaSEAV",
-      "IsDeleted": "",
+      "Id": "a5VWE0000048GDP2A2",
+      "IsDeleted": "false",
       "LLC_BI__Description__c": "Individual Template with abbreviated Cash Flow Schedules. Final.",
       "LLC_BI__End_Date__c": "",
+      "LLC_BI__Has_Period_Grouping__c": "false",
       "LLC_BI__Is_Consolidation__c": "false",
       "LLC_BI__Is_Disabled__c": "false",
       "LLC_BI__Is_Template__c": "true",
@@ -75,13 +79,14 @@
       "LLC_BI__Version__c": "",
       "LLC_BI__lookupKey__c": "00000131_86CD_4675",
       "Name": "Individual with Cash Flow Schedules",
-      "OwnerId": "005bn000003k2JdAAI"
+      "OwnerId": "005al00000RVvFOAA1"
     },
     "4": {
-      "Id": "a1Gbn00002PhBaYEAV",
-      "IsDeleted": "",
+      "Id": "a5VWE0000048GDQ2A2",
+      "IsDeleted": "false",
       "LLC_BI__Description__c": "Use this Template for Tax Return Spreading only. 1065 Partnership with 8825 Schedule and Debt Schedule 2023",
       "LLC_BI__End_Date__c": "",
+      "LLC_BI__Has_Period_Grouping__c": "false",
       "LLC_BI__Is_Consolidation__c": "false",
       "LLC_BI__Is_Disabled__c": "false",
       "LLC_BI__Is_Template__c": "true",
@@ -94,13 +99,14 @@
       "LLC_BI__Version__c": "",
       "LLC_BI__lookupKey__c": "00000142_4AAC_4737",
       "Name": "1065 Partnership Spreads Template",
-      "OwnerId": "005bn000003k2JdAAI"
+      "OwnerId": "005al00000RVvFOAA1"
     },
     "5": {
-      "Id": "a1Gbn00002PhBaUEAV",
-      "IsDeleted": "",
+      "Id": "a5VWE0000048GDR2A2",
+      "IsDeleted": "false",
       "LLC_BI__Description__c": "Individual FLEX Template Full Schedules",
       "LLC_BI__End_Date__c": "",
+      "LLC_BI__Has_Period_Grouping__c": "false",
       "LLC_BI__Is_Consolidation__c": "false",
       "LLC_BI__Is_Disabled__c": "false",
       "LLC_BI__Is_Template__c": "true",
@@ -113,13 +119,14 @@
       "LLC_BI__Version__c": "",
       "LLC_BI__lookupKey__c": "0000014F_5587_4584",
       "Name": "Individual with Full Schedules",
-      "OwnerId": "005bn000003k2JdAAI"
+      "OwnerId": "005al00000RVvFOAA1"
     },
     "6": {
-      "Id": "a1Gbn00002PhBaXEAV",
-      "IsDeleted": "",
+      "Id": "a5VWE0000048GDS2A2",
+      "IsDeleted": "false",
       "LLC_BI__Description__c": "Use this template for Retail, Office, Industrial, Non-Residential Mixed-Use Collateral (Square Footage). Final for PSO Master May 2023",
       "LLC_BI__End_Date__c": "",
+      "LLC_BI__Has_Period_Grouping__c": "false",
       "LLC_BI__Is_Consolidation__c": "false",
       "LLC_BI__Is_Disabled__c": "false",
       "LLC_BI__Is_Template__c": "true",
@@ -132,13 +139,14 @@
       "LLC_BI__Version__c": "",
       "LLC_BI__lookupKey__c": "00000150_0CC9_4520",
       "Name": "Commercial Real Estate Analysis (FLEX)",
-      "OwnerId": "005bn000003k2JdAAI"
+      "OwnerId": "005al00000RVvFOAA1"
     },
     "7": {
-      "Id": "a1Gbn00002PhBaREAV",
-      "IsDeleted": "",
+      "Id": "a5VWE0000048GDT2A2",
+      "IsDeleted": "false",
       "LLC_BI__Description__c": "Agriculture Template with Schedules",
       "LLC_BI__End_Date__c": "",
+      "LLC_BI__Has_Period_Grouping__c": "false",
       "LLC_BI__Is_Consolidation__c": "false",
       "LLC_BI__Is_Disabled__c": "false",
       "LLC_BI__Is_Template__c": "true",
@@ -151,13 +159,14 @@
       "LLC_BI__Version__c": "",
       "LLC_BI__lookupKey__c": "00000151_9138_4416",
       "Name": "Agriculture Owner/Operator Template",
-      "OwnerId": "005bn000003k2JdAAI"
+      "OwnerId": "005al00000RVvFOAA1"
     },
     "8": {
-      "Id": "a1Gbn00002PhBaVEAV",
-      "IsDeleted": "",
+      "Id": "a5VWE0000048GDU2A2",
+      "IsDeleted": "false",
       "LLC_BI__Description__c": "Small Business Precision Template (FLEX). PSO Master 2023",
       "LLC_BI__End_Date__c": "",
+      "LLC_BI__Has_Period_Grouping__c": "false",
       "LLC_BI__Is_Consolidation__c": "false",
       "LLC_BI__Is_Disabled__c": "false",
       "LLC_BI__Is_Template__c": "true",
@@ -170,13 +179,14 @@
       "LLC_BI__Version__c": "",
       "LLC_BI__lookupKey__c": "00000171_E3B8_4847",
       "Name": "Small Business",
-      "OwnerId": "005bn000003k2JdAAI"
+      "OwnerId": "005al00000RVvFOAA1"
     },
     "9": {
-      "Id": "a1Gbn00002PhBaQEAV",
-      "IsDeleted": "",
+      "Id": "a5VWE000003uJeN2AU",
+      "IsDeleted": "false",
       "LLC_BI__Description__c": "Use this template for hotel property analysis.",
       "LLC_BI__End_Date__c": "",
+      "LLC_BI__Has_Period_Grouping__c": "false",
       "LLC_BI__Is_Consolidation__c": "false",
       "LLC_BI__Is_Disabled__c": "false",
       "LLC_BI__Is_Template__c": "true",
@@ -189,13 +199,14 @@
       "LLC_BI__Version__c": "",
       "LLC_BI__lookupKey__c": "04C882A0_6426_4F59",
       "Name": "Hotel Analysis Template",
-      "OwnerId": "005bn000003k2JdAAI"
+      "OwnerId": "005al00000RVvFOAA1"
     },
     "10": {
-      "Id": "a1Gbn00002PhBaJEAV",
-      "IsDeleted": "",
+      "Id": "a5VWE000003uJeS2AU",
+      "IsDeleted": "false",
       "LLC_BI__Description__c": "Individual Template (FLEX)",
       "LLC_BI__End_Date__c": "",
+      "LLC_BI__Has_Period_Grouping__c": "false",
       "LLC_BI__Is_Consolidation__c": "false",
       "LLC_BI__Is_Disabled__c": "false",
       "LLC_BI__Is_Template__c": "true",
@@ -208,13 +219,14 @@
       "LLC_BI__Version__c": "",
       "LLC_BI__lookupKey__c": "1755293B_6724_4570",
       "Name": "Individual (FLEX)",
-      "OwnerId": "005bn000003k2JdAAI"
+      "OwnerId": "005al00000RVvFOAA1"
     },
     "11": {
-      "Id": "a1Gbn00002PhBaMEAV",
-      "IsDeleted": "",
+      "Id": "a5VWE000003uJeX2AU",
+      "IsDeleted": "false",
       "LLC_BI__Description__c": "Commercial Template with Complex Balance Sheet Layout (FLEX)",
       "LLC_BI__End_Date__c": "",
+      "LLC_BI__Has_Period_Grouping__c": "false",
       "LLC_BI__Is_Consolidation__c": "false",
       "LLC_BI__Is_Disabled__c": "false",
       "LLC_BI__Is_Template__c": "true",
@@ -227,13 +239,14 @@
       "LLC_BI__Version__c": "",
       "LLC_BI__lookupKey__c": "31186C31_3F7C_486E",
       "Name": "Complex Commercial FLEX",
-      "OwnerId": "005bn000003k2JdAAI"
+      "OwnerId": "005al00000RVvFOAA1"
     },
     "12": {
-      "Id": "a1Gbn00002PhBaNEAV",
-      "IsDeleted": "",
+      "Id": "a5VWE000003uJeY2AU",
+      "IsDeleted": "false",
       "LLC_BI__Description__c": "Use this template for residential real estate analysis.",
       "LLC_BI__End_Date__c": "",
+      "LLC_BI__Has_Period_Grouping__c": "false",
       "LLC_BI__Is_Consolidation__c": "false",
       "LLC_BI__Is_Disabled__c": "false",
       "LLC_BI__Is_Template__c": "true",
@@ -246,13 +259,14 @@
       "LLC_BI__Version__c": "",
       "LLC_BI__lookupKey__c": "3D1931A5_41B2_4748",
       "Name": "Residential Real Estate Analysis Template",
-      "OwnerId": "005bn000003k2JdAAI"
+      "OwnerId": "005al00000RVvFOAA1"
     },
     "13": {
-      "Id": "a1Gbn00002PhBaKEAV",
-      "IsDeleted": "",
+      "Id": "a5VWE000003uJeb2AE",
+      "IsDeleted": "false",
       "LLC_BI__Description__c": "Small Business Precision Template (FLEX)",
       "LLC_BI__End_Date__c": "",
+      "LLC_BI__Has_Period_Grouping__c": "false",
       "LLC_BI__Is_Consolidation__c": "false",
       "LLC_BI__Is_Disabled__c": "false",
       "LLC_BI__Is_Template__c": "true",
@@ -265,13 +279,14 @@
       "LLC_BI__Version__c": "",
       "LLC_BI__lookupKey__c": "4D525D4A_264E_4536",
       "Name": "Small Business (FLEX)",
-      "OwnerId": "005bn000003k2JdAAI"
+      "OwnerId": "005al00000RVvFOAA1"
     },
     "14": {
-      "Id": "a1Gbn00002PhBaLEAV",
-      "IsDeleted": "",
+      "Id": "a5VWE000003uJed2AE",
+      "IsDeleted": "false",
       "LLC_BI__Description__c": "Commercial  Precision Template with Simple Balance Sheet Layout (FLEX)",
       "LLC_BI__End_Date__c": "",
+      "LLC_BI__Has_Period_Grouping__c": "false",
       "LLC_BI__Is_Consolidation__c": "false",
       "LLC_BI__Is_Disabled__c": "false",
       "LLC_BI__Is_Template__c": "true",
@@ -284,13 +299,14 @@
       "LLC_BI__Version__c": "",
       "LLC_BI__lookupKey__c": "573E2A37_4400_4124",
       "Name": "Commercial (FLEX)",
-      "OwnerId": "005bn000003k2JdAAI"
+      "OwnerId": "005al00000RVvFOAA1"
     },
     "15": {
-      "Id": "a1Gbn00002PhBaPEAV",
-      "IsDeleted": "",
+      "Id": "a5VWE000003uJef2AE",
+      "IsDeleted": "false",
       "LLC_BI__Description__c": "Use this template for properties that have multiple types of tenants (commercial, residential, etc).",
       "LLC_BI__End_Date__c": "",
+      "LLC_BI__Has_Period_Grouping__c": "false",
       "LLC_BI__Is_Consolidation__c": "false",
       "LLC_BI__Is_Disabled__c": "false",
       "LLC_BI__Is_Template__c": "true",
@@ -303,13 +319,14 @@
       "LLC_BI__Version__c": "",
       "LLC_BI__lookupKey__c": "9BF2496F_E6FD_4E11",
       "Name": "Mixed-Use Property Analysis Template",
-      "OwnerId": "005bn000003k2JdAAI"
+      "OwnerId": "005al00000RVvFOAA1"
     },
     "16": {
-      "Id": "a1Gbn00002PhBaOEAV",
-      "IsDeleted": "",
+      "Id": "a5VWE000003uJeg2AE",
+      "IsDeleted": "false",
       "LLC_BI__Description__c": "Use this template for retail real estate analysis.",
       "LLC_BI__End_Date__c": "",
+      "LLC_BI__Has_Period_Grouping__c": "false",
       "LLC_BI__Is_Consolidation__c": "false",
       "LLC_BI__Is_Disabled__c": "false",
       "LLC_BI__Is_Template__c": "true",
@@ -322,7 +339,7 @@
       "LLC_BI__Version__c": "",
       "LLC_BI__lookupKey__c": "C6C30EDB_4294_4FA7",
       "Name": "Retail Real Estate Analysis Template",
-      "OwnerId": "005bn000003k2JdAAI"
+      "OwnerId": "005al00000RVvFOAA1"
     }
   }
 }
