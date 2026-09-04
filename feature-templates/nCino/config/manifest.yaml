@@ -10,3 +10,10 @@ packageDirectories:
           versions:
             '1.0':
               modifiedDate: '2026-08-31 07:35:26'
+        10tQjI17-Brands:
+          path: dataset/10tQjI17-Brands
+          prefix: ncino
+          standardFeature: true
+          versions:
+            Rel 2024_07 v1:
+              modifiedDate: '2026-09-04 10:15:00'
